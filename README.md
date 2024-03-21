@@ -1,6 +1,6 @@
 # QA-Furhat
 # Docs
- [Project Overview](Documents/Project%20Overview.pdf) | [Product Requirements](Documents/Product%20requirements.pdf) | [Meetings](Documents/Meeting%20Notes) | [Technical Details](Documents/Technical%20Details.pdf) | [Plan](Documents/Plan%20for%20Sprint%202%20&%203.pdf) 
+ [Project Overview](Documents/Project%20Overview.pdf) | [Product Requirements](Documents/Product%20requirements.pdf) | [Technical Details](Documents/Technical%20Details.pdf) | [Plan](Documents/Plan%20for%20Sprint%202%20&%203.pdf) 
 # Table of Contents
 
 - [Project Overview](#project-overview)
