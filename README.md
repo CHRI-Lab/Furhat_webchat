@@ -121,14 +121,6 @@ Branch naming rule: feature/release/hotfix/branch name.
 - **Tagging**: When releasing a new version on the `main` branch, use Git tags to record the version number.
 - **Release steps**: After completing the final tests, merge the `release/*` branch into both `main` and `develop`, then tag on the `main` branch.
 
-## Continuous Integration/Continuous Deployment (CI/CD) Process
-
-This project uses GitHub Actions for CI/CD, which includes:
-
-- **Automated testing**: Automatically run unit tests and integration tests with each commit to `develop` or `feature/*` branches.
-- **Automated build**: Automatically build the project when merged into the `main` branch.
-- **Automated deployment**: Automatically deploy to the production environment after a successful build.
-
 ## Issue Tracking and Handling
 
 - **Reporting issues**: Use GitHub Issues to report problems.
