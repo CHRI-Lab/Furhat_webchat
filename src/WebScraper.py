@@ -7,7 +7,7 @@ from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAIEmbeddings
 import openai
 
-openai.api_key = "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"
+openai.api_key = "PUT YOUR OPENAI KEY HERE"
 os.environ["OPENAI_API_KEY"] = openai.api_key
 #chat = ChatOpenAI(model="gpt-3.5-turbo-1106", temperature=0.2)
 
