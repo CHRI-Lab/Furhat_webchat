@@ -19,9 +19,7 @@ loader = WebBaseLoader("https://melbconnect.com.au/about")
 data = loader.load()
 
 # TODO: Filter the data
-
 # TODO: Choose the best split method and the best chunk_size
-
 
 # Split the text into chunks
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=300)
