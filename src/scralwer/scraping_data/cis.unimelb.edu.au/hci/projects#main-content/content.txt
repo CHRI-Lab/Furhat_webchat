@@ -1,0 +1,764 @@
+URL: https://cis.unimelb.edu.au/hci/projects#main-content
+
+
+
+
+
+
+
+
+Projects: Human-Computer Interaction, School of Computing and Information Systems, The University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+School of Computing and Information Systems
+
+
+
+Human-Computer Interaction
+
+
+
+Projects
+
+
+
+
+
+
+
+Projects
+
+
+
+
+
+
+
+
+
+
+Adaptive learning technologies
+Exploring how AI and machine learning can make inferences about students’ progress and adapt interfaces to tailor the learning experience to each student.
+
+
+
+
+
+
+Ageing and avatars
+This project aims to identify how NUI technologies can be designed and used to facilitate active social participation for older people constrained by limited mobility.
+
+
+
+
+
+
+AI-enabled assistance for strategic planning in games
+Developing a coherent understanding of the role of Autonomous Analyst instances for human-agent teaming for playing complex games.
+
+
+
+
+
+
+Biometric Mirror
+This project investigates the public attitudes towards the display of artificial intelligence data in public space.
+
+
+
+
+
+
+Centre for Research Excellence in Digital Technology to Transform Chronic Disease Outcomes
+We leverage the ubiquitous availability of smart devices and digital technology to improve the health and wellbeing of the population, particularly those with different chronic conditions.
+
+
+
+
+
+
+Changing views
+Looking at how people experience information and technology when changing their viewpoint on issues of importance to them.
+
+
+
+
+
+
+Child of Now
+Child of Now combines original storytelling, animation, immersive sound design, built environments, and virtual reality from an extraordinary team of leading Australian artists and IT professionals.
+
+
+
+
+
+
+Citizen Heritage
+We are investigating how digital technologies enable citizens of local areas to document and share memories and records of their collective past. Our main focus is on the development and study of PastPort, a mobile webapp for residents and visitors of Port Melbourne in inner Melbourne, an area of rich and disparate urban history.
+
+
+
+
+
+
+Cognitive interaction
+We are developing new technologies for augmenting human cognitive abilities. We employ novel sensing technologies such as eye tracking and thermal imaging to infer users’ intention and cognitive states to design interactions that adapt and respond to these states accordingly.
+
+
+
+
+
+
+Communities over the airwaves
+This project based in Arts at the University of Melbourne is studying the role of community radio in supporting the culture and wellbeing of emerging migrant communities in Australia. Staff: Greg Wadley. Funding source: Creativity and Wellbeing Hallmark Research Initiative
+
+
+
+
+
+
+Conceptualising and measuring digital emotion regulation
+This project investigates how (and where, when and why) people use digital technologies to shape their emotional states. We plan to develop an evidence-based framework for understanding “digital emotion regulation” in everyday settings.
+
+
+
+
+
+
+Covid-19 mobility analysis
+Our group has analysed the mobility data released by Facebook during the Covid-19 crisis. The analysis shows global trends, and national trends for multiple countries.
+
+
+
+
+
+
+Crowdsourcing
+In this project we develop technologies, methods, techniques to improve the quality of generated crowd knowledge. Wisdom of the Crowd refers to a deceptively simple idea: large groups of people are smarter than an elite few, no matter how brilliant – better at solving problems, fostering innovation, coming to wise decisions, even predicting the future.
+
+
+
+
+
+
+Death and technology
+A long-running program of research exploring how digital technologies are increasingly used to commemorate, memorialise and dispose of the dead. Conducted by human-computer interaction, anthropology and social science researchers from the University of Melbourne and the University of Oxford in collaboration with industry partners.
+
+
+
+
+
+
+Deceptive AI
+Can computers deceive people? It is clear that computers be used as tools for people to deceive each other (fake news, phishing, etc), but is it possible for a specially designed AI agent to engage in strategic deception?
+
+
+
+
+
+
+Digital domesticity
+Tracing the origins of domestic digital developments with two decades of empirical fieldwork and ethnographic investigation.
+
+
+
+
+
+
+
+
+
+
+
+
+Emerging technologies for enrichment in old age
+This project will investigate older adults’ experiences with emerging technologies, such as virtual reality, social robots, and online games, which are believed to offer social benefits for those in advanced old age. Through in-depth investigations, the project aims to identify strategies for good practice in the design and deployment of these emerging technologies for enrichment in old age.
+
+
+
+
+
+
+Ethics and digital games
+Our goal is to better define and understand the overlapping norms and values that develop around digital gameplay.
+
+
+
+
+
+
+Evaluation of natural user interfaces in query auto-completion
+This project examines multiple design and effectiveness aspects of current and future web search systems, with an emphasis on experiences that support mobility via smartphones, tablets or augmented reality systems.
+
+
+
+
+
+
+Examining the ‘digital’ in hybrid digital boardgames
+This project aims to understand how digital technology is being used to enhance, support and extend commercial boardgames through creation of ‘hybrid’ digital-physical boardgames.
+
+
+
+
+
+
+Human-Centred Agent Learning
+The project explores how technologies can support novice users to train and teach an agent or robot. The team is developing novel interfaces and integrates theories from instructional sciences and gamification to allow humans to be better robot teachers.
+
+
+
+
+
+
+Insertable technology for human interactions
+This project investigates insertables: devices that go under the skin for non-medical purposes. A small but growing group are choosing to augment their senses by voluntarily inserting devices inside their bodies. This research will help us to understand why people are doing this and the implications for human-technology interactions.
+
+
+
+
+
+
+Interactive spaces and media architecture
+Exploring opportunities for interactive media to enliven building facades and cultural spaces in the University of Melbourne’s new Innovation Precinct.
+
+
+
+
+
+
+Kinecting with orang-utans
+In collaboration with Zoos Victoria, this project designed and studied an interactive digital system to enrich and empower the lives of orang-utans at Melbourne Zoo.
+
+
+
+
+
+
+Living Archive of Aboriginal Art
+This project based in Culture and Communication at the University of Melbourne is designing a technology-based accessible archive of work in conjunction with prominent Aboriginal artist Maree Clarke. Staff: Greg Wadley. Funding source: Melbourne Social Equity Institute
+
+
+
+
+
+
+Moderated online social therapy for youth mental health
+This long-running project based at Orygen Youth Health is building and testing online mental health interventions. Our flagship platform is currently being rolled out Victoria-wide to help young people during the Covid pandemic. Staff: Simon D’Alfonso, Reeva Lederman, Greg Wadley. Funding source: Victorian Government, NHMRC
+
+
+
+
+
+
+MRFF Million Minds
+Bringing family, community, culture and country to indigenous youth mental health care. A multi-university project based in Victoria and Western Australia that is addressing the crisis in Aboriginal youth mental health. We aim to improve young people’s engagement with mental health services.
+
+
+
+
+
+
+Multimodal human–agent collaboration
+Improving human-agent interactions through gaze input and other collaborative modalities.
+
+
+
+
+
+
+Music streaming and algorithmic recommendation
+Investigating how music streaming platforms change the way we find, discover and interact with music.
+
+
+
+
+
+
+Near-infrared spectroscopy
+Our research aims to improve the accessibility of Near Infrared Spectroscopy (NIRS) devices for non-expert end-users and to explore novel application domains for the technology.
+
+
+
+
+
+
+Orygen Virtual World Project
+A virtual world platform bringing to life a new age of digitally enhanced youth mental health care services.
+
+
+
+
+
+
+Personal sensing for mental health and wellbeing
+We are researching the use of ubiquitous computing and personal device sensing to monitor mental health and to inform mental health care and digital interventions.
+
+
+
+
+
+
+
+
+
+
+
+
+Personal sensing for mental health and wellbeing
+We are researching the use of ubiquitous computing and personal device sensing to monitor mental health and to inform mental health care and digital interventions.
+
+
+
+
+
+
+Reading on ubiquitous devices
+Reading in a digital world: building new reading experiences and measuring reading behaviour in-the-wild.
+
+
+
+
+
+
+Remote but Connected
+A co-created digital platform to enable caregivers to support independent living for people with disability in the face of Covid-19.
+
+
+
+
+
+
+Robot Assisted Learning and Rehabilitation
+This project investigates how robots could be designed to assist learners and patients to acquire or reacquire new skills.
+
+
+
+
+
+
+Smart Hospital Living Lab
+An umbrella program involving multiple technology projects at the University of Melbourne in partnership with hospitals and industry. The main purpose of the lab is to improve how hospitals run.
+
+
+
+
+
+
+Smartphones for science
+We are developing software to enable scientists to use smartphones as a reliable scientific instrument. Our project has a wide range of activities, including how to make it easier to collect data from smartphones, as well as how to analyse sensor data on smartphones and other mobile or wearable gadgets.
+
+
+
+
+
+
+Social and Domestic Drones 
+Our team is exploring the potential of small drones in indoor scenarios. We are particularly interested in designing social cues for safe drone navigation in domestic environments.
+
+
+
+
+
+
+Social play in immersive gaming environments
+This project investigates how voice, gaze and gesture affects a gamer’s experience such as immersion, embodiment, identity and control.
+
+
+
+
+
+
+Social robots and virtual assistants for older people
+This project investigates how voice, gaze and gesture affects a gamer’s experience such as immersion, embodiment, identity and control.
+
+
+
+
+
+
+Spectating eSports and Let’s Play
+Exploring the experience not of playing games but of watching them, where gameplay becomes a new form of viewing entertainment.*
+
+
+
+
+
+
+ #thismymob
+Establishing digital land rights and reconnecting indigenous communities through emerging technologies. This project designed and trialled smartphone apps with urban, regional and remote Australian Indigenous communities, and implemented telehealth in regional communities in response to the Covid pandemic.
+
+
+
+
+
+
+Virtual co-presence
+‘Teleporting’ collaborators into each other’s spatial environments to enable an immersive sense of being in each other’s physical presence.
+
+
+
+
+
+
+
+
+
+
+
+
+Virtual Reality and climate change communication
+Using a purpose-built VR app which places the user in a dystopian future where rising sea-levels are impacting familiar urban scenes in Melbourne we investigate how immersive VR experiences can provoke discussion and engagement around climate change in the public domain.
+
+
+
+
+
+
+Virtual reality for nature-based mindfulness
+This study aimed to explore how VR can support mindfulness practice and to understand user experience issues that may affect the acceptability and efficacy of VR mindfulness for users in the general population.
+
+
+
+
+
+
+Western e-HEaLth patient information portal for Pregnancy (WeHELP)
+This project, based at the Melbourne Medical School, designed and trialled a smartphone-based pregnancy support intervention for women and families from culturally and linguistically diverse communities in Melbourne’s western suburbs. Staff: Wally Smith, Greg Wadley
+
+
+
+
+
+
+XR for Human-Robot Interaction
+This project investigates how mixed reality technology could be used to facilitate the human-robot communication looking in particular at data visualisation and robot augmented embodiment.
+
+
+
+
+
+Completed projects
+
+
+
+
+Email Contact us
+Faculty of Engineering and Information Technology
+Engineering & IT Students
+Staff only: FEIT Intranet
+
+
+
+
+
+
+
+School of Computing and Information Systems
+About us
+About the School
+Life in Melbourne
+Alumni profiles
+Casual tutor, demonstrator, marker and project team supervisor opportunities
+CSIRAC: Our first computer
+CSIRAC’s vital statistics
+CSIRAC chronology
+CSIRAC design
+How did CSIRAC work?: Storage
+How did CSIRAC work?: Console
+CSIRAC uses
+CSIRAC: Designers
+The music of CSIRAC
+CSIRAC emulator
+Jurij Semkiw
+CSIRAC and computer history links
+The Last of the First, CSIRAC: Australia’s First Computer
+CSIRAC photo gallery
+The history of computing at the University of Melbourne
+History of computing in the department
+Starting the Department of Information Systems
+Early internet
+Memories of the department
+Programming
+Student life in the department
+Women in computing
+CIS Doctoral Colloquium
+2023 CIS Doctoral Colloquium
+Submission Guidelines
+Colloquium Photos
+2022 CIS Doctoral Colloquium
+Submission Guidelines
+Program_open
+Participation and Awards
+Volunteers and Judges
+CISDC 2022 Photos
+2019 CIS Doctoral Colloquium
+2018 CIS Doctoral Colloquium
+2017 CIS Doctoral Colloquium
+2016 CIS Doctoral Colloquium
+2015 CIS Doctoral Colloquium
+2014 CIS Doctoral Colloquium
+2013 CIS Doctoral Colloquium
+Keynote speaker
+Colloquium sponsors
+Committee
+Call for papers
+Application_closed
+Submission_info
+Program_pending
+Program_open
+Alumni
+Registration_pending
+Industry
+Research collaboration
+Cyber attack maps to underpin better strategic responses
+Surgeons gain implant expertise with virtual training
+Informatics analyses value in digital health technologies
+Data contrasting highlights changing use of city
+Online community designed to support mental health for young people
+Satisfaction score to improve quality of internet search results
+Supply chain scheduling keeps automated mining operations on task
+Combined data adds power to decision-making
+New algorithms help interpret vision loss from digital images
+Host a student intern
+Mentor our students
+Student industry projects
+Become a guest speaker
+News
+2022 news and events
+CIS-EEE Seed Funding
+How data can prevent overdiagnosis
+
+CIS - IE 2022 Research Collaboration Seed Funding
+2021 news and events
+2020 news and events
+2019 news and events
+2023 news and events
+CIS-ME 2023 Seed Funding round
+CIS-IE 2023 Seed Funding round
+People
+Research
+Artificial intelligence
+Graduate Reseachers
+Computer science
+Graduate Researchers
+Digital Health
+Research projects
+Seminars
+Schools
+Study with us
+Undergraduate programs
+Graduate coursework programs
+Graduate research programs
+Industry based learning
+Programming proficiency test
+First Year Centre
+About
+Study with CIS
+Undergraduate programs
+Get help
+People
+Become a tutor
+Contact
+Graduate programs
+Graduate coursework programs
+Graduate research programs
+AI and Autonomy Lab
+News
+People
+Publications
+Research
+Mining and optimisation
+Automated planning languages
+Foundations of human-agent collaboration
+People-oriented software engineering
+Explainable artificial intelligence
+Multimodal human-agent collaboration
+Artificial Intelligence Assurance Lab
+About us
+Research
+Publications
+People
+Industry engagement
+Academic Centre of Cyber Security Excellence (ACCSE)
+Human-Computer Interaction
+Facilities
+User Experience Lab
+Interactive Technologies Lab
+Engineering Workshop
+
+Telstra Creator Space
+
+News and Events
+People
+Staff
+Graduate researchers
+Alumni
+Projects
+Adaptive learning technologies
+Ageing and avatars
+AI-enabled assistance for strategic planning in games
+Wearable technology for arm monitoring in health
+Augmented fitness
+Augmented learning environment for physiotherapy education
+Biometric Mirror
+Changing views
+Citizen Heritage
+Cognition-aware systems
+Cognitive interaction
+Completed projects
+Connecting learners for collaboration across diverse communities
+Cross-community information systems
+Crowdsourcing
+Death and the Internet
+Deceptive AI
+Designing for scale
+Designing technologies for indigenous knowledge
+Digital commemoration
+Digital domesticity
+Conceptualising and measuring digital emotion regulation
+Emerging technologies for enrichment in old age
+Encounters
+Ethics and digital games
+Evaluation of natural user interfaces in query auto-completion
+Examining the ‘digital’ in hybrid digital boardgames
+Exploring complex data sets using highly engaging environments
+Exploring natural user interfaces during meal times
+FaceSpace
+Getting well and being present
+Growing old and staying connected
+HandLog: tangible interactions for game input and rehabilitation
+iFISH
+Improving Vitamin D status and related health in young women
+Insertable technology for human interactions
+Interactive displays
+Interactive spaces and media architecture
+Kinecting with orang-utans
+Mediating intimacy
+Mobile fieldwork and learning
+Multimodal human–agent collaboration
+Music streaming and algorithmic recommendation
+Near-infrared spectroscopy
+Onebody
+Orygen Virtual World Project
+Promoting student peer review in Australian tertiary education
+Personal sensing for mental health and wellbeing
+Pholiota Unlocked
+Reading on ubiquitous devices
+Smart Garden Watering
+Smartphones for science
+Social gaming events: Warhammer 40K
+Social networking sites for ambivalent socialisers
+Social play in immersive gaming environments
+Social robots and virtual assistants for older people
+Sociophysical interactions
+Social Orientated Requirements Engineering
+Spectating eSports and Let’s Play
+SpinalLog
+Supporting social interactions for video calls in the home
+Teleconsultation: enhancing interactions between clinicians and patients
+Virtual co-presence
+Virtual Reality and climate change communication
+VR therapy for youth mental health
+Robot Assisted Learning and Rehabilitation
+XR for Human-Robot Interaction
+Social and Domestic Drones 
+Human-Centred Agent Learning
+Child of Now
+ #thismymob
+Publications
+Research
+Smart Spaces
+Ubiquitous computing
+Digital health
+Digital nature
+Novel interactions
+Design for ageing
+Games and play
+Social computing and communities
+Human information interaction
+Human-Robot Interaction
+Seminars
+Past seminars 2020
+Past seminars 2019
+Past seminars 2016–2018
+Past seminars 2011–2015
+Past seminars 2006–2010
+Past seminars 2004–2005
+Study
+HCI programs for potential students
+HCI subjects
+Masters projects
+Potential PhD students
+Information systems
+Process science and technology
+Business analytics and decision making
+Cybersecurity management
+Digital health
+Innovations in the digital society
+Publications
+Contact us
+Current Students
+Library
+Staff
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

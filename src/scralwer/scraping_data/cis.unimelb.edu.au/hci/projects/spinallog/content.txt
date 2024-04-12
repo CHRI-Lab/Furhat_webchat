@@ -1,0 +1,367 @@
+URL: https://cis.unimelb.edu.au/hci/projects/spinallog
+
+
+
+
+
+
+
+
+SpinalLog: Human-Computer Interaction, The University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+School of Computing and Information Systems
+
+
+
+Human-Computer Interaction
+
+
+
+Projects
+
+
+
+SpinalLog
+
+
+
+
+
+
+
+SpinalLog
+
+
+
+
+
+
+This project aims to improve the training of physiotherapy students in spinal manipulation through the use of an interactive device that incorporates pressure sensor technology and enables experiential learning for students.Project overviewPhysiotherapy students are expected to master a range of complex manual skills to safely and effectively assess and treat physical conditions caused by mechanical dysfunctions of the spine. The current method for teaching these skills involves a demonstration by the instructor on a student or skeleton model, followed by students practicing on a peer. Some of the major challenges in learning these techniques include the ability to discern tactile sensations of resistance and the ability to effectively assess the mobility range of the spine. These movements are very subtle and difficult for students to perform and feel in their own practice.This project aims to improve students’ mastery of manual skills in physiotherapy by targeting experiential learning using passive haptic sensor technology. Building on technology previously developed by SocialNUI researchers (eg: HandLog, pictured below), we aim to build a passive haptic device called SpinalLog, which uses conductive foam sensors to measure the pressure being applied to the spine by the whole hand or by individual fingers during a simulated spinal assessment. The HandLog device consists of a hard, plastic cylinder with an outer sleeve made of soft foam which contains sensors that provide a fine-grained assessment of grip strength and grip location. SpinalLog uses similar technology.The passive haptic sensor device represents an evolution of pedagogical practice in physiotherapy and related disciplines, using tangible and passive haptic technology. Students are exposed to authentic simulations of clinical conditions, replicating the conditions of real life patients with different tissues and clinical scenarios, such as swelling. A visual guidance system that enables the students to match their movements to the instructor’s movements provides important feedback for the students in terms of their performance and practice. Students can also visualise the subtle movements demonstrated by the instructor using a force distribution chart in real time. Students’ out of class practice is enhanced with reflective feedback and instructor demonstrations as a bench mark for performance.The project aims to deliver positive learning outcomes for physiotherapy students by accelerating the conversion of theoretical concepts into manual skills for the effective delivery of therapeutic spinal assessments and mobilisation treatment techniques.CollaborationThis project is a collaboration between the Microsoft Research Centre for Social Natural User Interfaces (SocialNUI) in the School of Computing and Information Systems and the Department of Physiotherapy at the University of Melbourne.The project is supported by a University of Melbourne Learning and Teaching Initiative (LTI) Grant 2016.Project teamEduardo Velloso, Lecturer, School of Computing and Information Systems, The University of MelbourneAntony Chacon, Masters of Philosophy student, Microsoft Research Centre for SocialNUI, The University of MelbourneFrank Vetere, Professor, The University of MelbourneThuong Hoang, Lecturer, School of Information Technology, Deakin UniversityLouisa Remedios, Associate Professor, Department of Physiotherapy, The University of MelbourneDavid Kelly, Lecturer, Department of Physiotherapy, The University of MelbourneContact detailsEduardo VellosoEmail eduardo.velloso@unimelb.edu.au
+
+
+
+
+Email Contact us
+Faculty of Engineering and Information Technology
+Engineering & IT Students
+Staff only: FEIT Intranet
+
+
+
+
+
+
+
+School of Computing and Information Systems
+About us
+About the School
+Life in Melbourne
+Alumni profiles
+Casual tutor, demonstrator, marker and project team supervisor opportunities
+CSIRAC: Our first computer
+CSIRAC’s vital statistics
+CSIRAC chronology
+CSIRAC design
+How did CSIRAC work?: Storage
+How did CSIRAC work?: Console
+CSIRAC uses
+CSIRAC: Designers
+The music of CSIRAC
+CSIRAC emulator
+Jurij Semkiw
+CSIRAC and computer history links
+The Last of the First, CSIRAC: Australia’s First Computer
+CSIRAC photo gallery
+The history of computing at the University of Melbourne
+History of computing in the department
+Starting the Department of Information Systems
+Early internet
+Memories of the department
+Programming
+Student life in the department
+Women in computing
+CIS Doctoral Colloquium
+2023 CIS Doctoral Colloquium
+Submission Guidelines
+Colloquium Photos
+2022 CIS Doctoral Colloquium
+Submission Guidelines
+Program_open
+Participation and Awards
+Volunteers and Judges
+CISDC 2022 Photos
+2019 CIS Doctoral Colloquium
+2018 CIS Doctoral Colloquium
+2017 CIS Doctoral Colloquium
+2016 CIS Doctoral Colloquium
+2015 CIS Doctoral Colloquium
+2014 CIS Doctoral Colloquium
+2013 CIS Doctoral Colloquium
+Keynote speaker
+Colloquium sponsors
+Committee
+Call for papers
+Application_closed
+Submission_info
+Program_pending
+Program_open
+Alumni
+Registration_pending
+Industry
+Research collaboration
+Cyber attack maps to underpin better strategic responses
+Surgeons gain implant expertise with virtual training
+Informatics analyses value in digital health technologies
+Data contrasting highlights changing use of city
+Online community designed to support mental health for young people
+Satisfaction score to improve quality of internet search results
+Supply chain scheduling keeps automated mining operations on task
+Combined data adds power to decision-making
+New algorithms help interpret vision loss from digital images
+Host a student intern
+Mentor our students
+Student industry projects
+Become a guest speaker
+News
+2022 news and events
+CIS-EEE Seed Funding
+How data can prevent overdiagnosis
+
+CIS - IE 2022 Research Collaboration Seed Funding
+2021 news and events
+2020 news and events
+2019 news and events
+2023 news and events
+CIS-ME 2023 Seed Funding round
+CIS-IE 2023 Seed Funding round
+People
+Research
+Artificial intelligence
+Graduate Reseachers
+Computer science
+Graduate Researchers
+Digital Health
+Research projects
+Seminars
+Schools
+Study with us
+Undergraduate programs
+Graduate coursework programs
+Graduate research programs
+Industry based learning
+Programming proficiency test
+First Year Centre
+About
+Study with CIS
+Undergraduate programs
+Get help
+People
+Become a tutor
+Contact
+Graduate programs
+Graduate coursework programs
+Graduate research programs
+AI and Autonomy Lab
+News
+People
+Publications
+Research
+Mining and optimisation
+Automated planning languages
+Foundations of human-agent collaboration
+People-oriented software engineering
+Explainable artificial intelligence
+Multimodal human-agent collaboration
+Artificial Intelligence Assurance Lab
+About us
+Research
+Publications
+People
+Industry engagement
+Academic Centre of Cyber Security Excellence (ACCSE)
+Human-Computer Interaction
+Facilities
+User Experience Lab
+Interactive Technologies Lab
+Engineering Workshop
+
+Telstra Creator Space
+
+News and Events
+People
+Staff
+Graduate researchers
+Alumni
+Projects
+Adaptive learning technologies
+Ageing and avatars
+AI-enabled assistance for strategic planning in games
+Wearable technology for arm monitoring in health
+Augmented fitness
+Augmented learning environment for physiotherapy education
+Biometric Mirror
+Changing views
+Citizen Heritage
+Cognition-aware systems
+Cognitive interaction
+Completed projects
+Connecting learners for collaboration across diverse communities
+Cross-community information systems
+Crowdsourcing
+Death and the Internet
+Deceptive AI
+Designing for scale
+Designing technologies for indigenous knowledge
+Digital commemoration
+Digital domesticity
+Conceptualising and measuring digital emotion regulation
+Emerging technologies for enrichment in old age
+Encounters
+Ethics and digital games
+Evaluation of natural user interfaces in query auto-completion
+Examining the ‘digital’ in hybrid digital boardgames
+Exploring complex data sets using highly engaging environments
+Exploring natural user interfaces during meal times
+FaceSpace
+Getting well and being present
+Growing old and staying connected
+HandLog: tangible interactions for game input and rehabilitation
+iFISH
+Improving Vitamin D status and related health in young women
+Insertable technology for human interactions
+Interactive displays
+Interactive spaces and media architecture
+Kinecting with orang-utans
+Mediating intimacy
+Mobile fieldwork and learning
+Multimodal human–agent collaboration
+Music streaming and algorithmic recommendation
+Near-infrared spectroscopy
+Onebody
+Orygen Virtual World Project
+Promoting student peer review in Australian tertiary education
+Personal sensing for mental health and wellbeing
+Pholiota Unlocked
+Reading on ubiquitous devices
+Smart Garden Watering
+Smartphones for science
+Social gaming events: Warhammer 40K
+Social networking sites for ambivalent socialisers
+Social play in immersive gaming environments
+Social robots and virtual assistants for older people
+Sociophysical interactions
+Social Orientated Requirements Engineering
+Spectating eSports and Let’s Play
+SpinalLog
+Supporting social interactions for video calls in the home
+Teleconsultation: enhancing interactions between clinicians and patients
+Virtual co-presence
+Virtual Reality and climate change communication
+VR therapy for youth mental health
+Robot Assisted Learning and Rehabilitation
+XR for Human-Robot Interaction
+Social and Domestic Drones 
+Human-Centred Agent Learning
+Child of Now
+ #thismymob
+Publications
+Research
+Smart Spaces
+Ubiquitous computing
+Digital health
+Digital nature
+Novel interactions
+Design for ageing
+Games and play
+Social computing and communities
+Human information interaction
+Human-Robot Interaction
+Seminars
+Past seminars 2020
+Past seminars 2019
+Past seminars 2016–2018
+Past seminars 2011–2015
+Past seminars 2006–2010
+Past seminars 2004–2005
+Study
+HCI programs for potential students
+HCI subjects
+Masters projects
+Potential PhD students
+Information systems
+Process science and technology
+Business analytics and decision making
+Cybersecurity management
+Digital health
+Innovations in the digital society
+Publications
+Contact us
+Current Students
+Library
+Staff
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

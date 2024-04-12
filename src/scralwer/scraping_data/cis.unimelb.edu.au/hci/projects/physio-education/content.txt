@@ -1,0 +1,406 @@
+URL: https://cis.unimelb.edu.au/hci/projects/physio-education
+
+
+
+
+
+
+
+
+Augmented learning environment for physiotherapy education: Human-Computer Interaction, The University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+School of Computing and Information Systems
+
+
+
+Human-Computer Interaction
+
+
+
+Projects
+
+
+
+Augmented learning environment for physiotherapy education
+
+
+
+
+
+
+
+Augmented learning environment for physiotherapy education
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project overviewPhysiotherapy  is currently taught via multiple modalities, such as lectures, tutorials,  demonstrations and hands-on training in practical classes. However,  physiotherapy students often struggle to translate anatomical knowledge from  textbooks to dynamic understanding of the mechanics of body movements in real  life patients. Moreover, one of the critical skills in physiotherapy, and other  clinical domains, is clinical reasoning. Students must learn to negotiate the  complexity of multiple factors, starting with the mastery of strong domain knowledge, such as human anatomy, to forming hypotheses through patient inquiry  and testing the hypotheses through examination. Clinical reasoning is particularly  difficult to teach because it requires students to critically review clinical  decisions which are often ephemeral and tacit. The best practice for learning  such skills typically involves a class of students observing an expert  therapist conducting a consultation with a real patient (or a surrogate  patient). However, such settings do not make the therapist’s clinical decision making explicitly available to students. One of the major difficulties for  students in learning clinical reasoning is the ability to identify medical cues  to develop diagnostic hypotheses. Augmented  Studio setup in the classroom.This project aims to enhance student learning in physiotherapy via an augmented  learning environment titled the ‘Augmented Studio’ developed using projectors  and Microsoft Kinect sensors to enable projections of an anatomy model onto a  moving body for practical physiotherapy classes. Augmented Studio enables  augmentation through projection mapping to turn a human body into a display  surface, showing anatomical information such as muscles and skeleton in real  time. The moving body of a volunteer student becomes a live canvas for the teacher to illustrate clinical reasoning. Using a tablet interface with pen  input, the instructor can draw annotations directly on the virtual body, which  are rendered in real time on the patient’s body.
+
+
+
+
+
+
+
+
+
+Currently  the instructor uses still photos, figures, and diagrams which do not capture  the real time and complex dynamics of human movements. With the Augmented  Studio, the researchers explore the capability of creating virtual annotations,  to identify certain anatomical structures or to illustrate the joints or muscle  connections to teach students. The annotations enhance teacher and student communication with the purpose of transferring the real life knowledge and  experience of the teacher to a class of students. Teacher and student interact with annotation on the volunteer Augmented  reality based learning and teaching presents an innovative pedagogical practice  delivering benefits to both the staff and the students. The student learning  experience is enhanced in multiple ways with the usage of the augmented reality  learning environment. Augmented kinaesthetic information and instructor annotations support interactive observation for better clinical understanding  of human anatomy and musculoskeletal structures. The ability to track a full  body movement in 3 dimensions and examine the changes throughout the range of  movement will enhance appreciation by students of the dynamic change in the anatomical  configuration of the body.The  project aims to deliver positive learning outcomes for the students by enabling  experiential learning and increased connection with the learning materials,  lessons and the instructor, catering for both tactile and visual learning, and  encouraging cognitive and clinical reasoning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CollaborationThis  project is a collaboration between the Microsoft Research Centre for Social  Natural User Interfaces (SocialNUI) in the School of Computing and Information  Systems and the Department of Physiotherapy at the University of Melbourne.The project is supported by an ARC Discovery  Project (DP130102142) and a University of Melbourne Learning and  Teaching Initiative (LTI) Grant 2016.Project teamHasan Shahid Ferdous, Research Fellow, Microsoft Research Centre for SocialNUI, The University of Melbourne Thuong Hoang, Lecturer, School of Information Technology, Deakin University Frank Vetere, Professor, The University of Melbourne Zaher Joukhadar, Lead Software Engineer, Microsoft Research Centre for SocialNUI, The University of Melbourne Martin Reinoso, PhD Candidate, Microsoft Research Centre for SocialNUI, The University of Melbourne Louisa Remedios, Associate Professor, Department of Physiotherapy, The University of Melbourne David Kelly, Lecturer, Department of Physiotherapy, The University of Melbourne  Egemen Tanin, Associate Professor, School of Computing and Information Systems, The University of MelbourneContact detailsHasan Shahid FerdousPublicationsHoang, T., Ferdous, H., Vetere, F. & Reinoso, M. (2018) Body as a Canvas: An exploration on the role of the body as display of digital information. In Proceedings of the 2018 Designing Interactive Systems (DIS) Conference 2018, pp. 253-263. DOI: 10.1145/3196709.3196724Kelly, D, Hoang, T, Joukhadar,  Z, Reinoso, M, Clements, T & Vetere, F (2017) Usage of an augmented  reality system to facilitate dynamic anatomical understanding for physiotherapy  students. Australian Physiotherapy  Association Conference (APA 2017), Sydney, Australia.Hoang, T, Reinoso, M, Joukhadar,  Z, Vetere, F & Kelly, D (2017) Augmented  Studio: Projection Mapping on Moving Body for Physiotherapy Education. In Proceedings of the 2017 CHI Conference on  Human Factors in Computing Systems, Denver, USA.  [DOI]Hoang, T, Reinoso, M, Vetere, F, & Tanin, E (2016) Onebody: Remote Posture Guidance System using First Person View in Virtual Environment. In Proceedings of Nordic Conference on Human-Computer Interaction, 2016, Gothenburg, SwedenExhibitionsInside Out, an installation which was part of Science Gallery Melbourne’s BLOOD exhibition, explores projection mapping as a novel interaction technique among visitors in a public space. It is an interactive installation that uses the Augmented Studio platform to project an anatomical model of the cardiovascular system onto the visitor’s body in the installation space. Using a wearable Microsoft band, it tracks the visitor’s pulse rate and projects the beating heart and blood flowing through veins & arteries in real-time.Inside Out was on display from 14–18 August 2017, at the University of Melbourne. Approximately 600 visitors interacted with the installation during this exhibition.
+
+
+Mediavice.com, 1 May 2018Predicting The Future is a Real JobAugmented Studio was featured in a video article on vice.com: Body architect and sci fi artist Lucy McRae on where the human race is headed.Exhibition, 15 December – 15 April 2018National Gallery Victoria (NGV) Triennial VoicesAugmented Studio features as part of the NGV’s Triennial, exploring the emerging intersections of art, design, science and society.Health Times, 4 August 2017Augmented reality brings anatomy and human movement to lifeChannel 10, 22 July 2017Scope, Season 4, Episode 5The Daily Mail Australia,  25 May 2017The incredible 'zombie projector' that can virtually peel back the layers of a person to show their skeleton and muscles workingFuturity, 23 May 2017Augmented reality turns live volunteers into anatomy lessonsAugmented Reality Pursuit article re-published on Futurity.Pursuit, 12 April 2017Augmented Reality: Getting under the skin
+
+
+
+
+Email Contact us
+Faculty of Engineering and Information Technology
+Engineering & IT Students
+Staff only: FEIT Intranet
+
+
+
+
+
+
+
+School of Computing and Information Systems
+About us
+About the School
+Life in Melbourne
+Alumni profiles
+Casual tutor, demonstrator, marker and project team supervisor opportunities
+CSIRAC: Our first computer
+CSIRAC’s vital statistics
+CSIRAC chronology
+CSIRAC design
+How did CSIRAC work?: Storage
+How did CSIRAC work?: Console
+CSIRAC uses
+CSIRAC: Designers
+The music of CSIRAC
+CSIRAC emulator
+Jurij Semkiw
+CSIRAC and computer history links
+The Last of the First, CSIRAC: Australia’s First Computer
+CSIRAC photo gallery
+The history of computing at the University of Melbourne
+History of computing in the department
+Starting the Department of Information Systems
+Early internet
+Memories of the department
+Programming
+Student life in the department
+Women in computing
+CIS Doctoral Colloquium
+2023 CIS Doctoral Colloquium
+Submission Guidelines
+Colloquium Photos
+2022 CIS Doctoral Colloquium
+Submission Guidelines
+Program_open
+Participation and Awards
+Volunteers and Judges
+CISDC 2022 Photos
+2019 CIS Doctoral Colloquium
+2018 CIS Doctoral Colloquium
+2017 CIS Doctoral Colloquium
+2016 CIS Doctoral Colloquium
+2015 CIS Doctoral Colloquium
+2014 CIS Doctoral Colloquium
+2013 CIS Doctoral Colloquium
+Keynote speaker
+Colloquium sponsors
+Committee
+Call for papers
+Application_closed
+Submission_info
+Program_pending
+Program_open
+Alumni
+Registration_pending
+Industry
+Research collaboration
+Cyber attack maps to underpin better strategic responses
+Surgeons gain implant expertise with virtual training
+Informatics analyses value in digital health technologies
+Data contrasting highlights changing use of city
+Online community designed to support mental health for young people
+Satisfaction score to improve quality of internet search results
+Supply chain scheduling keeps automated mining operations on task
+Combined data adds power to decision-making
+New algorithms help interpret vision loss from digital images
+Host a student intern
+Mentor our students
+Student industry projects
+Become a guest speaker
+News
+2022 news and events
+CIS-EEE Seed Funding
+How data can prevent overdiagnosis
+
+CIS - IE 2022 Research Collaboration Seed Funding
+2021 news and events
+2020 news and events
+2019 news and events
+2023 news and events
+CIS-ME 2023 Seed Funding round
+CIS-IE 2023 Seed Funding round
+People
+Research
+Artificial intelligence
+Graduate Reseachers
+Computer science
+Graduate Researchers
+Digital Health
+Research projects
+Seminars
+Schools
+Study with us
+Undergraduate programs
+Graduate coursework programs
+Graduate research programs
+Industry based learning
+Programming proficiency test
+First Year Centre
+About
+Study with CIS
+Undergraduate programs
+Get help
+People
+Become a tutor
+Contact
+Graduate programs
+Graduate coursework programs
+Graduate research programs
+AI and Autonomy Lab
+News
+People
+Publications
+Research
+Mining and optimisation
+Automated planning languages
+Foundations of human-agent collaboration
+People-oriented software engineering
+Explainable artificial intelligence
+Multimodal human-agent collaboration
+Artificial Intelligence Assurance Lab
+About us
+Research
+Publications
+People
+Industry engagement
+Academic Centre of Cyber Security Excellence (ACCSE)
+Human-Computer Interaction
+Facilities
+User Experience Lab
+Interactive Technologies Lab
+Engineering Workshop
+
+Telstra Creator Space
+
+News and Events
+People
+Staff
+Graduate researchers
+Alumni
+Projects
+Adaptive learning technologies
+Ageing and avatars
+AI-enabled assistance for strategic planning in games
+Wearable technology for arm monitoring in health
+Augmented fitness
+Augmented learning environment for physiotherapy education
+Biometric Mirror
+Changing views
+Citizen Heritage
+Cognition-aware systems
+Cognitive interaction
+Completed projects
+Connecting learners for collaboration across diverse communities
+Cross-community information systems
+Crowdsourcing
+Death and the Internet
+Deceptive AI
+Designing for scale
+Designing technologies for indigenous knowledge
+Digital commemoration
+Digital domesticity
+Conceptualising and measuring digital emotion regulation
+Emerging technologies for enrichment in old age
+Encounters
+Ethics and digital games
+Evaluation of natural user interfaces in query auto-completion
+Examining the ‘digital’ in hybrid digital boardgames
+Exploring complex data sets using highly engaging environments
+Exploring natural user interfaces during meal times
+FaceSpace
+Getting well and being present
+Growing old and staying connected
+HandLog: tangible interactions for game input and rehabilitation
+iFISH
+Improving Vitamin D status and related health in young women
+Insertable technology for human interactions
+Interactive displays
+Interactive spaces and media architecture
+Kinecting with orang-utans
+Mediating intimacy
+Mobile fieldwork and learning
+Multimodal human–agent collaboration
+Music streaming and algorithmic recommendation
+Near-infrared spectroscopy
+Onebody
+Orygen Virtual World Project
+Promoting student peer review in Australian tertiary education
+Personal sensing for mental health and wellbeing
+Pholiota Unlocked
+Reading on ubiquitous devices
+Smart Garden Watering
+Smartphones for science
+Social gaming events: Warhammer 40K
+Social networking sites for ambivalent socialisers
+Social play in immersive gaming environments
+Social robots and virtual assistants for older people
+Sociophysical interactions
+Social Orientated Requirements Engineering
+Spectating eSports and Let’s Play
+SpinalLog
+Supporting social interactions for video calls in the home
+Teleconsultation: enhancing interactions between clinicians and patients
+Virtual co-presence
+Virtual Reality and climate change communication
+VR therapy for youth mental health
+Robot Assisted Learning and Rehabilitation
+XR for Human-Robot Interaction
+Social and Domestic Drones 
+Human-Centred Agent Learning
+Child of Now
+ #thismymob
+Publications
+Research
+Smart Spaces
+Ubiquitous computing
+Digital health
+Digital nature
+Novel interactions
+Design for ageing
+Games and play
+Social computing and communities
+Human information interaction
+Human-Robot Interaction
+Seminars
+Past seminars 2020
+Past seminars 2019
+Past seminars 2016–2018
+Past seminars 2011–2015
+Past seminars 2006–2010
+Past seminars 2004–2005
+Study
+HCI programs for potential students
+HCI subjects
+Masters projects
+Potential PhD students
+Information systems
+Process science and technology
+Business analytics and decision making
+Cybersecurity management
+Digital health
+Innovations in the digital society
+Publications
+Contact us
+Current Students
+Library
+Staff
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

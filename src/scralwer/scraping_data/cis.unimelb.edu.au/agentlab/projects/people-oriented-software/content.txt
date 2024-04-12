@@ -1,0 +1,368 @@
+URL: https://cis.unimelb.edu.au/agentlab/projects/people-oriented-software
+
+
+
+
+
+
+
+
+People-oriented software engineering
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+School of Computing and Information Systems
+
+
+
+AI and Autonomy Lab
+
+
+
+Research
+
+
+
+People-oriented software engineering
+
+
+
+
+
+
+
+People-oriented software engineering
+A.I. and autonomy lab project
+
+
+
+
+
+
+Project overviewModern technologies can positively transform lives. Many good concepts fail, however, to have a transformative effect by not meeting the individual and emotional needs of intended users. Creating software applications that satisfy emotional needs such as “feeling in touch” or “feeling accepted” is difficult, due to the hard-to-define, personal and subtle nature of the needs. This project aims to develop and evaluate new approaches to integrate emotional design into software engineering, focusing on people, their life context and technology adoption, in concert with existing methods for expressing functionality. A key tool in these methods is the agent paradigm, which is used to model individuals, roles, goals, emotions, and software that exist within a socio-technical system. The major research outcome from this proposal is new connections between design and software engineering, which will enable users, designers, and software engineers to work together to produce software that better meets people’s emotional needs. Development outcomes will include software applications to improve access to food, shelter, and support services to homeless people, and to improve financial literacy for older people in Australia.Case studiesEmergency alarm systems for older peopleMany older adults who live independently at home are required to use a personal alarm system. These systems are often composed of two elements, a button to call for help (worn as a pendant or wristband) and a base station to “check in” in a daily basis (as a way of indicating that everything is okay). Many older adults do not like the pendant or base station and do not use them properly. Cases where alarm users find themselves in urgent need for help but cannot reach the caller are, unfortunately, not uncommon. This project sought to understand the reasons behind the low uptake of personal alarm systems. We conducted a field study involving four emergency alarm users, four relatives and four non-users. We interviewed them in relation to their perception and use of technology in general, and emergency alarms systems in particular. The general opinion was that existing systems make older adults feel old, dependent and stigmatised. Although personal alarms were adopted to bring relief to relatives, their lack of flexibility frequently made them a source of stress more than of reassurance. The older people’s goal in using the emergency alarm systems was to feel safe, in touch, cared about, independent and unburdened. They also wanted to feel that they were in control of the system and that it was integrated in their lives. Website screenshot A picture frame to stay in touchThis project followed on from the field study involving older adults in which their emotional needs in the use of emergency alarm systems were identified. The purpose of this project was to design, develop and evaluate an emotion-informed alternative to the “check in” mechanism in personal alarms systems. The chosen design is an iPad placed in the older person’s home as a picture frame. Carers can send pictures of significance for the older person. Pictures are displayed as a digital carousel for the older person to swipe, comment on, or like. All these interactions are interpreted as an indication that the older person is okay. The picture frame allows the older person to feel cared about and in touch with their loved ones. At the same time, its use is flexible and does not attempt to modify the older person’s routine but adapts to it by capturing interactions at any time, and particularly around the time that the relative sends pictures. Our design underwent two iterations. In the first iteration, it was developed as a web-based service. The initial prototype was tested by nine older people. Their feedback was then used to redevelop the prototype as a mobile app. The second version of the prototype is being evaluated in another field study involving more older adults.Ask Izzy: A to Z homeless help informationIn 2014 Infoxchange was one of the winners of the Google Impact Challenge Australia, a grant awarded to non-profits to have a social impact through technology. In this project we collaborate with Infoxchange in the development of an online resource to improve access to food, shelter, health and other support services for people who are homeless or at risk of homelessness. This project followed a report from University of Sydney stating that 95% of homeless people owned a mobile phone, with 77% of those being smartphones.Initially, we worked with the design team to elicit the requirements of the system. We talked to over 60 people including homeless people, case workers and other organisations and government stakeholders to build the analysis models. Infoxchange acknowledged that a key aspect in determining the success of the product was its emotional engagement. The research process focused on identifying emotional factors around the homelessness experience that could be addressed or harnessed by the system. Through the discussions with the stakeholders we found out that the homeless people want to feel dignified, empowered, hopeful but realistic amongst other emotions. The result of this stage was the design of Ask Izzy. Its design and features were geared towards the fulfilment of the emotional, quality and functional goals identified during the research phase.In the second stage of our interaction with Infoxchange we assisted them in the user testing of the Ask Izzy. The next stage of the collaboration will be to assess the appropriation and social impact of Ask Izzy, once that the system is launched.Ask Izzy Ask Izzy Infographic Sleep Well: A mobile app to alleviate sleep difficultiesThis project supported by a grant from the Barbara Dicker Foundation seeks to investigate how to design mobile technologies that can contribute to alleviation of sleep difficulties. We have developed a mobile app to teach relaxation exercises to people with sleep difficulties. It is essential that the design of the app takes into account that the people using the app in the middle of the night will be sleep deprived and anxious, fearing that insomnia will affect their performance next day. In an interesting exercise, we developed two versions of the app. The first version was developed by a team of software engineering master students. The second team was developed by a team composed by undergraduate design students and software engineers. The difference between the versions is very significant. We finally decided to use the version produced by the interdisciplinary team.We have conducted interviews with participants before they trial the app to identify these emotions in greater detail. After the trial, we will interview the participants again to find out whether their sleep pattern improved and what were their feelings about using the tool. This project sits alongside an online behavioural cognitive therapy for sleep disorders developed by a team of psychologists. View of the Sleep Well project Download the Android AppSMART: Self-Management and Recovery TechnologyThe purpose of this project is to develop an online platform to support people suffering from psychosis. The goal of the platform is not only to enable the intervention delivery but to make consumers feel empowered, hopeful, connected and that their lives have meaning. The role of our team was to help the psychologists in the elicitation of the emotion-informed requirements, modelling, and validation of the platform. A number of focus groups consisting of consumers and mental health workers were part of the project. They have informed the requirements elicitation process for the platform and will continue to be involved during the development and validation.The platform is currently being trialled by participants recovering from psychosis. The consumers use SMART during their sessions with their case managers and outside these sessions to reinforce their discussions. Our team is involved in studying the uptake and appropriation of the participants and how to improve these factors in future mental health online treatments.DevelopmentA survey for early prognosis of depression in primary careIn this project we have developed an app for early detection of depression. The app will be available in the offices of GPs for anyone waiting. The app consists of a number of questions that the medical team consider (based on the analysis of data collected over a decade) are a good indication of depression. The role of our team was to design and develop the app in such a way that the result is engaging and inviting. It will have to be sufficiently appealing to attract people who do not know that are sufferers of depression or even that have negative attitudes towards the diagnosis of depression. It will also have to seek the best way of delivering the results in a way that does not lead to panic but to discussion with the GP.The Dusted Community: an online resource for people suffering from an asbestos related diseaseThe emotional impact of being “dusted” or diagnosed with an asbestos related disease (ARD) such as mesothelioma cannot be overstated. People living with the diagnosis must face feelings such as impotence, guilt and worry for the family that they leave behind (particularly victims of the third wave of exposure). The carer has to retreat from social live to devote to the care of the diagnosed person. The feeling of isolation and lack of understanding from their environment is huge.This project builds on the lessons learned from a previous study conducted in NSW to design an online community for people suffering from an ARD, their carers, family members and friends. We are conducting a number of participatory design workshops with past carers and other stakeholders to identify the requirements (emotional and otherwise) of the dusted community.Funding Year Source, project, recipients 2016–2018  Catering for individuals’ emotions in technology development – Australian Research Council DP160104083. Tim Miller, Leon Sterling, Sonja Pedell (Swinburne University), Antonette Mendoza, and Alex Lopez-Lorca.  2013–2015  Software engineering of people-oriented technology and services – Australian Research Council DP130102660. Leon Sterling, Tim Miller, Alex Lopez, and Sonja Pedell (Swinburne University).  2014–2016  Increasing knowledge and motivating collaborative action on Low Carbon Living through team-based and game-based mobile learning – CRC for Low Carbon Living. Tim Miller, Antonette Mendoza, Leon Sterling, and others.  2014–2017  A randomised trial of a clinical prediction tool for targeting depression care (Target-D) – NHMRC Project Grant 1059863. Leon Sterling, Antonette Mendoza, and others.  2014–2015  Evaluation of a robotic arm for people with limited upper-body mobility – DSDBI Technology Voucher and Student Voucher. Tim Miller, Marita Cheng (2Mar Robotics)  2013  Supportive technology for monitoring sleep problems – Barbara Dicker Brain Science grant. Leon Sterling, Alex Lopez.
+
+
+
+
+Email Contact us
+Faculty of Engineering and Information Technology
+Engineering & IT Students
+Staff only: FEIT Intranet
+
+
+
+
+
+
+
+School of Computing and Information Systems
+About us
+About the School
+Life in Melbourne
+Alumni profiles
+Casual tutor, demonstrator, marker and project team supervisor opportunities
+CSIRAC: Our first computer
+CSIRAC’s vital statistics
+CSIRAC chronology
+CSIRAC design
+How did CSIRAC work?: Storage
+How did CSIRAC work?: Console
+CSIRAC uses
+CSIRAC: Designers
+The music of CSIRAC
+CSIRAC emulator
+Jurij Semkiw
+CSIRAC and computer history links
+The Last of the First, CSIRAC: Australia’s First Computer
+CSIRAC photo gallery
+The history of computing at the University of Melbourne
+History of computing in the department
+Starting the Department of Information Systems
+Early internet
+Memories of the department
+Programming
+Student life in the department
+Women in computing
+CIS Doctoral Colloquium
+2023 CIS Doctoral Colloquium
+Submission Guidelines
+Colloquium Photos
+2022 CIS Doctoral Colloquium
+Submission Guidelines
+Program_open
+Participation and Awards
+Volunteers and Judges
+CISDC 2022 Photos
+2019 CIS Doctoral Colloquium
+2018 CIS Doctoral Colloquium
+2017 CIS Doctoral Colloquium
+2016 CIS Doctoral Colloquium
+2015 CIS Doctoral Colloquium
+2014 CIS Doctoral Colloquium
+2013 CIS Doctoral Colloquium
+Keynote speaker
+Colloquium sponsors
+Committee
+Call for papers
+Application_closed
+Submission_info
+Program_pending
+Program_open
+Alumni
+Registration_pending
+Industry
+Research collaboration
+Cyber attack maps to underpin better strategic responses
+Surgeons gain implant expertise with virtual training
+Informatics analyses value in digital health technologies
+Data contrasting highlights changing use of city
+Online community designed to support mental health for young people
+Satisfaction score to improve quality of internet search results
+Supply chain scheduling keeps automated mining operations on task
+Combined data adds power to decision-making
+New algorithms help interpret vision loss from digital images
+Host a student intern
+Mentor our students
+Student industry projects
+Become a guest speaker
+News
+2022 news and events
+CIS-EEE Seed Funding
+How data can prevent overdiagnosis
+
+CIS - IE 2022 Research Collaboration Seed Funding
+2021 news and events
+2020 news and events
+2019 news and events
+2023 news and events
+CIS-ME 2023 Seed Funding round
+CIS-IE 2023 Seed Funding round
+People
+Research
+Artificial intelligence
+Graduate Reseachers
+Computer science
+Graduate Researchers
+Digital Health
+Research projects
+Seminars
+Schools
+Study with us
+Undergraduate programs
+Graduate coursework programs
+Graduate research programs
+Industry based learning
+Programming proficiency test
+First Year Centre
+About
+Study with CIS
+Undergraduate programs
+Get help
+People
+Become a tutor
+Contact
+Graduate programs
+Graduate coursework programs
+Graduate research programs
+AI and Autonomy Lab
+News
+People
+Publications
+Research
+Mining and optimisation
+Automated planning languages
+Foundations of human-agent collaboration
+People-oriented software engineering
+Explainable artificial intelligence
+Multimodal human-agent collaboration
+Artificial Intelligence Assurance Lab
+About us
+Research
+Publications
+People
+Industry engagement
+Academic Centre of Cyber Security Excellence (ACCSE)
+Human-Computer Interaction
+Facilities
+User Experience Lab
+Interactive Technologies Lab
+Engineering Workshop
+
+Telstra Creator Space
+
+News and Events
+People
+Staff
+Graduate researchers
+Alumni
+Projects
+Adaptive learning technologies
+Ageing and avatars
+AI-enabled assistance for strategic planning in games
+Wearable technology for arm monitoring in health
+Augmented fitness
+Augmented learning environment for physiotherapy education
+Biometric Mirror
+Changing views
+Citizen Heritage
+Cognition-aware systems
+Cognitive interaction
+Completed projects
+Connecting learners for collaboration across diverse communities
+Cross-community information systems
+Crowdsourcing
+Death and the Internet
+Deceptive AI
+Designing for scale
+Designing technologies for indigenous knowledge
+Digital commemoration
+Digital domesticity
+Conceptualising and measuring digital emotion regulation
+Emerging technologies for enrichment in old age
+Encounters
+Ethics and digital games
+Evaluation of natural user interfaces in query auto-completion
+Examining the ‘digital’ in hybrid digital boardgames
+Exploring complex data sets using highly engaging environments
+Exploring natural user interfaces during meal times
+FaceSpace
+Getting well and being present
+Growing old and staying connected
+HandLog: tangible interactions for game input and rehabilitation
+iFISH
+Improving Vitamin D status and related health in young women
+Insertable technology for human interactions
+Interactive displays
+Interactive spaces and media architecture
+Kinecting with orang-utans
+Mediating intimacy
+Mobile fieldwork and learning
+Multimodal human–agent collaboration
+Music streaming and algorithmic recommendation
+Near-infrared spectroscopy
+Onebody
+Orygen Virtual World Project
+Promoting student peer review in Australian tertiary education
+Personal sensing for mental health and wellbeing
+Pholiota Unlocked
+Reading on ubiquitous devices
+Smart Garden Watering
+Smartphones for science
+Social gaming events: Warhammer 40K
+Social networking sites for ambivalent socialisers
+Social play in immersive gaming environments
+Social robots and virtual assistants for older people
+Sociophysical interactions
+Social Orientated Requirements Engineering
+Spectating eSports and Let’s Play
+SpinalLog
+Supporting social interactions for video calls in the home
+Teleconsultation: enhancing interactions between clinicians and patients
+Virtual co-presence
+Virtual Reality and climate change communication
+VR therapy for youth mental health
+Robot Assisted Learning and Rehabilitation
+XR for Human-Robot Interaction
+Social and Domestic Drones 
+Human-Centred Agent Learning
+Child of Now
+ #thismymob
+Publications
+Research
+Smart Spaces
+Ubiquitous computing
+Digital health
+Digital nature
+Novel interactions
+Design for ageing
+Games and play
+Social computing and communities
+Human information interaction
+Human-Robot Interaction
+Seminars
+Past seminars 2020
+Past seminars 2019
+Past seminars 2016–2018
+Past seminars 2011–2015
+Past seminars 2006–2010
+Past seminars 2004–2005
+Study
+HCI programs for potential students
+HCI subjects
+Masters projects
+Potential PhD students
+Information systems
+Process science and technology
+Business analytics and decision making
+Cybersecurity management
+Digital health
+Innovations in the digital society
+Publications
+Contact us
+Current Students
+Library
+Staff
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

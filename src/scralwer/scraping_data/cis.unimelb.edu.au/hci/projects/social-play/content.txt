@@ -1,0 +1,367 @@
+URL: https://cis.unimelb.edu.au/hci/projects/social-play
+
+
+
+
+
+
+
+
+Social play in immersive gaming environments: Human-Computer Interaction, The University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+School of Computing and Information Systems
+
+
+
+Human-Computer Interaction
+
+
+
+Projects
+
+
+
+Social play in immersive gaming environments
+
+
+
+
+
+
+
+Social play in immersive gaming environments
+
+
+
+
+
+
+Project overviewGaming often drives the early adoption of Natural User Interfaces (NUIs), and serves as a testing ground for their development. Technologies created for gaming, such as the Microsoft Xbox Kinect and the Tobii Eye Tracker 4C, enable new types of playful and immersive experiences — and often go on to impact wider society. However, while there is substantial research into the user experience of NUIs in work-like computer tasks, very little research has examined NUIs in the context of games and immersive environments. We believe that studying NUI in the game context is relevant to the use of these technologies, because the game experience can be quite different when immersed or embodied.Research under this project generates knowledge about designing with NUIs in social games, through case studies that interrogate social play in games. The research agenda is multi-modal, and aims to contribute a rich understanding regarding the relationship between game embodiment, immersion and interface design.In addition to academic articles, we communicate results in game industry and non-specialist publications, host talks at game conventions, demonstrate and exemplify our findings through videos, and develop game prototypes that demonstrate the foundations of our design guidelines.Social voiceVoice is widely used in social and competitive gameplay as a communication modality between players, where it has been shown to vastly improve player experience. However, as an input device for play, voice has a mixed status. It is often marginal and maligned due to the limitations of the technology, but sometimes fêted as a socially engaging way to play. In this project, we seek to understand the parameters of designing for voice interaction with game-like characters, through a study of existing practices and through the evaluation of for-purpose experimental games.This project is led by Fraser Allison.Social gazeEyePlay research seeks to understand how gaze detection technologies can provide new and novel player and spectator experiences. This project examines the effects of gaze and how it can create social experiences in multiplayer games, through the exploration of its detection and display.This project is led by Joshua Newn.Social tabletopTabletop gaming is a highly social situation due to the configuration of players and the social interactions afforded by tabletop game pieces. This project examines non-digital tabletop games and their digitisations to identify opportunities for NUI technologies to afford social play.This project is led by Melissa Rogerson.Social MinecraftThe sandbox-world builder game Minecraft is exceedingly popular, near ubiquitous in children between 8–12 and was recently purchased for $2billion dollars by Microsoft. This popularity, and its emphasis on creative world building, social interactions and cooperation have seen it adopted in schools and released as a standalone Minecraft for Education project. This project examines the social play of Minecraft and how it can support opportunities for social learning.This project is led by PhD student Jane Mavoa, under the supervision of Martin Gibbs, Marcus Carter and Bjorn Nansen.FundingThese projects were funded by the University of Melbourne’s Microsoft Research Centre for Social Natural User Interfaces (SocialNUI).Project teamMartin Gibbs,  ProfessorEduardo Velloso, Senior LecturerFrank Vetere, ProfessorWally Smith, Associate ProfessorFraser Allison, Research FellowJoshua Newn, Research FellowMelissa Rogerson, LecturerJane Mavoa, PhD CandidateMarcus Carter, Senior Lecturer in Digital Cultures, University of SydneyContact detailsMartin GibbsEmail: martin.gibbs@unimelb.edu.auPublicationsAllison, F., Carter, M., Gibbs, M. & Smith, W. (2018) Design Patterns for Voice Interaction in Games. In Proceedings of the Annual Symposium on Computer-Human Interaction in Play (CHI PLAY 2018), 28–31 October, Melbourne, Australia.Rogerson, M., Gibbs, M., Carter, M. & Allison, F. (2018) Understanding Player Elimination in Boardgames as a form of Permadeath. In Proceedings of the 2018 Digital Games Research Association Conference (DiGRA 2018), 25–28 July, Turin, Italy.Newn, J. (2018) Enabling Intent Recognition Through Gaze Awareness in User Interfaces. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems – Doctoral Colloquium, May 2018, Montreal, Canada.Newn, J., Allison, F., Velloso, E. & Vetere, F. (2018) Looks Can Be Deceiving: Using Gaze Visualisation to Predict and Mislead Opponents in Strategic Gameplay. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, May 2018, Montreal, Canada.Rogerson, M., Gibbs, M. & Smith, W. (2018) Collaborating to Compete: the mutuality of cooperation and competition in boardgame play. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, May 2018, Montreal, Canada.Miller, T., Singh, R., Newn, J., Sonenberg, L., Velloso, E. & Vetere, F. (2018) Combining Planning with Gaze for Online Human Intention Recognition. In Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2018), 10–15 July, Stockholm, Sweden.Mavoa, J., Carter, M. & Gibbs, M. (2017) Children, digital games and Minecraft: a survey of young children’s gaming habits. New Media and Society DOI: 10.1177/1461444817745320Allison, F., Carter, M. & Gibbs, M. (2017) Word Play: A History of Voice Interaction in Digital Games. Games and Culture DOI: 10.1177/1555412017746305Mavoa, J., Carter, M. & Gibbs, M. (2017) Beyond Addiction: Parent perceptions of Minecraft play. In Proceedings of the Annual Symposium on Computer-Human Interaction in Play, 15nd 18 October 2017, Amsterdam, The Netherlands. DOI: 10.1145/3116595.3116638Newn, J., Velloso, E., Allison, F., Abdelrahman, Y. & Vetere, F. (2017) Evaluating Real-Time Gaze Representations to Infer Intentions in Competitive Turn-Based Strategy Games. In Proceedings of the Annual Symposium on Computer-Human Interaction in Play, 15–18 October 2017, Amsterdam, The Netherlands. DOI: 10.1145/3116595.3116624Rogerson, M., Gibbs, M. & Smith, W. (2017) What can we learn from eye tracking boardgame play? In Extended Abstracts Publication of the Annual Symposium on Computer-Human Interaction in Play, 15–18 October 2017, Amsterdam, The Netherlands. DOI: 10.1145/3130859.3131314Rogerson, M., Gibbs, M. & Smith, W. (2017) Exploring the digital hinterland: Internet practices surrounding the pursuit of “offline” hobbies. Association of Internet Researchers Conference (AoIR 2017), 18–21 October 2017, Tart, Estonia.Rogerson, M., Gibbs, M. & Smith, W. (2017) Using gaze data in understanding tabletop boardgame play.  Games Research Methods Symposium, 10–11 July, Sydney, Australia.Velloso, E. & Gellersen, H. (2017) Gaze Interaction Design: Eye Movement as a Design Material. Designing Interactive Systems Conference (DIS 2017), June 2017, Edinburgh, Scotland.Mavoa, J., Gibbs, M. & Carter, M. (2017) Constructing the young child media user in Australia: a discourse analysis of Facebook comments. Journal of Children and Media, 11(3): 330-346. [DOI:10.1080/17482798.2017.1308400]Carter, M. & Allison, F. (in press) Guilt in DayZ. In Transgressions in Games and Play, Eds. Jørgensen, K. & Karlsen, F., MIT Press.Mavoa, J. (2017) The games children play: an analysis by title, gender and age. Extended Abstract presented at Digital Games Research Association Conference (DiGRA 2017), Melbourne, Australia.Allison, F., Luger, E. & Hofmann, K. (2017) Player expectations of a learning AI companion in Minecraft. Extended Abstract presented at Digital Games Research Association Conference (DiGRA 2017), Melbourne, Australia.Rogerson, R. & Cocks, J. (2017) F**king with psychology: psychological tests as boardgame design inspiration. Extended Abstract presented at Digital Games Research Association Conference (DiGRA 2017), Melbourne, Australia.Rogerson, R., Gibbs, M. & Smith, W. (2017) Me and My Shelfie: hobbyists’ domestication of boardgames. Extended Abstract presented at Digital Games Research Association Conference (DiGRA 2017), Melbourne, Australia.Carter, M. & Allison, F. (2017) Fear, Loss and Meaningful Play: Permadeath in DayZ. Journal of Gaming and Virtual Worlds 9(2):143–158Velloso, E., Carter, M., Newn, J., Esteves, A., Clarke, C. & Gellersen, H. (2017) Motion Correlation: Selecting Objects by Matching their Movement ACM Transactions on Computer-Human Interaction (ToCHI) 24(3):article22. [DOI]Allison, F., Luger, E. & Hofmann, K. (2017) Spontaneous Interactions with a Virtually Embodied Intelligent Assistant in Minecraft. In Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems, Denver, USA. [DOI]Allison, F. (2016) Are You Out of Your Mind? Focalization in Digital Games. Transactions of the Digital Games Research Association 2(3):31–60.Carter, M., Fordyce, R., Gibbs, M., Robertson, N., & Witkowski, E., (2016) eSports Spectatorship in Australia. In Proceedings of the 2016 DiGRA Australia Conference, Melbourne [PDF]Velloso, E. (2016) Game Controller Research from the Lab into the Wild: The Case of Eye Tracking. In Proceedings of the 2016 DiGRA Australia Conference, Melbourne [PDF]Velloso, E. & Carter, M. (2016) The Emergence of EyePlay: A Survey of Eye Interaction in Games. In Proceedings of the 2016 Annual Symposium on Computer-Human Interaction in Play (CHI Play 2016). Austin, TX, USA [PDF]Newn, J., Velloso, E., Carter, M. & Vetere, F. (2016). Exploring the Effects of Gaze Awareness on Multiplayer Gameplay. In Proceedings of the 2016 Annual Symposium Extended Abstracts on Computer-Human Interaction in Play (CHI PLAY 2016). Austin, TX, USA [DOI] [PDF]Newn, J., Velloso, E., Carter, M. & Vetere, F. (2016). Dynamically Exposing Gaze to Foster Playful Experiences in Multiplayer Gameplay. In CHI PLAY 2016 Workshop on Designing for Emotional Complexity in Games: The Interplay of Positive and Negative Affect. Austin, TX, USA [PDF]Newn, J., Velloso, E., Carter, M. & Vetere, F. (2016). Multimodal Segmentation of a Large Interactive Tabletop: Extending Interaction on Horizontal Surfaces with Gaze. In Proceedings of the 2016 ACM International Conference on Interactive Surfaces and Spaces (ISS 2016). Niagara Falls, ON, Canada [PDF]Allison, F., Carter, M., & Gibbs, M. (2016). A History of Voice Interaction in Games. In Proceedings of the First Joint International Conference of DiGRA and FDG [PDF]Rogerson, M. J., Gibbs, M., & Smith, W. (2016) "I Love All the Bits": The Materiality of Boardgames. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI 2016), New York: ACM Press, pp. 3956–3969 [DOI]Carter, M., Newn, J., Velloso, E., & Vetere, F. (2015) Remote Gaze and Gesture Tracking on the Microsoft Kinect: Investigating the Role of Feedback. In Proceedings of the Annual Meeting of the Australian Special Interest Group for Computer Human Interaction (OzCHI 2015) New York: ACM Press, pp. 167–176 [DOI]Allison, F., Carter, M., & Gibbs, M. (2015). Good Frustrations: The Paradoxical Pleasure of Fearing Death in DayZ. In Proceedings of the Annual Meeting of the Australian Special Interest Group for Computer Human Interaction (OzCHI 2015) New York: ACM Press, pp. 119–123. [DOI]Carter, M., Allison, F., Downs, J., & Gibbs, M. (2015). Player Identity Dissonance and Voice Interaction in Games. In Proceedings of the 2015 Annual Symposium on Computer-Human Interaction in Play (CHI Play 2015) New York: ACM Press, pp. 265–269 [DOI]Rogerson, M. J., Gibbs, M., & Smith, W. (2015) Digitising Boardgames: Issues and Tensions, In Proceedings of the 2015 DiGRA International Conference. Lüneburg, Germany [PDF]Carter, M., Nansen B., Gibbs, M. (2014) Screen Ecologies, Multi-Gaming and Designing for Different Registers of Engagement. In Proceedings of CHI Play, ACM Press, pp. 37–46. [PDF, DOI]MediaPAX Australia, 27 October 2018“Not just to win: The psychology of tabletop” Panel DiscussionA panel discussion on boardgames, featuring Melissa Rogerson (PhD student), an expert researcher on tabletop games.Pursuit, February 2018What Are Kids Getting out of Playing Minecraft?Article by Jane Mavoa (PhD student).Education Review, February 2018The Little Known Benefits of Minecraft PlayArticle by Jane Mavoa (PhD student).ABC Radio Melbourne, 18 April 2018Melbourne - Afternoons: interviewinterview with Melissa Rogerson (PhD student) on her research into competition and cooperation in boardgames.RoyalAuto Magazine, May 2018Why board games are new againAustralia’s highest-circulating magazine features Melissa Rogerson (PhD student).Parenting for a Digital Future, 18 April 2018Advising on screen time in Australia: Is the evidence up to the task?Blog post published by The London School of Economics and Political Science, Parenting for a Digital Future publication. Article by Jane Mavoa (PhD student).The Conversation, 17 January 2018Minecraft teaches kids about tech, but there’s a gender imbalance at playBy Jane Mavoa and Marcus CarterRN Drive, with Patricia Karvelas, 25 January 2018Interview with PhD student Jane Mavoa about her research on how kids play MinecraftRadio 2SER, Sydney, January 2018Gender Imbalance In MinecraftAn interview with PhD student Jane MavoaMamamia, 22 January 2018Interview with PhD student Jane Mavoa about her research on how kids play MinecraftInterview with Helen Vnuk.ABC News, 22 December 2017Stop swearing at Siri – it matters how you talk to your digital assistantsNews article includes interview with PhD student Fraser AllisonABC Radio Sydney, 27 December 2017Interview with PhD student Melissa Rogerson on “house rules” in boardgamesABC Radio Summer Afternoons (national broadcast), 11 January 2018Interview with PhD student Melissa Rogerson on mistakes in game rulesABC Radio Darwin’s Drive, 9 January 2018Interview with PhD student Melissa Rogerson on mistakes in game rulesChannel 9 News, 25 January 2018Interview with PhD student Melissa Rogerson on the increasing popularity of boardgamesABC Radio Adelaide, 22 December 2017Interview with PhD student Fraser Allison on Drive with Narelle GrahamThe Conversation, 24 January 2017Talk to me: voice control I taking off but it’s not taking over yetAn article by Fraser Allison.Pursuit, 13 October 2016Survivor: The Sport of BetrayalThe reality TV show Survivor is a phenomenon where betrayal and social skills are central to what is more a sport than a game show. An article by Dr Marcus Carter.Pursuit, 23 August 2016Deus Ex: Mankind Divided unleashes potential of eye trackingPursuit article by SocialNUI Resesarcher, Eduardo Velloso.The Conversation, 13 July 2016What’s made Pokémon GO such a viral success?The Conversation, 12 July 2016Some places should be off limits for games such as Pokémon GO12 July 2016Designing interactions with eye movements at UBI Summer SchoolThe Conversation, 11 July 2016The Pokémon GO craze sees gamers hit the streets but it comes with a warningThe Conversation, 29 March 2016How eye tracking gives players a new experience in video gamesGamasutra, 23 March 2015Screen Ecologies, Multi-Gaming and Designing for Different Registers for EngagementThe Age, 7 January 2015The changing way we play
+
+
+
+
+Email Contact us
+Faculty of Engineering and Information Technology
+Engineering & IT Students
+Staff only: FEIT Intranet
+
+
+
+
+
+
+
+School of Computing and Information Systems
+About us
+About the School
+Life in Melbourne
+Alumni profiles
+Casual tutor, demonstrator, marker and project team supervisor opportunities
+CSIRAC: Our first computer
+CSIRAC’s vital statistics
+CSIRAC chronology
+CSIRAC design
+How did CSIRAC work?: Storage
+How did CSIRAC work?: Console
+CSIRAC uses
+CSIRAC: Designers
+The music of CSIRAC
+CSIRAC emulator
+Jurij Semkiw
+CSIRAC and computer history links
+The Last of the First, CSIRAC: Australia’s First Computer
+CSIRAC photo gallery
+The history of computing at the University of Melbourne
+History of computing in the department
+Starting the Department of Information Systems
+Early internet
+Memories of the department
+Programming
+Student life in the department
+Women in computing
+CIS Doctoral Colloquium
+2023 CIS Doctoral Colloquium
+Submission Guidelines
+Colloquium Photos
+2022 CIS Doctoral Colloquium
+Submission Guidelines
+Program_open
+Participation and Awards
+Volunteers and Judges
+CISDC 2022 Photos
+2019 CIS Doctoral Colloquium
+2018 CIS Doctoral Colloquium
+2017 CIS Doctoral Colloquium
+2016 CIS Doctoral Colloquium
+2015 CIS Doctoral Colloquium
+2014 CIS Doctoral Colloquium
+2013 CIS Doctoral Colloquium
+Keynote speaker
+Colloquium sponsors
+Committee
+Call for papers
+Application_closed
+Submission_info
+Program_pending
+Program_open
+Alumni
+Registration_pending
+Industry
+Research collaboration
+Cyber attack maps to underpin better strategic responses
+Surgeons gain implant expertise with virtual training
+Informatics analyses value in digital health technologies
+Data contrasting highlights changing use of city
+Online community designed to support mental health for young people
+Satisfaction score to improve quality of internet search results
+Supply chain scheduling keeps automated mining operations on task
+Combined data adds power to decision-making
+New algorithms help interpret vision loss from digital images
+Host a student intern
+Mentor our students
+Student industry projects
+Become a guest speaker
+News
+2022 news and events
+CIS-EEE Seed Funding
+How data can prevent overdiagnosis
+
+CIS - IE 2022 Research Collaboration Seed Funding
+2021 news and events
+2020 news and events
+2019 news and events
+2023 news and events
+CIS-ME 2023 Seed Funding round
+CIS-IE 2023 Seed Funding round
+People
+Research
+Artificial intelligence
+Graduate Reseachers
+Computer science
+Graduate Researchers
+Digital Health
+Research projects
+Seminars
+Schools
+Study with us
+Undergraduate programs
+Graduate coursework programs
+Graduate research programs
+Industry based learning
+Programming proficiency test
+First Year Centre
+About
+Study with CIS
+Undergraduate programs
+Get help
+People
+Become a tutor
+Contact
+Graduate programs
+Graduate coursework programs
+Graduate research programs
+AI and Autonomy Lab
+News
+People
+Publications
+Research
+Mining and optimisation
+Automated planning languages
+Foundations of human-agent collaboration
+People-oriented software engineering
+Explainable artificial intelligence
+Multimodal human-agent collaboration
+Artificial Intelligence Assurance Lab
+About us
+Research
+Publications
+People
+Industry engagement
+Academic Centre of Cyber Security Excellence (ACCSE)
+Human-Computer Interaction
+Facilities
+User Experience Lab
+Interactive Technologies Lab
+Engineering Workshop
+
+Telstra Creator Space
+
+News and Events
+People
+Staff
+Graduate researchers
+Alumni
+Projects
+Adaptive learning technologies
+Ageing and avatars
+AI-enabled assistance for strategic planning in games
+Wearable technology for arm monitoring in health
+Augmented fitness
+Augmented learning environment for physiotherapy education
+Biometric Mirror
+Changing views
+Citizen Heritage
+Cognition-aware systems
+Cognitive interaction
+Completed projects
+Connecting learners for collaboration across diverse communities
+Cross-community information systems
+Crowdsourcing
+Death and the Internet
+Deceptive AI
+Designing for scale
+Designing technologies for indigenous knowledge
+Digital commemoration
+Digital domesticity
+Conceptualising and measuring digital emotion regulation
+Emerging technologies for enrichment in old age
+Encounters
+Ethics and digital games
+Evaluation of natural user interfaces in query auto-completion
+Examining the ‘digital’ in hybrid digital boardgames
+Exploring complex data sets using highly engaging environments
+Exploring natural user interfaces during meal times
+FaceSpace
+Getting well and being present
+Growing old and staying connected
+HandLog: tangible interactions for game input and rehabilitation
+iFISH
+Improving Vitamin D status and related health in young women
+Insertable technology for human interactions
+Interactive displays
+Interactive spaces and media architecture
+Kinecting with orang-utans
+Mediating intimacy
+Mobile fieldwork and learning
+Multimodal human–agent collaboration
+Music streaming and algorithmic recommendation
+Near-infrared spectroscopy
+Onebody
+Orygen Virtual World Project
+Promoting student peer review in Australian tertiary education
+Personal sensing for mental health and wellbeing
+Pholiota Unlocked
+Reading on ubiquitous devices
+Smart Garden Watering
+Smartphones for science
+Social gaming events: Warhammer 40K
+Social networking sites for ambivalent socialisers
+Social play in immersive gaming environments
+Social robots and virtual assistants for older people
+Sociophysical interactions
+Social Orientated Requirements Engineering
+Spectating eSports and Let’s Play
+SpinalLog
+Supporting social interactions for video calls in the home
+Teleconsultation: enhancing interactions between clinicians and patients
+Virtual co-presence
+Virtual Reality and climate change communication
+VR therapy for youth mental health
+Robot Assisted Learning and Rehabilitation
+XR for Human-Robot Interaction
+Social and Domestic Drones 
+Human-Centred Agent Learning
+Child of Now
+ #thismymob
+Publications
+Research
+Smart Spaces
+Ubiquitous computing
+Digital health
+Digital nature
+Novel interactions
+Design for ageing
+Games and play
+Social computing and communities
+Human information interaction
+Human-Robot Interaction
+Seminars
+Past seminars 2020
+Past seminars 2019
+Past seminars 2016–2018
+Past seminars 2011–2015
+Past seminars 2006–2010
+Past seminars 2004–2005
+Study
+HCI programs for potential students
+HCI subjects
+Masters projects
+Potential PhD students
+Information systems
+Process science and technology
+Business analytics and decision making
+Cybersecurity management
+Digital health
+Innovations in the digital society
+Publications
+Contact us
+Current Students
+Library
+Staff
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

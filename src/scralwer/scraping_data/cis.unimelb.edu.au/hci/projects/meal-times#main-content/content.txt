@@ -1,0 +1,367 @@
+URL: https://cis.unimelb.edu.au/hci/projects/meal-times#main-content
+
+
+
+
+
+
+
+
+Exploring natural user interfaces during meal times: Human-Computer Interaction, The University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+School of Computing and Information Systems
+
+
+
+Human-Computer Interaction
+
+
+
+Projects
+
+
+
+Exploring natural user interfaces during meal times
+
+
+
+
+
+
+
+Exploring natural user interfaces during meal times
+
+
+
+
+
+
+ Project overviewThis project investigates the everyday interactions of family uses of technology around mealtimes and explores how family members configure their dinner space and the technologies within it. The researchers are seeking to understand how technologies are used and negotiated by family members and the influence of technologies during these interactions.Recent technological advancements in digital devices have given people more access to things such as photos, videos and games on their handheld mobile devices and tablets. This project is exploring how the devices contribute to both positive family interactions and the tensions that digital media can bring about in these situations during family meals.The project aims: to understand the role of everyday technologies during family mealtimes, to explore technology usage in the home during meals, and to design a NUI technology using gesture or voice to support naturally occurring social interactions during our family mealtimes.Project teamHasan Shahid Ferdous, PhD Candidate, Microsoft Research Centre for SocialNUI, The University of MelbourneFrank Vetere, Professor, The University of MelbourneBernd Ploderer, Lecturer, Queensland University of Technology & Honorary Fellow, The University of MelbourneKenton O’Hara, Researcher, Microsoft Research, Cambridge, UK & Principal Fellow, The University of MelbourneRobert Comber, Lecturer, Open Lab, Newcastle University, UKContact detailsHasan Shahid FerdousEmail: hferdous@student.unimelb.edu.auProf Frank VetereEmail: f.vetere@unimelb.edu.auPublicationsDavis, H., Ferdous, H.S. & Vetere, F. (2017) ‘Table Manners’: Children’s Use of Mobile Technologies in Family-friendly Restaurants. In Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems, Denver, USA. [DOI]Ferdous, H.S., Vetere, F., Davis, H., Ploderer, B., O’Hara, K., Comber, R. & Farr-Wharton, G. (2017) Celebratory Technology to Orchestrate the Sharing of Devices and Stories during Family Mealtimes. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems, Denver, USA. [DOI]Ferdous, H. S., Ploderer, B., Davis, H., Vetere, F. & O’Hara, K (2016) Commensality and the Social Use of Technology during Family Mealtime. Accepted for publication in ACM Transactions on Computer-Human Interaction (TOCHI) [PDF]Ferdous, H. S., Ploderer, B., Davis, H., Vetere, F., O’Hara, K., Farr-Wharton, G., & Comber, R. (2016) TableTalk: Integrating Personal Devices and Content for Commensal Experiences at the Family Dinner Table. In Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2016) [DOI] [PDF]Ferdous, H. S., Vetere, F., Davis, H., Ploderer, B. & O’Hara, K. (2016). Technologies At Mealtime: Collocated Interactions In The Family Home. In CHI 2016 Workshop on Proxemic Mobile Collocated Interactions. San Jose, USA. [PDF]Ferdous, H. S., Ploderer, B., Davis, H., Vetere, F., & O’Hara, K. (2015). Pairing Technology and Meals: A Contextual Enquiry in the Family Household. In Proceedings of the Annual Meeting of the Australian Special Interest Group for Computer Human Interaction (OzCHI 2015) New York: ACM Press, pp. 370–379 [PDF] [DOI]Ferdous, H. (2015) Technology at Mealtime: Beyond the ‘Ordinary’, In Proceedings of the 33rd Annual ACM Conference Extended Abstracts on Human Factors in Computing Systems (CHI 2015), ACM Press, pp. 195–198 [PDF, DOI]
+
+
+
+
+Email Contact us
+Faculty of Engineering and Information Technology
+Engineering & IT Students
+Staff only: FEIT Intranet
+
+
+
+
+
+
+
+School of Computing and Information Systems
+About us
+About the School
+Life in Melbourne
+Alumni profiles
+Casual tutor, demonstrator, marker and project team supervisor opportunities
+CSIRAC: Our first computer
+CSIRAC’s vital statistics
+CSIRAC chronology
+CSIRAC design
+How did CSIRAC work?: Storage
+How did CSIRAC work?: Console
+CSIRAC uses
+CSIRAC: Designers
+The music of CSIRAC
+CSIRAC emulator
+Jurij Semkiw
+CSIRAC and computer history links
+The Last of the First, CSIRAC: Australia’s First Computer
+CSIRAC photo gallery
+The history of computing at the University of Melbourne
+History of computing in the department
+Starting the Department of Information Systems
+Early internet
+Memories of the department
+Programming
+Student life in the department
+Women in computing
+CIS Doctoral Colloquium
+2023 CIS Doctoral Colloquium
+Submission Guidelines
+Colloquium Photos
+2022 CIS Doctoral Colloquium
+Submission Guidelines
+Program_open
+Participation and Awards
+Volunteers and Judges
+CISDC 2022 Photos
+2019 CIS Doctoral Colloquium
+2018 CIS Doctoral Colloquium
+2017 CIS Doctoral Colloquium
+2016 CIS Doctoral Colloquium
+2015 CIS Doctoral Colloquium
+2014 CIS Doctoral Colloquium
+2013 CIS Doctoral Colloquium
+Keynote speaker
+Colloquium sponsors
+Committee
+Call for papers
+Application_closed
+Submission_info
+Program_pending
+Program_open
+Alumni
+Registration_pending
+Industry
+Research collaboration
+Cyber attack maps to underpin better strategic responses
+Surgeons gain implant expertise with virtual training
+Informatics analyses value in digital health technologies
+Data contrasting highlights changing use of city
+Online community designed to support mental health for young people
+Satisfaction score to improve quality of internet search results
+Supply chain scheduling keeps automated mining operations on task
+Combined data adds power to decision-making
+New algorithms help interpret vision loss from digital images
+Host a student intern
+Mentor our students
+Student industry projects
+Become a guest speaker
+News
+2022 news and events
+CIS-EEE Seed Funding
+How data can prevent overdiagnosis
+
+CIS - IE 2022 Research Collaboration Seed Funding
+2021 news and events
+2020 news and events
+2019 news and events
+2023 news and events
+CIS-ME 2023 Seed Funding round
+CIS-IE 2023 Seed Funding round
+People
+Research
+Artificial intelligence
+Graduate Reseachers
+Computer science
+Graduate Researchers
+Digital Health
+Research projects
+Seminars
+Schools
+Study with us
+Undergraduate programs
+Graduate coursework programs
+Graduate research programs
+Industry based learning
+Programming proficiency test
+First Year Centre
+About
+Study with CIS
+Undergraduate programs
+Get help
+People
+Become a tutor
+Contact
+Graduate programs
+Graduate coursework programs
+Graduate research programs
+AI and Autonomy Lab
+News
+People
+Publications
+Research
+Mining and optimisation
+Automated planning languages
+Foundations of human-agent collaboration
+People-oriented software engineering
+Explainable artificial intelligence
+Multimodal human-agent collaboration
+Artificial Intelligence Assurance Lab
+About us
+Research
+Publications
+People
+Industry engagement
+Academic Centre of Cyber Security Excellence (ACCSE)
+Human-Computer Interaction
+Facilities
+User Experience Lab
+Interactive Technologies Lab
+Engineering Workshop
+
+Telstra Creator Space
+
+News and Events
+People
+Staff
+Graduate researchers
+Alumni
+Projects
+Adaptive learning technologies
+Ageing and avatars
+AI-enabled assistance for strategic planning in games
+Wearable technology for arm monitoring in health
+Augmented fitness
+Augmented learning environment for physiotherapy education
+Biometric Mirror
+Changing views
+Citizen Heritage
+Cognition-aware systems
+Cognitive interaction
+Completed projects
+Connecting learners for collaboration across diverse communities
+Cross-community information systems
+Crowdsourcing
+Death and the Internet
+Deceptive AI
+Designing for scale
+Designing technologies for indigenous knowledge
+Digital commemoration
+Digital domesticity
+Conceptualising and measuring digital emotion regulation
+Emerging technologies for enrichment in old age
+Encounters
+Ethics and digital games
+Evaluation of natural user interfaces in query auto-completion
+Examining the ‘digital’ in hybrid digital boardgames
+Exploring complex data sets using highly engaging environments
+Exploring natural user interfaces during meal times
+FaceSpace
+Getting well and being present
+Growing old and staying connected
+HandLog: tangible interactions for game input and rehabilitation
+iFISH
+Improving Vitamin D status and related health in young women
+Insertable technology for human interactions
+Interactive displays
+Interactive spaces and media architecture
+Kinecting with orang-utans
+Mediating intimacy
+Mobile fieldwork and learning
+Multimodal human–agent collaboration
+Music streaming and algorithmic recommendation
+Near-infrared spectroscopy
+Onebody
+Orygen Virtual World Project
+Promoting student peer review in Australian tertiary education
+Personal sensing for mental health and wellbeing
+Pholiota Unlocked
+Reading on ubiquitous devices
+Smart Garden Watering
+Smartphones for science
+Social gaming events: Warhammer 40K
+Social networking sites for ambivalent socialisers
+Social play in immersive gaming environments
+Social robots and virtual assistants for older people
+Sociophysical interactions
+Social Orientated Requirements Engineering
+Spectating eSports and Let’s Play
+SpinalLog
+Supporting social interactions for video calls in the home
+Teleconsultation: enhancing interactions between clinicians and patients
+Virtual co-presence
+Virtual Reality and climate change communication
+VR therapy for youth mental health
+Robot Assisted Learning and Rehabilitation
+XR for Human-Robot Interaction
+Social and Domestic Drones 
+Human-Centred Agent Learning
+Child of Now
+ #thismymob
+Publications
+Research
+Smart Spaces
+Ubiquitous computing
+Digital health
+Digital nature
+Novel interactions
+Design for ageing
+Games and play
+Social computing and communities
+Human information interaction
+Human-Robot Interaction
+Seminars
+Past seminars 2020
+Past seminars 2019
+Past seminars 2016–2018
+Past seminars 2011–2015
+Past seminars 2006–2010
+Past seminars 2004–2005
+Study
+HCI programs for potential students
+HCI subjects
+Masters projects
+Potential PhD students
+Information systems
+Process science and technology
+Business analytics and decision making
+Cybersecurity management
+Digital health
+Innovations in the digital society
+Publications
+Contact us
+Current Students
+Library
+Staff
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

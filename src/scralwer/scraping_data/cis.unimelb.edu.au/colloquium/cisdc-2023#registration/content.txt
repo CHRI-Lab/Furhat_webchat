@@ -1,0 +1,1074 @@
+URL: https://cis.unimelb.edu.au/colloquium/cisdc-2023#registration
+
+
+
+
+
+
+
+
+CIS Doctoral Colloquium: Computing and Information Systems, The University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+School of Computing and Information Systems
+
+
+
+Colloquium
+
+
+
+CISDC 2023
+
+
+
+
+
+
+
+2023 CIS Doctoral Colloquium
+
+
+
+
+
+
+About
+Program
+Submission
+Registration
+FAQ
+Our Team
+Contact
+
+ 
+
+The CIS Doctoral Colloquium is an annual one-day research conference for graduate researchers in the School of Computing and Information Systems.
+
+
+
+This event is an opportunity for CIS graduate researchers to present their research in a supportive environment and receive feedback from a wide audience of peers and industry representatives.We are asking our presenters to focus on the real-world impacts and applications of their work. We want you to be able to reach a wider audience that is beyond your peers in your field of research.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Photos
+
+
+Previous colloquiums2022 2019 2018 2017 2016 2015 2014 2013
+
+
+
+
+Sponsors - 2023 Colloquium
+ 
+
+
+ 
+
+
+
+
+
+
+
+@cis_dc
+@unimelb_cis_dc
+fb.me/melbcisdc
+
+
+
+
+ 
+
+
+Download:  CIS Doctoral Colloquium 2023 Program [PDF]Keynote Speakers
+
+
+
+
+
+
+Johan Barthélemy, PhD
+
+Johan Barthélemy, PhDDeveloper Relations Manager - Strategic Researcher Engagement (NVIDIA)After his PhD in Applied Mathematics at the University of Namur (Belgium), Dr. Johan Barthélemy joined the SMART Infrastructure Facility of the University of Wollongong (Australia) where he was a Lecturer and the head of the Digital Living Lab researching and developing AIoT solutions focusing on the development new applications of AI and embedded IVA for smart cities and environmental monitoring. Being passionate about applied AI and how to accelerate it with GPUs, he is now a Developer Relation Manager at NVIDIA, helping developers and scientists in their journey to build the next generation of AI-based solutions, with a particular focus on Conversational AI.Keynote Abstract: Accelerating Generative AIGenerative AI has the potential to revolutionize the way we approach a variety of tasks, from image and video synthesis to natural language processing. However, developing and deploying these models can be a complex and time-consuming process. In this talk we will present some of the tools and solutions that researchers can use to accelerate the design, training and inference of such models, as well as some of recent developments in the generative AI space.
+
+
+
+
+
+
+
+Professor Justin Zobel
+
+Professor Justin ZobelProfessor in the School of Computing and Information Systems and Pro Vice-Chancellor (The University of Melbourne)Professor Justin Zobel is a Redmond Barry Distinguished Professor in the School of Computing and Information Systems and Pro Vice-Chancellor (Graduate and International Research), in which role he oversees the Uni- versity’s graduate research training and international research partnerships. In the research community, Professor Zobel is best known for his role in the development of algorithms for efficient web search and for his contributions to robust research methodologies, and is the author of three highly regarded textbooks on graduate study and research practice.Keynote Abstract: The Arrival of the InternetThe internet underpins modern society: commerce, government, and our ordinary daily activities are completely reliant on it. But how did it emerge? What factors led to its existence? In this talk I give a brief history of some of the underlying ideas, of how the internet changed over time, and of how in 1989, when it was still a niche technology that few had heard of, the University of Melbourne came to connect Australia to the world. Entwined with this story of the technology is also that of the experience of using the internet from its first incarnation to the present day, and of the changes it brought and is continuing to bring. This history shows that in some ways its emergence was unlikely but also shows how quickly – and recently – we became dependent on this universal, ubiquitous entity that connects the planet.
+
+
+
+Guest Speakers
+
+
+
+
+
+
+Associate Professor Peter Cebon
+
+Associate Professor Peter CebonAssociate Professor and Program Leader of the Innovation Practice Program (The University of Melbourne)Peter Cebon has almost 30 years experience as a researcher and consultant in the broad areas of innovation management, innovative strategy delivery, organisational design and organisational behaviour. He recently left full-time academic work, and now splits his time between consulting and research.Most of his current consulting work involves helping large organisations put in place or improve their management systems that help them to deliver risky (i.e. high innovation) strategies.
+
+
+
+
+
+
+
+David Baker
+
+David BakerAccount CTO / Technology Strategist (Microsoft)With over twenty-five years experience in the IT industry, David is focused on consulting and advising on technology strategies. The majority of this experience has been working with FSI customers helping them accelerate their businesses and delivering transformations. The last decade has been spent consulting with customers on how to transition into cloud operating models and extract value from them. A number of these engagements had the added complexity of businesses undergoing transitions of ownership.
+
+
+
+
+
+
+
+
+Award WinnersHere is a list of all award winners, who each took home $500 in prizes! Jury's Choice
+         Best Paper Award 
+      Piumi Perera 
+      
+         Best Paper Presentation 
+      Louis Cheung
+         Best Poster 
+      Archana Vadakattu 
+      
+         Best 3MR 
+      
+         Chen Wang People's Choice
+         Best Poster 
+      
+         Ying Ma
+      Best 3MRNattapat BoonprakongAccepted SubmissionsHere is a list of all accepted submissions for each track:Paper TrackHuman-Computer Interaction & Information SystemsPresenterTitle
+         Piumi Perera 
+      
+         Digital Encounters with Nature 
+      
+         Matthew Sidji 
+      
+         . Exploring the Use of AI-Powered Tools in Cooperative Games: A Study of Human Participants Playing Codenames with a LLM assistant 
+      Information SystemsPresenterTitle
+         Davor Petreski 
+      
+         Data Cooperatives in HE: a philosophical exploration of justice 
+      
+         Catherine Thompson 
+      
+         Sunshine is the Best Sanitation: Truth-Telling in the Digital World 
+      Computer SciencePresenterTitle
+         Louis Cheung 
+      
+         Formally Verifiably Suffix Array Construction 
+      
+         Philip Cervenjak 
+      
+         Improving a Parameterized Streaming Algorithm for Maximum Coverage 
+      
+         Meng Yuan 
+      
+         Correspondences Between Topic Models and Text Embeddings for Information Retrieval 
+      GeneralPresenterTitle
+         Pengbo Yan 
+      
+         Proving Obliviousness of Probabilistic Algorithms with Formal Verification 
+      
+         Aidan Mcloughney 
+      
+         Unintended data driven consequences in machine learning 
+      
+         Pilar Selene Linares Arevalo 
+      
+         Verifying Memory Safety: Integrating Type Theory and Program Logics 
+      Poster TrackPresenterTitle
+         Abeer Alshehr 
+      
+         Explainable Goal Recognition 
+      
+         Emma Baillie 
+      
+         When to fight online misinformation 
+      
+         Ming Chen 
+      
+         iPod: Interference-aware Pod Placement for Latency-critical Services in Clouds 
+      
+         Tom Harris 
+      
+         Understanding racial and ethnic disparities in COVID-19 outcomes using an agent-based simulation 
+      
+         Tharindu B. Hewage 
+      
+         Green Cores: Software-defined Renewables for Carbon-aware Application Scheduling 
+      
+         Zhuoqun Huang 
+      
+         RS-Del: Edit Distance Robustness Certificates for Sequence Classifiers via Randomized Deletion 
+      
+         Ying Ma 
+      
+         Location Information on Social Media Platforms: Perceptions, Behaviours and Implications 
+      
+         Xiang Peng 
+      
+         Developing IT-Enabled Sustainable Innovations 
+      
+         Viktoria Schram 
+      
+         A Probabilistic Approach to Learning Curve Prediction incorporating Language Specific Information 
+      
+         Nellie Seale 
+      
+         There’s No Silver Bullet: Dungeons, Dragons, and Digital Dilemmas in Museums 
+      
+         Yige Song 
+      
+         Students’ Online Learning Profile – Explorative Data Analysis & PhD Plan 
+      
+         Archana Vadakattu 
+      
+         Effective Knowledge Transfer with Strategies 
+      
+         Rui Xing 
+      
+         Automatic Explanation Generation For Climate Science Claims 
+      
+         Jia Xu 
+      
+         Managing and Making Sense of Data to Drive Digital Transformation: A Case Study 
+      
+         Meng Yuan 
+      
+         Measurement of Clustering Effectiveness for Document Collections 
+      Three Minute Research TrackPresenterTitle
+         Nattapat Boonprakong 
+      
+         Bias-Aware Systems: Understanding, Detecting, and Mitigating Cognitive Biases in Online Information Consumption 
+      
+         Yige Song 
+      
+         A Comprehensive Profile of Students’ Learning Online 
+      
+         Xinyu Su 
+      
+         Traffic forecasting based on traffic propagation patterns 
+      
+         Chen Wang 
+      
+         Anomaly detection for human behaviour 
+      
+         Chenyang Wang 
+      
+         Warping Time without Alignment
+
+
+
+Schedule   Time  Event  Location            8:30-9:00                 Arrival and Registration                 Superfloor (Mezzanine) - Entrance to Forum                  9:00-9:20                 Welcome                 Superfloor Forum 1                 9:20-10:00                 Keynote Address: Dr Johan Barthelemy, NVIDIA Generative AI                 Forum 1                 10:00-10:30                 Session 1 A: Human-Computer Interaction Forum 1 + 2                 Session 1B: Information Systems Forum 3                 Forum 1, Forum 3                  10:30-11:00        Morning Tea break           Superfloor Launchpad & Café area                  11:00-12:00                 Session 2 A: Computer Science Forum 1 + 2                 Session 2 B: General Forum 3                 Forum 1, Forum 3                  12:00-13:00        Poster Session and Lunch break           Launchpad and Café area                  13:00-13:30                 3-Minute Research Session                 Launchpad                  13:30-14:00                 Invited Talk: Prof Peter Cebon (University of Melbourne) From idea to product: helping researchers commercialise their idea                 Forum 1                 14:00-15:00                 Keynote Address: Prof Justin Zobel (University of Melbourne)                 Forum 1                 15:00-15:45                 Master Class: David Baker (Microsoft) Generative AI                 Forum 1                 15:45-16:10        Afternoon tea and networking           Launchpad and Café area                  16:10-17:00                 Careers post-PhD Panel Discussion                 Forum 1                 17:00-17:45                 Awards and Refreshments                 Forum 1
+
+
+
+
+
+
+@cis_dc
+@unimelb_cis_dc
+fb.me/melbcisdc
+
+
+
+
+ 
+
+Want to share your research to the community?The CIS Doctoral Colloquium the perfect place for you!
+
+
+  The CIS Doctoral Colloquium is an exciting opportunity for PhD students to share their research with the University community and the general public. It's also an opportunity to meet with industry representatives and network with your peers.
+
+
+Download: CIS Doctoral Colloquium 2023 Call for Submissions [PDF]
+
+
+
+
+
+  Submissions are now open for the 2023 Doctoral Colloquium
+
+
+  See the list of important dates for the 2023 Doctoral Colloquium at the bottom of this page.
+
+
+
+Submissions will close at midnight on Sunday, October 1st.
+
+Submit Here
+
+  If you have any questions about the colloquium or the submission process please email:CIS-DC@unimelb.edu.au
+
+
+
+How To ParticipateSubmission GuidelinesEligibilityPrizesImportant datesHow To ParticipateOnce the applications are opened, you will be asked to submit all the required information on EasyChair. As you move on with your application, you will receive further information.
+
+
+
+
+
+Choose your preferred submission track
+Choose between the four available tracks. Please refer to the submission requirements for information about requirements for each track :Paper: You will submit a short paper (1-2 pages) in the lead-up to the event and present your research on stage (7-10min) followed up by a Q&A on the day.Three Minute Presentation: You will have to present your research in three (3) minutes to a non-specialist audience, followed up by a Q&A on the day.Poster:  You will present and discuss your academic work during a poster session on the day.Poster + Demo:  If you require to present additional material, you can supplement your poster with a demonstration. Please contact us for any material enquiries (screen, table, etc.).
+
+
+Submit your abstract
+Please submit a 100 to 200-word abstract.All abstract submissions should contain a title, keywords and the list of your supervisors. Check the deadlines below on this page or from our communication emails.
+
+
+Submit your documents
+Once we receive your abstract, submit the additional information (depending on your track):Paper: submit a short paper of 1 to 2 pages and your slides. You can find templates on this page or on our EasyChair conference page.Three Minute Presentation: submit your slides. If you'd like some feedback and rehearse, you can present to us before the event!Poster: submit an A1 poster, we will print this for you before the event.Poster + Demo: submit your poster and the list of materials that you need for your demo.
+
+
+
+
+Submission GuidelinesFind resources such as templates for the different tracks and examples from previous colloquiums on our dedicated resource page.
+
+
+EligibilityApplicants must:Be a current graduate researcher at the University of Melbourne.Be enrolled in the School of Computing and Information Systems.Provide required documents on time.Domestic and international; part-time and full-time students are eligible. There is no capacity limits and no selection criteria. We welcome research at all levels of progress and completion.PrizesThere will be both top and honorary prizes awarded to selected papers, presentations, posters, and demos.Note: If you won a prize in a previous colloquium, you will only be eligible to win again this year if you present a new piece of research.
+
+
+
+Important DatesPlease note these are the proposed dates for the 2023 colloquium, they may be subject to change if necessary.
+
+
+
+
+
+				Sunday 1 October 2023
+
+
+11:59pm
+Paper, slides, poster, or demo requirements submission deadline
+
+
+				Monday 9 October 2023
+
+
+Notification of Acceptance
+
+
+				Tuesday 10 October 2023
+
+
+11:59pm
+Registration deadline
+
+
+				Tuesday 24 October 2023
+
+
+8:30am - 6:00pm
+Doctoral Colloquium
+
+
+
+
+
+
+
+
+
+@cis_dc
+@unimelb_cis_dc
+fb.me/melbcisdc
+
+
+
+
+ 
+
+Want to attend the CIS Doctoral Colloquium?Register for the event and find information about the venue here.
+
+
+     Get to know our graduate researchers from the school of Computing and Information Systems. The Colloquium is free to attend and will showcase a range of presentations and times for interaction.   
+
+
+
+
+
+
+  Registrations are now open for the
+  2023 CIS Doctoral Colloquium!
+
+
+
+Date & Time
+Tuesday, 24 October, 20238:30am - 6pm
+
+
+Venue Information
+Melbourne ConnectThe Superfloor, Melbourne Connect700 Swanston Street, Carlton VIC 3053
+
+
+
+ Register Now
+
+
+
+
+Conference VenueThe 9th CIS Doctoral Colloquium (CIS-DC 2023) will be held at Melbourne's newest innovation precinct: Melbourne Connect, on Tuesday 24th of October 2023. The buildings accommodate more than 500 academic staff and post graduate students, researchers, businesses, and start-ups collaborating all together.
+
+
+
+
+
+
+Melbourne Connect700 Swanston StCarlton VIC 3053(03) 9035 5553
+
+
+
+
+
+
+
+
+@cis_dc
+@unimelb_cis_dc
+fb.me/melbcisdc
+
+
+
+
+ 
+
+Frequently Asked QuestionsI’m not sure where to submit my workCreate an account on EasyChair with your student UniMelb email. Go to the "Submission" tab on the home page and follow the steps to submit all the required documents.Where can I find resources to help me prepare for my submission?You can find additional resources (including previous posters and proceedings) on the submission guidelines page. If you have further questions, don't hesitate to reach out!  CIS-DC@unimelb.edu.auI’m only at the start of my PhD, what can I present about?We expect that submissions will come from people at all points in their PhD or Masters by Research. Intermediate results or a discussion on a small aspect of your research is fine (and welcome!). The 3MT section is also a perfect place to talk about the research area you are going to be looking at or a problem you hope to solve.
+
+
+
+
+
+I’m a UniMelb Undergraduate or Masters student, can I submit my work?
+
+Sorry, only Graduate Researchers (PhD and Masters by Research) are eligible to submit to the CIS-DC. Not a GR? You are most welcome to attend the conference on the day.
+
+
+
+Does it matter what point I am at in my studies?
+
+No, all graduate researchers (PhD and Masters by Research students) are welcome to participate. Even if you have just started, we want to hear what you are excited about at the start of your research journey!
+
+
+
+Can I reuse a piece of work?
+
+The purpose of the DC is to showcase an aspect of your work to the wider CIS GR and academic community. If you want to workshop something you intend to submit or refine a piece of work that you have already submitted, that’s perfectly fine. If there’s a demo you’d like to showcase to a wider audience, we’d love to see it!
+
+
+
+I’m really busy
+
+The DC is a GR student forum to showcase GR student work and to get experience presenting and sharing your research in a safe environment. It’s also an opportunity to meet industry guests and potential future job opportunities. There are several CIS academics and researchers in the School now who participated in earlier DCs, so look at where it can take you.If you’re on the fence, put an abstract in!
+
+
+
+I need some materials to put together a demo
+
+Please speak to the committee if there are costs involved with producing your demo! Some support is available. We can also work with you as to how best to set up a demo if you’re unsure as to what to do.
+
+
+
+Are there prizes for best paper, best poster, etc?
+
+How does $500 sound? We will once again have people’s choice prizes too!
+
+
+
+I’m currently based offshore or interstate, am I able to participate?
+
+We would love for you to participate. If you can't attend the conference in person, the best option would be to submit a pre-recorded presentation for the 3 minute research track.
+
+
+
+
+
+
+
+
+
+@cis_dc
+@unimelb_cis_dc
+fb.me/melbcisdc
+
+
+
+
+ 
+
+
+Vincent Barbosa VazConference Chair
+
+
+
+
+
+Vincent Barbosa Vaz
+
+Vincent is a PhD candidate in the School of Computing and Information Systems at the University of Melbourne. His main research interests lie in machine learning and optimisation. His project area explores the interplay between these two fields and how they can be more tightly integrated. Vincent is affiliated to the new ARC Training Centre OPTIMA with the industry partner South East Water. The focus of his applied work is on adapting such a framework to the water sector to make more informed decisions.Outside of study, he can be found at art venues or consuming ice cream (on cold days too).Profile, Emailvbarbosavaz@student.unimelb.edu.au
+
+
+Meng (Abby) YuanMarketing and Public Relations Coordinator
+
+
+
+
+
+Meng (Abby) Yuan
+
+Abigail Meng Yuan, usually known as Abby, is a PhD candidate at the University of Melbourne. She earned a Bachelor of Science degree and a Master of Computer Science degree in 2017 and 2019 at the University of Melbourne. Her research interest is in information retrieval with a focus on how information is carried and how knowledge is conveyed by various forms of collection representations, as well as the measurements of the collection organisation techniques in the context of information retrieval.Emailmyuan3@student.unimelb.edu.au
+
+
+Songyan TengWebsite and Registration Coordinator
+
+
+
+
+
+Songyan Teng
+
+Songyan is a Graduate Researcher in the Human-Computer Interaction Group at the University of Melbourne’s School of Computing and Information Systems. His research focuses on understanding textual interactions on smartphones and how this information can be used to inform context. Outside of his studies, he loves producing music and consuming copious amounts of sweets.Emailsongyan.teng@student.unimelb.edu.au
+
+
+Archana VadakattuLogistics Chair
+
+
+
+
+
+Archana Vadakattu
+
+Archana is a PhD candidate in the School of Computing and Information Systems at the University of Melbourne. Her research involves exploring a new approach for transfer learning in autonomous agents, inspired by human learning. Prior to starting her PhD, she worked in industry for 2 years, where she developed her interest in cognitive agent research. Archana is also currently part of CIS-GReS as an Activities Officer. In her spare time, she enjoys playing (and watching!) tennis.Emailavadakattu@student.unimelb.edu.au
+
+
+Chen (Chloe) WangProgram and Publications Chair
+
+
+
+
+
+Chen (Chloe) Wang
+
+Chen is a PhD candidate in the School of Computing and Information Systems at the University of Melbourne. Her research centres on anomaly detection using deep learning methods. Her project explores the potential of detecting anomalies by predicting agents’ underlying intentions. Chen is also affiliated to the ARC Linkage Program with the industry partner Northrop Grumman Corporation. Outside of study, she can be found at tennis courts or shopping malls.Emailcww3@student.unimelb.edu.au
+
+
+Wenjun ZhouFinance Chair
+
+
+
+
+
+Wenjun Zhou
+
+Wenjun's research is on process forecasting under A/Prof. Artem Polyvyanyy and Prof. James Bailey's supervision. She is mainly responsible for maintaining industry relationship and also contributes to the scheduling and planning of the DC events. Out of her research time, she likes writing songs and thinking about philosophical questions. (By the way, she can juggle! ;) )Emailwenjun.zhou@unimelb.edu.au
+
+
+Laura JuliffResearch Project Officer
+
+
+
+
+
+Laura Juliff
+
+Laura is a research project officer in the School of Computing and Information Systems (CIS) at the University of Melbourne.Emaillaura.juliff@unimelb.edu.au
+
+
+Noah ScottiAdministration Officer
+
+
+
+
+
+Noah Scotti
+
+Noah is an Administration Officer in the School of Computing and Information Systems (CIS) at the University of Melbourne.Emailnoah.scotti@unimelb.edu.au
+
+
+
+
+
+
+Volunteers
+         Siddharth Agarwal 
+      
+         Qifan Deng 
+      
+         Ruby Edwards 
+      
+         Le Fang 
+      
+         Markus Hiller 
+      
+         Melissa Hofsteter 
+      
+         Oshada Jayasinghe 
+      
+         Anandi Karunaratne 
+      
+         Chunhua Liu 
+      
+         Stella Peng 
+      
+         Larissa Salerno 
+      
+         Viktoria Schram 
+      
+         Samangi Wadinambi Arachchi 
+      
+         Zihan Yang 
+      Judges
+         Mario Andres Munoz Acosta 
+      
+         Nestor Cabello 
+      
+         Marc Cheong 
+      
+         Kris Ehinger 
+      
+         Lea Frermann 
+      
+         Adrian Pearce 
+      
+         Thuan Pham 
+      
+         Lida Rashidi 
+      
+         Maria Read 
+      
+         Melissa Rogerson 
+      
+         Ofir Turel 
+      
+         Jenny Waycott 
+      
+         Sarah Webber
+
+
+
+
+
+
+
+@cis_dc
+@unimelb_cis_dc
+fb.me/melbcisdc
+
+
+
+
+ 
+
+Sponsoring
+Interested in sponsoring our next Colloquium? If you are interested in hearing more about how your organisation can be a part of our event, contact us by email at: CIS-DC@unimelb.edu.au
+
+Enquiries
+Any further enquiries, contact the CIS DC team:
+
+EmailEmail: CIS-DC@unimelb.edu.au
+
+Social media
+We are on social media:
+
+TwitterTwitter: @cis_dc
+
+
+InstagramInstagram: @unimelb_cis_dc
+
+
+FacebookFacebook: fb.me/melbcisdc
+
+
+
+
+
+
+
+@cis_dc
+@unimelb_cis_dc
+fb.me/melbcisdc
+
+
+
+
+
+
+
+
+
+Email Contact us
+Faculty of Engineering and Information Technology
+Engineering & IT Students
+Staff only: FEIT Intranet
+
+
+
+
+
+
+
+School of Computing and Information Systems
+About us
+About the School
+Life in Melbourne
+Alumni profiles
+Casual tutor, demonstrator, marker and project team supervisor opportunities
+CSIRAC: Our first computer
+CSIRAC’s vital statistics
+CSIRAC chronology
+CSIRAC design
+How did CSIRAC work?: Storage
+How did CSIRAC work?: Console
+CSIRAC uses
+CSIRAC: Designers
+The music of CSIRAC
+CSIRAC emulator
+Jurij Semkiw
+CSIRAC and computer history links
+The Last of the First, CSIRAC: Australia’s First Computer
+CSIRAC photo gallery
+The history of computing at the University of Melbourne
+History of computing in the department
+Starting the Department of Information Systems
+Early internet
+Memories of the department
+Programming
+Student life in the department
+Women in computing
+CIS Doctoral Colloquium
+2023 CIS Doctoral Colloquium
+Submission Guidelines
+Colloquium Photos
+2022 CIS Doctoral Colloquium
+Submission Guidelines
+Program_open
+Participation and Awards
+Volunteers and Judges
+CISDC 2022 Photos
+2019 CIS Doctoral Colloquium
+2018 CIS Doctoral Colloquium
+2017 CIS Doctoral Colloquium
+2016 CIS Doctoral Colloquium
+2015 CIS Doctoral Colloquium
+2014 CIS Doctoral Colloquium
+2013 CIS Doctoral Colloquium
+Keynote speaker
+Colloquium sponsors
+Committee
+Call for papers
+Application_closed
+Submission_info
+Program_pending
+Program_open
+Alumni
+Registration_pending
+Industry
+Research collaboration
+Cyber attack maps to underpin better strategic responses
+Surgeons gain implant expertise with virtual training
+Informatics analyses value in digital health technologies
+Data contrasting highlights changing use of city
+Online community designed to support mental health for young people
+Satisfaction score to improve quality of internet search results
+Supply chain scheduling keeps automated mining operations on task
+Combined data adds power to decision-making
+New algorithms help interpret vision loss from digital images
+Host a student intern
+Mentor our students
+Student industry projects
+Become a guest speaker
+News
+2022 news and events
+CIS-EEE Seed Funding
+How data can prevent overdiagnosis
+
+CIS - IE 2022 Research Collaboration Seed Funding
+2021 news and events
+2020 news and events
+2019 news and events
+2023 news and events
+CIS-ME 2023 Seed Funding round
+CIS-IE 2023 Seed Funding round
+People
+Research
+Artificial intelligence
+Graduate Reseachers
+Computer science
+Graduate Researchers
+Digital Health
+Research projects
+Seminars
+Schools
+Study with us
+Undergraduate programs
+Graduate coursework programs
+Graduate research programs
+Industry based learning
+Programming proficiency test
+First Year Centre
+About
+Study with CIS
+Undergraduate programs
+Get help
+People
+Become a tutor
+Contact
+Graduate programs
+Graduate coursework programs
+Graduate research programs
+AI and Autonomy Lab
+News
+People
+Publications
+Research
+Mining and optimisation
+Automated planning languages
+Foundations of human-agent collaboration
+People-oriented software engineering
+Explainable artificial intelligence
+Multimodal human-agent collaboration
+Artificial Intelligence Assurance Lab
+About us
+Research
+Publications
+People
+Industry engagement
+Academic Centre of Cyber Security Excellence (ACCSE)
+Human-Computer Interaction
+Facilities
+User Experience Lab
+Interactive Technologies Lab
+Engineering Workshop
+
+Telstra Creator Space
+
+News and Events
+People
+Staff
+Graduate researchers
+Alumni
+Projects
+Adaptive learning technologies
+Ageing and avatars
+AI-enabled assistance for strategic planning in games
+Wearable technology for arm monitoring in health
+Augmented fitness
+Augmented learning environment for physiotherapy education
+Biometric Mirror
+Changing views
+Citizen Heritage
+Cognition-aware systems
+Cognitive interaction
+Completed projects
+Connecting learners for collaboration across diverse communities
+Cross-community information systems
+Crowdsourcing
+Death and the Internet
+Deceptive AI
+Designing for scale
+Designing technologies for indigenous knowledge
+Digital commemoration
+Digital domesticity
+Conceptualising and measuring digital emotion regulation
+Emerging technologies for enrichment in old age
+Encounters
+Ethics and digital games
+Evaluation of natural user interfaces in query auto-completion
+Examining the ‘digital’ in hybrid digital boardgames
+Exploring complex data sets using highly engaging environments
+Exploring natural user interfaces during meal times
+FaceSpace
+Getting well and being present
+Growing old and staying connected
+HandLog: tangible interactions for game input and rehabilitation
+iFISH
+Improving Vitamin D status and related health in young women
+Insertable technology for human interactions
+Interactive displays
+Interactive spaces and media architecture
+Kinecting with orang-utans
+Mediating intimacy
+Mobile fieldwork and learning
+Multimodal human–agent collaboration
+Music streaming and algorithmic recommendation
+Near-infrared spectroscopy
+Onebody
+Orygen Virtual World Project
+Promoting student peer review in Australian tertiary education
+Personal sensing for mental health and wellbeing
+Pholiota Unlocked
+Reading on ubiquitous devices
+Smart Garden Watering
+Smartphones for science
+Social gaming events: Warhammer 40K
+Social networking sites for ambivalent socialisers
+Social play in immersive gaming environments
+Social robots and virtual assistants for older people
+Sociophysical interactions
+Social Orientated Requirements Engineering
+Spectating eSports and Let’s Play
+SpinalLog
+Supporting social interactions for video calls in the home
+Teleconsultation: enhancing interactions between clinicians and patients
+Virtual co-presence
+Virtual Reality and climate change communication
+VR therapy for youth mental health
+Robot Assisted Learning and Rehabilitation
+XR for Human-Robot Interaction
+Social and Domestic Drones 
+Human-Centred Agent Learning
+Child of Now
+ #thismymob
+Publications
+Research
+Smart Spaces
+Ubiquitous computing
+Digital health
+Digital nature
+Novel interactions
+Design for ageing
+Games and play
+Social computing and communities
+Human information interaction
+Human-Robot Interaction
+Seminars
+Past seminars 2020
+Past seminars 2019
+Past seminars 2016–2018
+Past seminars 2011–2015
+Past seminars 2006–2010
+Past seminars 2004–2005
+Study
+HCI programs for potential students
+HCI subjects
+Masters projects
+Potential PhD students
+Information systems
+Process science and technology
+Business analytics and decision making
+Cybersecurity management
+Digital health
+Innovations in the digital society
+Publications
+Contact us
+Current Students
+Library
+Staff
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

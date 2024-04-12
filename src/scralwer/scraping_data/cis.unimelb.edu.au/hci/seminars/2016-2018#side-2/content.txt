@@ -1,0 +1,1561 @@
+URL: https://cis.unimelb.edu.au/hci/seminars/2016-2018#side-2
+
+
+
+
+
+
+
+
+Past seminars 2019: Human-Computer Interaction, The University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+School of Computing and Information Systems
+
+
+
+Human-Computer Interaction
+
+
+
+Seminars
+
+
+
+2016–2018
+
+
+
+
+
+
+
+Past seminars 2016–2018
+
+
+
+
+
+ Past seminars 
+
+ 2018 
+ 2017 
+ 2016 
+
+
+
+
+
+
+
+
+
+23 Feb 
+
+
+
+Design and Evaluation of Query Auto Completion Mechanisms
+The completions presented to the users as they enter a query in a search box is known as Query Auto Completion (QAC). The completions are typically generated from query logs that can be huge at a web-scale. A major challenge in designing QAC systems is the need to generate quality suggestions “on the fly” with each additional keystroke from the user. I will be presenting our initial analysis and formalization of different approaches to Query Auto Completion, and their implications on the completions generated. Each of these approaches requires specific implementation strategies that comes with algorithmic trade-offs. I will cover basic implementation techniques we followed, along with our proposed method for evaluating them.
+About the presenter
+Unni Krishnan is a Ph.D. student at the Microsoft Social NUI lab, and his supervisors are Professor Alistair Moffat and Professor Justin Zobel. He completed his master’s from the Indian Institute of Technology (IIT) Kharagpur in 2016 and has worked as a software engineer prior to that. During his masters, he was part of the Complex Networks Research Group (CNeRG), IIT Kharagpur and had collaborations with Flipkart data science. His research interest is in information retrieval/ web search.
+
+PresenterUnni Krishnan
+
+
+
+
+02 Mar 
+
+
+
+Towards Ecological Validity for Interaction with Wearable Computers
+Thanks to the availability of powerful miniaturized electronic components, this last decade has seen the popularization of small mobile devices such as smartphones, and even smaller devices for wearable computing. The unique advantages of these new devices (small size, always available) open a lot of new possibilities in terms of usage. However, these same advantages turn out to be limitations for interaction. The way users will interact with wearable devices greatly depends on the affordance of the devices but also on the context of use. This context will either reduce the attention available to interact with the device or constrain the gestures users can do for input. In the same way, the environment will degrade the transmission of information from the device to the user. Most of the current works do focus on validating new systems in a lab setting, which does not account for external factors (noise, motion, surroundings, etc…). In this talk, we discuss factors that do affect input and output and how these can be incorporated into controlled experiment in order to ensure ecological validity.
+About the presenter
+Dr Simon Perrault received his PhD in Computer Science in Telecom ParisTech (France). He defended his PhD in April 2013, and joined the National University of Singapore (NUS) in December 2013 as a post-doctoral researcher. Dr Perrault’s research interest is in the area of Human Computer Interaction, and more specifically on mobile and wearable interaction. Because users carry their mobile and wearable devices at nearly any given time in a day, improving interaction between users and devices is a hard yet needed task. By doing so, we aim to make users’ lives easier and enhance the quality of communication between users through their devices. In concrete terms, Dr Perrault designs new interaction techniques and wearable devices and tries to get a better understanding of human behaviour in mobile contexts.
+
+PresenterSimon Perrault
+
+
+
+
+02 Mar 
+
+
+
+IVY: a moderated peer support app to prevent perinatal anxiety and depression
+
+PresentersLaura Biggs
+									Greg Wadley
+
+
+
+
+09 Mar 
+
+
+
+Towards designing for human movement variance and invariance : visual resources combining first person felt-effort responses with machine data to frame walking expression and awareness on pressure sensitive sound-generating surfaces.
+Key to the expression and liveness of human movement is the temporal invariance and variance within its effort. Effort based concepts of movement have framed somatic approaches to interaction design. Similarly, theories on sound-action perception decompose efforts and impulses of musical instrumental performance as perceived chunks, defining its expressive quality. There is a connection between the efforts we feel when moving and efforts we hear when listening to define expression. Through a case study of choreographed slow walking, on pressure sensitive sound generating surfaces, the expressive intent of the walk cycle is framed providing a reference for sonic cues and a basis for movement analysis. This talk presents an emerging resource that combines visualised time series data and qualitative first person accounts of efforts both felt and machine sensed. These efforts are chunked at micro-scale to define impulses and excitations as variant and invariant to the choreographed image defining the expressive qualities. The contribution firstly combines the qualitative structures of movement and sound-action theories to help connect the felt perspective of the mover with sound producing efforts. Secondly it presents a resource that aims to reveal the variance and invariance in effort and in turn the expression of the walk cycle leading to kinaesthetic awareness.
+About the presenter
+Frank Feltham is a lecturer in Industrial Design at the School of Design, RMIT University and PhD candidate in the Design Lab University of Sydney with Dr Lian Loke. His research interests are focussed on the agency of the moving body through the design of interactive and sound generating technologies. He has a particular focus on the variance and invariance in the effort of the body through movement to sonify and create self-awareness and expression of these qualities. Frank’s interactive installations include a variety pressure-sensitive sound generating surfaces including, The Musical Staircasecommissioned by the City of Melbourne 2010/11, The Slow Floor, DABLAB Gallery University of Technology Sydney 2010, The SomaSurface, featured at VIVID Festival 2015, Performing Mobilities 2015 and Big Anxiety Festival UNSW galleries 2017.
+
+PresenterFrank Feltham
+
+
+
+
+13 Mar 
+
+
+
+Sensing students for quantified learning
+The Intelligent Media Laboratory of Osaka Prefecture University is recently working on a project about education. We are trying to use several sensors for quantifying and qualifying learning. Because reading is a basic activity of learning, we already proposed methods based on eye tracking for counting the number of read words, identifying difficult words, estimating reading understanding, estimating the confidence of a participants while answering multiple choice questions. Ongoing research includes using seat pressure sensor, physiological sensors, typing analysis, etc. The main open problem for the future research concern actuation: how to use all this data to help students or to transfer the experience of one student to another?
+About the presenter
+Olivier Augereau obtained a PhD in computer science in 2013 at Bordeaux University. He worked at the head of R&D of a digitizing company for two years. Since three years, he is a research assistant professor at Osaka Prefecture University in the Intelligent Media Processing Group. His research interests are: image analysis, machine learning, signal processing, eye tracking systems and HCI.
+
+PresenterOlivier Augerau
+
+
+
+
+16 Mar 
+
+
+
+Advanced Computational Intelligence and Metalearning to Understand Human Behaviour
+We will present the aims, objectives, and approaches being developed as part of the Samsung GRO sponsored project to implement embedded models of Metalearning and continuous self-adjustment to analyse, evaluate, and adjust the parameters of Cognitive Computing solutions. Metalearning provides the strategies to: (i) self-adapt the mechanisms of feature extraction for new elements and relations; (ii) adjust the models of hypothesis generation and testing, and; (iii) adjust the models of evidence evaluation and scoring. The results of this exploration will allow Samsung and other developers to improve the quality of service of applications that involve understanding and prediction of user behaviour, such as Social Robots, Personal Assistants, and Collaborative Systems.
+About the presenter
+Dr Fernando Koch is a Research Fellow on Computational Intelligence in the School of Computing and Information Systems, The University of Melbourne, and Data Science Consultant with KPMG Australia. He is a former Invited Professor at Korea University, Director of Research at Samsung Research, and Research Scientist at IBM Research. Dr Koch is a hands-on Innovator with a deep understanding about the application of AI, Data Science, IoT and Cloud Computing, holding 30 patents in areas like computational intelligence, context-aware recommendation systems. human-centred IoT, and distributed computing.
+
+PresenterFernando Koch
+
+
+
+
+23 Mar 
+
+
+
+How might a computer deceive a person: ideas from stage magic
+This talks presents early ideas from a project that asks: What would it take (or even What would it would mean) for a computer to deceive a human? Our focus is on exploring how software agents might be designed to enact techniques of stage magic, in particular its deeper deceptive principles as studied in the emerging field of the science of magic. I will overview the groundwork for this project, including: the notion of technological dissimulation as it arises in the history of conjuring; a more formal analysis of the way (incorrect) beliefs are constructed during magic tricks; and the complex patterns of 'theory-of-mind' reasoning that underlie more sophisticated conjuring tricks. Finally, I will sketch our initial ideas for a human-computer interactive game as a research platform to evaluate the effectiveness of these deceptive strategies when enacted by a machine.
+About the presenter
+Wally Smith is a member of the Human-Computer Interaction in the School of CIS at the University of Melbourne. His research investigates the theory and practice of designing new digital technologies that are sympathetic to human ways of thinking, living and working across a range of settings. He is lead CI (with Liz Sonenberg, Michael Kirley, Frank Dignum and Gustav Kuhn) on a new ARC Discovery Project on which this talk is based ('A Computational Theory of Strategic Deception'), and also relevant to this work, he is a Member of the Magic Circle (UK). His other interests are on technologies for behaviour change, particularly smoking cessation, and on digital heritage and civic engagement.
+
+PresenterWally Smith
+
+
+
+
+05 Apr 
+
+
+
+Measuring the effects of digital enrichment on orangutans and zoo visitors
+Zoos seek to provide animals with enrichment that provides variety and stimulation for the animals, and promotes behaviours that spark visitors' interest in wildlife. To provide varied and complex enrichment, a number of zoos are investigating digital technologies such as touchscreen devices, but effects on animal wellbeing and the visitor experience have been little studied. In collaboration with Melbourne Zoo we have developed a projection-based enrichment system for orangutans. To assess the impact of the installation, we firstly conducted an animal welfare study and secondly evaluated the effects of the intervention on visitors' experience of seeing the orangutans. This talk will present the findings from these two studies, and discuss their contribution to technological zoo enrichment design, animal-computer interaction and human-computer interaction.
+About the presenter
+Sarah's PhD explores the potential role for digital technology in zoos, with a focus on animal welfare and conservation education objectives. She has a background in professional IT, including user research and project management, and an ongoing interest in ICT for non-profit organisations and volunteers.
+
+PresenterSarah Webber
+
+
+
+
+11 May 
+
+
+
+Transition Academia to Industry
+This talk will focus on the value of integrating basic and applied research towards creating new knowledge and more impactful products. Inspired by Ben Shneiderman’s latest book on ‘The New ABCs of Research’ I will provide a practitioner’s perspective on the importance of academia and industry working together to tackle complex 'real-life' problems. Through a series of industry-based case studies I will highlight opportunities for closer synergies between academia and industry. Finally, I will share anecdotes from my personal journey of transition from academia to industry that might serve as resources for inspiration for both academics and practitioners.
+About the presenter
+Kostas is a Senior User Experience Researcher at Electronic Arts in Melbourne. His passion is to help teams learn more about users through actionable insights based on high quality, rigorous and timely research that balances business and user value. He has an avid interest in integrating basic and applied streams of research towards solving complex problems.
+
+PresenterKonstantinos Kazakos
+
+
+
+
+18 May 
+
+
+
+Sensing Arousal During Visual Interaction
+Arousal is often used as a proxy to measure stress, cognitive state, attention, frustration, anxiety, interest and boredom. These behaviors are of particular interest during user interaction. Existing approaches are often obtrusive, costly, require skills to set up or not always applicable. The first part of the talk discusses an alternative approach to the status quo. Pupillary responses from eye-trackers are used to sense arousal and focal attention during user interaction with visual contents. The second part of this talk discusses other active research projects at the University of Manchester's Interaction Analysis and Modelling (IAM) Lab.
+About the presenter
+Olu holds a Master’s degree from the University of Manchester, and is currently a final year PhD candidate at the same institution. His interests are in affective computing, user interaction and user experience. Previous work experience includes ERP consulting and implementation using SAP solutions, software and business process management. He has a keen interest in solving complex problems using research and user-driven approaches.
+
+PresenterOludamilare Matthews
+
+
+
+
+25 May 
+
+
+
+Confirmation Seminar
+Mobile interaction can be negatively affected by contextual factors, causing situational impairments to the user. Despite the growing interest to situational impairments during mobile interaction, the effects of some situational impairments on mobile interaction (e.g., ambient noise, user’s emotional state, stress) remain underexplored. Furthermore, enhancing the capabilities of mobile devices to detect the situational impairments and adapting the interface accordingly to improve the user interaction is one of the challenges in the Ubicomp/HCI community. In her confirmation seminar, Zhanna will describe her approach to investigating and quantifying the effects of underexplored situational impairments during mobile interaction. Furthermore, this research intends to propose and develop ways to detect situational impairments using smartphone sensors, and offer solutions to mitigate their impact on mobile interaction.
+About the presenter
+Zhanna Sarsenbayeva is a first-year PhD-Engineering student at the Human-Computer Interaction of The University of Melbourne. Her supervisors are Dr Jorge Goncalves and Prof Vassilis Kostakos. Her research focuses mostly on the effects of situational impairments on mobile interaction, ways of detecting and accommodating those situational impairments during interaction with mobile devices. She is also interested in context sensing and affective computing. Zhanna holds a BSc in Computer Science from University College London, UK and an MSc in Computer Science and Engineering from University of Oulu, Finland.
+
+PresenterZhanna Sarsenbayeva
+
+
+
+
+20 Jul
+
+
+
+Activity Recognition Modelling based on Textual Instructions
+Activity recognition is a crucial part of sports tracking and analysis systems that evaluate and provide feedback on execution performance quality. These systems use statistical, probabilistic, and machine learning techniques to extract computational representations of such activities. These techniques have several challenges, including the cold start problem, reusability and scalability issues due to interclass variability, and inability to reason about segmentation and classification decisions in a human-understandable way. In this confirmation seminar, I will describe ongoing work towards an activity modelling approach based on semantic representations that stem from textual instructions to alleviate the aforementioned issues. This, ultimately, could enable systems that are capable of evaluating and providing performance feedback similarly to a human coach.
+About the presenter
+Ahed Aladwan is a first-year PhD-Engineering student at the Human-Computer Interaction of the University of Melbourne. His supervisors are Dr Eduardo Velloso and Prof Vassilis Kostakos. He previously worked as a systems integrator for large research facilities in Europe and Australia. His current research interests include approaches to facilitate human engagement in healthy physical activities.
+
+PresenterAhed Aladwan
+
+
+
+
+24 Jul
+
+
+
+Privacy and the Internet of Things (IoT) monitoring solutions for older adults: A review
+The rapid increase in the number of older adults in developed countries and the growing trend of older adults living alone as they age, raise concerns about their well-being and their increasing need for care services. New technologies, including Internet of Things (IoT) are being used to monitor older adults’ health and activities, thus enabling them to live safely and independently at home as they age. However, IoT monitoring solutions create privacy challenges that need to be addressed. This review examines how privacy has been conceptualised in studies proposing new IoT solutions for monitoring older adults. The literature reviewed mostly links privacy with information security and unauthorised accessibility threats. There is a limited consideration of other aspects of privacy such as confidentiality and secondary use of users’ information. We argue that developers of IoT solutions that aim to monitor and collect health data about older adults need to adopt an expanded view of privacy. This will ensure that safeguards are built in to IoT devices to protect and maintain users’ privacy while also enabling the appropriate sharing of data to support older adults’ safety and wellbeing.
+About the presenter
+Sami Alkhatib is a PhD student in Information Systems, who studies privacy in IoT Aged Care Monitoring Devices. Previously, he worked as a computer Engineer and has over 14 years of experience in IT and within the Telecommunication services industry. Sami holds a master’s degree in Information Systems from the University of Melbourne. His research interests are in the field of user’s privacy in emerging technologies such as IoT, Big Data, Cloud Computing and AI.
+
+PresenterSami Abed
+
+
+
+
+27 Jul
+
+
+
+Critical Media - Building Technologies for Media Literacy and Depolarisation
+Due to the rapid technological developments, the world’s information is now at the fingertips of mostly anyone anytime and anywhere. Not only do we consume unprecedented amounts of information this way, but also share our experiences and thoughts with others and, therefore, contribute to public opinion formation. This has lead to the proclamation of the “democratisation of information” resulting in considerable political shifts. In recent years, however, concerns have started amounting about algorithms increasingly forcing users into filter bubbles and social media contributing to the creation of echo chambers, both of which amplify and reinforce people’s views, beliefs, and convictions. In this talk, Tilman Dingler discusses the polarising nature of media, which takes advantage of people’s susceptibility due to cognitive biases, and presents a roadmap for the design and deployment of critical media technologies. The resulting systems intend to invite their users to reflect on their views, acquire and advance media literacy and critical thinking skills, and subsequently contribute to a more informed public discourse and depolarisation.
+About the presenter
+Tilman is a Research Fellow at the School of Computing and Information Systems at the University of Melbourne. He holds a Ph.D. in Computer Science from the University of Stuttgart, a Master of Science Degree from the University of San Francisco, a Diploma from the Ludwig-Maximilians-University of Munich, and an Honors Degree from the Center of Digital Technology and Management at the University of Munich. Before coming to Melbourne, Tilman was a Project Assistant Professor at Osaka Prefecture University in Japan and spent some time as a visiting post-doc at the MIT Media Lab. Tilman has worked in Industry as an engineer at Yahoo! Inc. and TinyCo. His research focuses on building cognition-aware technologies that support people’s information processing and learning by using sensors and modeling user behavior
+
+PresenterTilman Dingler
+
+
+
+
+3 Aug
+
+
+
+Biometric Mirror: Quo vadis, artificial intelligence?
+Surveillance cameras increasingly link with systems that detect age, gender and demographic information of passers-by. Some facial analysis models now proclaim to predict behaviours, psychometrics and personality traits, often by analysing only a single photo. But are people aware of this technology becoming ever more common? How do people feel about this trend? And will this really lead to a “better” society? In this talk, I will discuss how Biometric Mirror aims to illustrate the possibilities and consequences of facial analysis to people. Through its interactive and public nature it aims to involve people in the debate about ethical use of AI. I will situate the study within the current technological and societal context, share some early observations, and highlight the next steps.
+About the presenter
+Niels is an architect and design researcher. He has a keen interest in exploring the democratic use of technology in public space. In a previous life, he mentored technology start-ups in establishing digital strategies. Now he is a Research Fellow with the Research Centre for Social Natural User Interfaces at the University of Melbourne, and he is Digital Media Advisor for Science Gallery Melbourne. Niels holds degrees in Architectural Design, Computer Science and Human-Computer Interaction. His doctoral thesis, published in 2016, examined the design and functional qualities of media facades and urban screens.
+
+PresenterNiels Wouters
+
+
+
+
+10 Aug
+
+
+
+Health and User Experience (UX), an industry perspective
+This talk addresses practical concerns taking a user centred approach to designing technologies in the health sector. From a User Experience (UX) practitioner’s perspective, both challenges and opportunities when designing technology for health will be discussed. One challenge that has numerous consequences is how we might look at technologies in the same way that we see medication as a health intervention to treat an illness. Opportunities abound though with trends in Internet enabled technologies providing ways to empower people to take control of their health by improving communication with practitioners, carers, as well as peers and family members.
+About the presenter
+Joji Mori (PhD) is a UX practitioner who has both an academic and commercial background. His current interest is understanding the ways that technology design in the health sector can best take advantage of User Centred Design traditions. Joji currently works for MedAdvisor as UX Manager, and previously worked for The Movember Foundation, a charity focused on men’s health. Joji is also a graduate of the Human-Computer Interaction at Melbourne University, having completed his PhD in 2015. His research “Designing Digital Memorials: Commemorating the Black Saturday Bushfires” identified a set of design considerations for the design of digital memorials.
+
+PresenterJoji Mori
+
+
+
+
+24 Aug
+
+
+
+Exploring interaction methods for wearable augmented reality
+The recent commercialization of Augmented Reality (AR) technologies now provides self-contained, wearable systems, with high fidelity displays and robust tracking. These platforms provide new opportunities for applications such as data visualization, computer aided design and immersive authoring. A primary challenge of such immersive applications lies in enabling productive interactions. Sophisticated operations may require users to perform complex sequences of commands, to precisely manipulate virtual constructs in 3D space, or to select very small objects such as data points or model vertices. Such tasks are not well supported by current tools. In this talk, I will outline several recent research projects that have explored interaction for immersive user interfaces in augmented reality. These projects investigate several potential input methods such as wearable devices, small hand and finger gestures, and wearable eye-tracking devices. I will discuss lessons learned from these explorations, and touch on our lab’s current research aimed at supporting in-situ AR applications for industrial field workers.
+About the presenter
+Barrett Ens recently joined the Immersive Analytics Lab at Monash University where he explores spatial interaction and immersive visualisation for wearable augmented reality. He was most recently working as an NSERC Postdoctoral Research Fellow at the UniSA’s Empathic Computing Lab. Barrett completed his PhD in Computer Science at the University of Manitoba, during which he competed two internships at Autodesk Research in Toronto, Canada.
+
+PresenterBarrett Ens
+
+
+
+
+31 Aug
+
+
+
+Focusing on Human Behaviour in Designing Engineering Systems
+Our rapidly changing society requires solutions to unprecedented challenges. To tackle these, a systems perspective is needed. Socio-technical engineering systems fulfil important functions in society such as providing energy, improving our health, managing global manufacturing across the value chain, or building and maintaining critical infrastructure. Such systems are characterised by strong interconnections of technological and organisational complexity, multifaceted human behaviour, and uncertainty of long-life cycles. Anja Maier will provide insight into examples of her research on designing engineering systems, for example, through projects together with industry and public organisations in the healthcare sector. Emphasis will lie on studying and supporting human behaviour to design better systems. This includes conceptualising designing as a process of communication and with examples from healthcare design using and implementing technology to study, understand, and support human/citizen behaviour, it includes working towards connected and collaborative care.
+About the presenter
+Anja M Maier, Ph.D. is Professor of Engineering Systems Design at the Technical University of Denmark (DTU). Her research focuses on engineering systems design, with a particular emphasis on complexity and human behaviour. This includes design communication, design in networks, and design cognition. She leads the Engineering Systems Division, conducting interdisciplinary research into designing, building, and operating engineering systems. She received her MA in political science, communication science, and philosophy from the University of Muenster, Germany, and PhD in engineering design from the University of Cambridge. She has worked as a technical consultant in the manufacturing and software industries. Dr Maier serves on the Advisory Board of the worldwide The Design Society, on the Editorial Board of the Journal of Engineering Design, as Associate Editor of the journal Design Science, is a member of the International Council on Systems Engineering, a Fellow of the Cambridge Philosophical Society, and a Board member of the Copenhagen Center for Health Technology (Cachet).
+
+PresenterAnja Maier
+
+
+
+
+7 Sep
+
+
+
+Towards Cognition-Aware Learning Interfaces
+With thousands of learners watching the same video lectures in a digital learning environment, analyzing their interaction patterns provides a unique opportunity to understand how students learn. Existing studies show that physiological sensors such as eye-trackers and thermal cameras have great potential for cognitive state estimation without any associated risks to the participants. In this talk, Namrata will be presented her two recent projects where she used eye-based features for desktop activity recognition and later a combination of different non-intrusive sensors namely eye-tracker, thermal camera and web-camera to predict the task difficulty while students watch a video lecture. These projects aim to develop a system that can automatically infer the cognitive states of various students from the available physiological sensor data. Such system offer opportunities to tailor educational activities in online learning environment by adapting to their interface.
+About the presenter
+Namrata Srivastava is a Ph.D. student in the field of Learning Analytics in CIS, supervised by Prof James Bailey, Dr Eduardo Velloso, Dr Sarah Erfani of the University of Melbourne along with Dr Jason Lodge from the University of Queensland. Her research focuses on building a machine-learned computational model from the sensor-data that can automatically infer cognitive states of students associated with the task difficulty.
+
+PresenterNamrata Stivastava
+
+
+
+
+5 Oct
+
+
+
+Modern Mobile Culture
+While mobile apps have become an integral part of everyday life, little is known about the factors that govern their usage. Particularly the role of geographic and cultural factors has been understudied. In this talk, I discuss our MobileHCI 2018 article of geographic, cultural, and demographic factors in mobile usage (free copy: https://www.cs.helsinki.fi/u/peltoel/mobilehci18.pdf).
+About the presenter
+Ella Peltonen completed her PhD at University of Helsinki, Finland, in the beginning of 2018 in the field of crowdsensed mobile data analytics. She is currently a postdoctoral researcher at the Insight Centre for Data Analytics, University College Cork, Ireland, focusing on recommendation systems for smartphone data. Her research interest include mobile and everyday sensing and novel machine learning solutions for ubiquitous computing. She will join the Center for Ubiquitous Computing at University of Oulu, Finland, later this year
+
+PresenterElla Peltonen
+
+
+
+
+12 Oct
+
+
+
+PD, or not PD? The Technology Explorers and the design of the Highway of Life social VR application
+Participatory design (PD) describes a diverse set of practices that aim to integrate the intended users of technology fully into the design activities that lead to software and hardware products. Though rooted in Scandinavian social democratic theories, as PD has developed it has come to be informed by an equally diverse collection of theories and paradigms. Given this diversification, it can be difficult to know exactly what defines a set of practices as authentically PD, and how to situate diverse PD practices within a congruent theoretical lens. In this presentation, I will describe a series of design workshops that were conducted with 23 older adults (the Technology Explorers) that led to the development of the Highway of Life social VR application. I will provide examples that illustrate the Technology Explorers’ involvement in the design process, the interaction between the design team and the Explorers, and show some brief examples of the resulting application in use. In doing so, I hope to engage in a conversation about what defines these practices as participatory design (if indeed they were?), how fully the Technology Explorers could be said to have been involved in the design, and how the design work could be situated within the broader landscape of PD work.
+About the presenter
+Steven is a Research Fellow at the Microsoft Centre for Social Natural User Interfaces at the University of Melbourne. His research interests centre around how technology can be used to support human flourishing and benefit disadvantaged groups. Steven’s doctoral research centred on the use of tablet computers by older adults who had histories of homelessness, social isolation and complex needs. This interest in older adults and technology continues into his work on the Ageing and Avatars ARC Discovery project. This project focusses on how social virtual reality and avatars can enable older adults to participate in meaningful social activities. In addition to his work with older adults, Steven is also involved in projects assessing the potential of virtual reality to support people living with a disability, assessing assistive technology use by blind and visually impaired adults in the workplace, and the use of echolocation to navigate virtual worlds. Steven combines his academic interest in human-computer interaction (HCI) with professional experience as a social worker.
+
+PresenterSteven Baker
+
+
+
+
+19 Oct
+
+
+
+Design Patterns for Voice Interaction in Games
+Voice interaction is increasingly common in digital games, but it remains a notoriously difficult modality to design a satisfying experience for. This is partly due to limitations of speech recognition technology, and partly due to the inherent awkwardness we feel when performing some voice actions. In this talk I will present a pattern language for voice interaction elements in games, to help game makers explore and describe common approaches to this design challenge. The study defined 25 design patterns based on a survey of 449 videogames and 22 audiogames that use the player’s voice as an input to affect the game state. The patterns express how games frame and structure voice input, and how voice input is used for selection, navigation, control and performance actions. I will argue that academic research has been overly concentrated on a single one of these design patterns, due to an instrumental research focus and a lack of interest in the fictive dimension of videogames.
+About the presenter
+Fraser Allison is a PhD candidate at the Human-Computer Interaction. His doctoral research is on the design and player experience of voice interfaces in digital games. Fraser holds a Bachelor of Professional Communication (Honours) from RMIT University, and has several years' experience as a market research consultant.
+
+PresenterFraser Allison
+
+
+
+
+2 Nov
+
+
+
+Digital Emotion Regulaton
+Technology researchers recognize that emotional responses are fundamental to the user experience of digital technology. Recently there is evidence that people do not just passively react to technologies, but actively employ them to *shape* their emotions. This seminar presents work-in-progress by researchers in HCI and psychology at Melbourne, Stanford and UCL which explores this idea conceptually (via construction of a framework) and empirically (via apps that measure emotion relative to technology use). We hypothesize that emotion regulation is a factor in technology adoption and engagement, and hope to develop "digital ER" as a new area of enquiry.
+About the presenter
+Greg Wadley is a Senior Lecturer in the School of Computing and Information Systems at the University of Melbourne, where he studies the use of technology for health and wellbeing. He holds degrees in Computer Science, Cognitive Science and Human-Computer Interaction.
+
+PresenterGreg Wadley
+
+
+
+
+8 Nov
+
+
+
+Supporting collaboration in distributed design teams with holographic paper (Confirmation Seminar)
+Paper has long been used to support design work, and its use remains prominent despite the utility of computer technology. I argue that properties of paper such as manipulability, markability, and persistence are highly valued in design work yet inadequately supported by computers, and I propose that AR technology provides opportunities to conduct research into how these properties can be realized with a system I call holographic paper. One major limitation of paper is its unsuitability for remote collaboration, so a major goal of my research is to understand how holographic paper might be utilized in such a scenario. In this seminar I will motivate my research, outline my goals, and describe the research-through-design approach I am employing to achieve them. I'm looking forward to receiving feedback that will help me shape my future work.
+About the presenter
+Nick Smith is a PhD student of the Human-Computer Interaction at the University of Melbourne. Prior to this, he worked as a software engineer for a CAD software company. He completed his bachelor's degree in Computer Science at Monash University in 2015.
+
+PresenterNick Smith
+
+
+
+
+9 Nov
+
+
+
+Digital Technology and Encounters with Zoo Animals
+Zoos worldwide are beginning to deploy digital technologies for both visitors and animals. Such installations include interactive signage for visitors and touchscreen computers for animal cognition research. Zoos present animals in carefully crafted settings, with the aim of inspiring visitors’ respect and concern for wildlife. However, little is known about the effects that digital technologies can have on visitors’ encounters with zoo animals.
+About the presenter
+Sarah's PhD explores the potential role for digital technology in zoos, with a focus on animal welfare and conservation education objectives. She has a background in professional IT, including user research and project management, and an ongoing interest in ICT for non-profit organisations and volunteers.
+
+PresenterSarah Webber
+
+
+
+
+13 Dec
+
+
+
+Entering the Life-World of an Indigenous Community: A Design Journey
+
+PresenterSteven Bird
+
+
+
+
+
+
+
+
+
+10 Feb 
+
+
+
+Crowdfunding, Cryptocurrencies and Financial Inclusion: Precarious Innovation
+Precariousness drives innovation. For research innovation, the state of precariousness in the higher education environment opens both possibilities for innovation alongside risks and roadblocks for researchers and the research itself. This talk will consider the trajectory of an ethnographic study of cryptocurrency use from research inception to the ethics process and conclude with a disection of a crowdfunding campaign to support the data collection. The trajectory of the research has been marked by a series of serendipitous connections, digital innovations, institutional resistance and the slow waking of attention within a digital community. Taking a timeline approach, the talk will cover initial learnings from running a decentralised project through a centralised process. It will also highlight the digital tendrils of contact, connection and response with the cryptocurrency community that led to innovations in the funding strategy and research recruitment. Alongside this, the talk will document the university considerations and research stakeholder incentives that were raised, from ethics roadblocks to funding categorisation and research risk/reputation concerns. Uniquely, this presentation is a study of money, decentralized and digital forms of money and financial inclusion. In an uncanny way, these themes replicate the tensions between the centralised practices of institutions such as universities and banks and the decentralised systems of crowdfunding and cryptocurrencies that are digitally native. The scope of the study, which is at it’s launch, is an ethnography of the use cases, community ethos and financial risks and benefits for people who are using cryptocurrencies such as Bitcoin. Bitcoin is an online only currency that operates through a peer-to-peer payment system that is not mediated by banks. As such, this form of digital cash (one of many cryptocurrencies) is a proof of concept that innovations in technology and cryptography may generate alternative payment systems that attempt to circumvent government controls and operate outside of existing financial infrastructures. The social adoption of cryptocurrencies responds to a desire by open source and cryptographic communities to provide socially generated solutions to existing financial inequalities. We argue that this desire has arisen both for the community and ourselves in the face of a loss of trust in social institutions and the existing financial and monetary systems to address these inequalities. 
+About the presenter
+Alexia Maddox (PhD) is a digital sociologist and research consultant with professional affiliations at Deakin University and RMIT University in Melbourne, Australia. Her research interests are in digital frontiers and mixed-methods research and her background in sociology has provided a scholarly foundation from which to study the social implications of digital networked technologies, connected communities and social media. Her recent book, ‘Research Methods and Global Online Communities: a case study’ with Routledge presents her approach to mixed-methods research and forms the basis of her study of emerging communities forming through the internet.
+
+ Presenter Alexia Maddox
+
+
+
+
+17 Feb 
+
+
+
+Thermal Imaging for Interactive Systems
+Thermal cameras have recently drawn the attention of HCI researchers as a new sensory system enabling novel interactive systems. They are robust to illumination changes and exhibit different characteristic that distinguishes thermal cameras from their RGB or depth counterparts, for instance; thermal reflection and thermal transfer. In this talk, I will present different thermal imaging property and how we can utilize them to enable and extend interaction techniques, as well as amplifying the human visual sensing. Furthermore, I will present the outcomes of the research conducted. Finally, I will present the projects and outcomes of the research conducted during my visit in SocialNUI.
+About the presenter
+Yomna graduated from the German University in Cairo, Egypt in 2010. Afterwards she came to Stuttgart University, Germany for her international Computer Hardware and Software Master program (INFOTECH). In 2013, Yomna wrote her Master-thesis in hcilab under the supervision of Albrecht Schmidt. After receiving her Master’s Degree in October 2013, she joined the hcilab at the university of Stuttgart as a research associate and PhD candidate. Her research focuses on Thermal Imaging operating in the far-infrared spectrum and novel interactive systems. Yomna has been involved in the FeuerWeRR BMBF project with the firefighters, aiming to support firefighters during their work, while considering the cognitive load during the interaction of the build device. 
+
+ Presenter Yomna Abdelrahman
+
+
+
+
+24 Feb 
+
+
+
+Disentangling Gaze Cues in Intelligent User Interfaces: Opportunities & Challenges (Confirmation Seminar)
+Imagine an artificial intelligence that knows where you are looking, could it infer your intentions from your gaze behaviour? Would you be able to deceive it by changing how you observe the environment? In face-to-face interaction, we naturally monitor each other’s eyes as they offer a powerful ‘window into the mind’. Our broader research vision is to give computers this ability.
+In this project, we are interested in the nonverbal gaze cues surrounding intention and deception. To train an artificial intelligence that can recognise such cues, we are recording a dataset of gaze behaviours in competitive gameplay. By analysing this dataset, we can reveal insights into a player’s thought processes, enabling us to disentangle between a player’s intentions amongst other behaviours. With eye trackers becoming more ubiquitous in many aspects of human lives, it is important that user interfaces go beyond simply knowing where we are looking. However, this is not without its challenges as eye tracking suffers from inherent inaccuracies, and that our eyes are always on (the ‘Midas Touch’ problem) which makes its data difficult to interpret. This work aims to inform the design of intelligent user interfaces that adapt to our gaze in real-time to enrich our interaction. In this seminar, Joshua shares an overview of his PhD findings over the past year and his plans for the remainder of his candidature.
+About the presenter
+Joshua Newn is a PhD student at the Microsoft Research Centre for Social Natural User Interfaces at The University of Melbourne under the supervision of Professor Frank Vetere and Dr Eduardo Velloso. Prior, Joshua completed a Master of Information Systems (Research Specialisation) at the centre that explored various aspects of multimodal input on large surfaces. His current research interests are in the role of gaze cues and signals in human-computer interaction, the revelation of gaze patterns, the implicit/explicit use of eye behaviours and movements for interaction in games and the use of gaze as a complementary input.
+
+ Presenter Joshua Newn
+
+
+
+
+03 Mar 
+
+
+
+Connected Seeds: Co-design of Internet of Things for Sustainable Urban Agriculture
+In this talk I will present recent research from the Connected Seeds and Sensors project conducted at QMUL (Queen Mary University of London), exploring how co-designing digital technologies with urban agricultural communities can support more sustainable food practices in the city. The project seeks to expand the design space of sustainable smart cities and Internet of Things (IoT) beyond managerial, utilitarian narratives, by incorporating playful interactions, personal stories, and participatory design. I will describe the practice of co-designing a Connected Seeds Library with seed-savers and food-growers in east London, and reflect on some of the challenges and opportunities of community-based IoT, including meaning-making of different types of data. 
+About the presenter
+As an HCI researcher and designer my interests are in sustainability, involving the user in the design process, and in non-utilitarian approaches that draw on the arts and humanities. During my PhD I developed a community-based understanding of sustainability within HCI, and developed a ludic participatory design methodology as a way of expanding the design space of sustainable HCI beyond dominant utilitarian narratives. By facilitating opportunities for diverse people to participate in inclusive design activities that are grounded in the needs, practices and values of their communities, my research and practice aims to support community resilience and cohesion. I am currently Researcher Co-Investigator on Connected Seeds and Sensors, an 18 month EPSRC-funded Research in the Wild – Internet of Things (IoT) project based at QMUL, where I am investigating how the development of a “smart” seed library can help empower communities and support more sustainable food practices in the city. My investigation challenge is to make IoT accessible and inclusive to diverse users, where wifi, mobile phone and a tech-savvy user base is not a given, and how this reality differs from the idealised vision of a connected “smart” city.
+
+ Presenter Sara Heitlinger
+
+
+
+
+10 Mar 
+
+
+
+Supporting Bodily Communication in Video Consultations of Physiotherapy
+In this talk, Deepti will first present a conceptual understanding of the role of bodily communication in physiotherapy related consultations, and the challenges faced by physiotherapists in understanding the patient’s movements during video based consultations. Later she will discuss the findings of a lab-based evaluation of a wearable technology, SoPhy that she has developed to support the work of physiotherapists during video consultations. She will conclude by presenting initial findings of the field deployments of SoPhy in naturally occurring video consultations of physiotherapy. This is Deepti's third year review seminar.
+About the presenter
+Deepti Aggarwal is a PhD candidate supervised by Prof Frank Vetere, Dr Bernd Ploderer, and Dr Thuong Hoang at the Microsoft Research Centre for SocialNUI, University of Melbourne. In her PhD, she is investigating ways to communicate bodily information in video consultations of physiotherapy. She aims to make video consultations effective by designing NUI based technologies that can support the essential clinician-patient interactions.
+
+ Presenter Deepti Aggarwal
+
+
+
+
+17 Mar 
+
+
+
+Not all who wander are lost: a brief talk on book seeking behaviour in libraries
+The conventional model of book seeking in libraries is of a reader searching a catalogue, then going to the shelves and selecting the book they were looking for then immediately checking it out. Like many simple stories, this one is too simple to be true: there are variations in the story in every step. Catalogues may not be easy to use, and not all readers use them; the shelves are an excellent venue for browsing and information seeking in their own right; the books users seek may not be present and a surprising amount of book use takes place inside the library. This talk will cover the research on all of these aspects of book seeking that fall outside the model, identifying key research directions and design opportunities for the future.
+About the presenter
+Dana is a part time PhD student at Melbourne and full time user experience researcher practitioner in Swinburne University of Technology Library. Her primary research interests centre on how people find, use and understand information, and making that experience better. Dana was a 2016 recipient of a Google PhD Fellowship in HCI.
+
+ Presenter Dana Mckay 
+
+
+
+
+24 Mar 
+
+
+
+Designing for the Unexpected: Evaluating the Effectiveness of an App to Help Australians in Emergencies
+Emergency services in Australia are becoming increasingly busy, which means that people need the right interventions and tools to empower them to control the situation on their own. To address this challenge, an insurance company partnered with a non-for-profit organisation to develop a mobile app to help people in emergencies. This talk will describe how our research team was brought into the project to discover and test assumptions about how people access information about preparing for, responding to and recovering from emergency situations. The research also included an evaluation of the functionalities that people might find useful and valuable in a digital tool for dealing with emergencies.
+About the presenter
+Kasia Mierzejewska is a Service Designer at Make Studios, a strategic design company based in Melbourne and Hong Kong. Kasia holds a Masters in Design Management and a BSc in Marketing and Design, both from Lancaster University, UK. As a Service Designer, she works with clients to invent and innovate services or products, using human-centred design practices. She has experience delivering service design projects for non-profit and educational organisations.
+
+ Presenter Kasia Mierzejewska 
+
+
+
+
+31 Mar 
+
+
+
+Designing Digital Vertigo Games
+Many people enjoy "vertigo" sensations caused by intense and playful bodily activities; examples include children spinning in circles, fairground rides, and driving fast cars. These activities create confusion between sensory channels and form a key part of what can be defined as "vertigo play". In this talk I introduce the concept of "digital vertigo games", and discuss possible ways in which interactive technology can facilitate deliberate sensory confusion, as derived from the design and evaluation of three case study prototypes. I will conclude with a discussion on the design insights and potential tactics that HCI and play designers can follow when developing their own digital vertigo games. 
+About the presenter
+Richard Byrne is currently a PhD student in the Exertion Games Lab at RMIT University. Richard holds a Masters of Research (MRes) in Computer Science and Future Interaction Technology, as well as a BSc in Computer Science from Swansea University, UK. After time spent working as a software developer, and at the University of Nottingham's Digital Economy Research Centre, he later joined RMIT as a PhD student. Richard's research explores "Vertigo" in the design of bodily play experiences, and investigates potential ways HCI designers can incorporate vertigo into their game designs in order to create novel player experiences.
+
+ Presenter Richard Byrne
+
+
+
+
+07 Apr 
+
+
+
+Older Adults' Use of Self-representations for Appropriating Online Games
+The percentage of older adults playing online games is increasing. The use of self-representations in online games may provide new opportunities for social participation, enjoyment and identity exploration. These new online self-representations can affect the behavior of the users in both the digital and the physical world. This study applies a qualitative exploratory approach to understand how older adults are using self-representations in online games for socialising. Based on semi structured interviews and gameplay observations of 7 older adults (66 to 95 years old) who play online with other people, the study provides an understanding of the diverse use of self-representations by older adults in the process of appropriating online games.
+About the presenter
+Romina Carrasco is a PhD candidate supervised by Prof Frank Vetere, Dr Jenny Waycott, and Dr Steven Baker at the Microsoft Research Centre for SocialNUI, University of Melbourne. She holds MA in Digital Arts at Pompeu Fabra University, Spain. Previously, Romina was a university teacher and her professional experience included the development of various interactive projects on education, environment and arts. In her PhD, she is investigating how digital avatars can empower social participation in Older Adults(65+). In this talk she will talk about the findings of her first study.
+
+ Presenter Romina Carrasco
+
+
+
+
+13 Apr 
+
+
+
+‘World class digital work’ or ‘proletarianised labour’? Ethnographic inquiry on online freelancing in the Philippiness
+Research on digital labour on the ‘Global South’ have raised concerns about the precarity of this labor (Graham, et al., 2017), where workers find themselves competing for hyper-specialised and undervalued jobs, and the working environment is often described as 'digital sweatshops'. On the contrary digital work is cast as aspirational for workers in the Philippines, an alternative to overseas labor migration, a catalyst for rural development, and an attractive option for millennial workers. The talk presents 'online freelancing' as an increasingly integral component of work in the Philippines that attracts Filipinos across age groups, geographic location, and professional or educational backgrounds. The presentation will draw from our ongoing ethnographic inquiry to understand the experiences (economic, social, and moral dimensions) of Filipinos who engage in online freelancing and the conditions that draw them to this work, as well as the perspectives of industry drivers. These narratives are situated within a broader landscape of global labour inequalities and the emerging digital economy.
+										*The project is a collaboration with Dr Jason Cabañes of the University of Leeds and is funded by the Newton Tech4Dev network. 
+About the presenter
+Dr Cheryll Ruth R. Soriano is Associate Professor and Chair of the Department of Communication, De La Salle University in Manila and Fellow, Australia-APEC Women in Research based in the Centre for Culture, Politics and Communication of RMIT University.
+
+ Presenter Cheryll Soriano
+
+
+
+
+21 Apr 
+
+
+
+Technologies for Animal Tracking in a Zoo Enclosure
+Animals housed in artificial environment face varieties of challenges. Observation of animal behaviour provides essential information of animals’ preferences and well-being. The traditional way of studying animal behaviour is through direct observation by specialists and it is still the approach practiced by animal welfare scientists around the world. This study provides an approach to automatically track giraffes within the enclosure in day and night time and visualise the location data within any time window. Based on a focus group interview with the giraffe keepers, the visualisation provides useful information in terms of assessing the influence of various factors on the giraffes and helps with the enclosure transformation.
+About the presenter
+Ruining Dong is a MSc (Computer Science) student supervised by DrWally Smith, Dr Marcus Carter and Zaher Joukhadar at the Microsoft Research Centre for SocialNUI, University of Melbourne. She holds a bachelor degree in Digital Media Technology at Communication University of China. Ruining has previously done a research on Optical Music Recognition (OMR), which is a subfield of Optical Character Recognition (OCR), to help with music study. In her master degree, she is investigating the approach to automates the process of animal behaviour observation and benefits zoo animal welfare.
+
+ Presenter Ruining Dong 
+
+
+
+
+27 Apr 
+
+
+
+Commensality and the Social Use of Technology during Family Mealtime (CHI Practice Talk)
+This paper examines familial interactions, which are mediated through information and communication technologies, during domestic mealtimes. We seek to understand how technologies are used and negotiated amongst family members and the influence of technology on commensality. We conducted an observational study of six families. The findings showed how technologies are integrated into the mealtime activities. Our study identifies domestic circumstances where background technologies are raised to the foreground, visible devices are hidden, unwanted distractions become desired, and ordinary technologies are integrated into mealtime experiences. We identify four patterns of arrangement between technologies and family members during mealtimes, and we discuss how technologies contribute to mealtime satiety and commensality. Finally, we present implications of our findings and directions for technological advancements focusing on the social and celebratory nature of family mealtimes.
+About the presenter
+Hasan Shahid Ferdous is a PhD student at the University of Melbourne, Australia. He has completed Master of IT (Research) degree from GSIT, Monash University, Australia in 2011, and BSc in CSE from the Department of CSE, BUET, Bangladesh in the year 2008. He is an active member of the Microsoft Research Centre for Social Natural User Interface (SNUI) at the University of Melbourne, specially focusing on technology usage in the collocated interaction space.
+
+ Presenter Hasan Ferdous
+
+
+
+SoPhy: A Wearable Technology for Lower Limb Assessment in Video Consultations of Physiotherapy (CHI Practice Talk)
+Physiotherapists are increasingly using video conferencing tools for their teleconsultations. Yet, the assessment of subtle differences in body movements remains a challenge. To support lower limb assessment in video consultations, we present SoPhy, a wearable technology consisting of a pair of socks with embedded sensors for patients to wear; and a web interface that displays information about range of weight distribution, foot movement, and foot orientation for physiotherapists in real-time. We conducted a laboratory study of 40 video consultations, in which postgraduate physiotherapy students assessed lower limb function. We compare assessment with and without SoPhy. Findings show that SoPhy increased the confidence in assessing squats exercise and fewer repetitions were required to assess patients when using SoPhy. We discuss the significance of SoPhy to address the challenges of assessing bodily information over video, and present considerations for its integration with clinical practices and tools.
+About the presenter
+Deepti Aggarwal will be presenting this paper on behalf of the co-authors (Weiyi Zhang, Thuong Hoang, Bernd Ploderer, Frank Vetere and Mark Bradford). Deepti is a final year PhD candidate at the University of Melbourne, working with Frank Vetere, Bernd Ploderer and Thuong Hoang. As part of her PhD, she is investigating the role of interactive technologies to increase the efficacy of video based consultations of physiotherapy. In this talk, she will present the design and study of a wearable system, SoPhy that is developed to support physiotherapists in assessing patients with lower limb issues over video consultations.
+
+ Presenter Deepti Aggarwal
+
+
+
+SoPhy: A Wearable Technology for Lower Limb Assessment in Video Consultations of Physiotherapy (CHI Practice Talk)
+Social participation among older adults improves quality of life, reducing negative emotions that may lead to depression or premature death. The use of virtual avatars (self representations of the user) in online environments can support social participation by providing opportunities for enjoyment. This study applies a qualitative exploratory approach to understand how older adults are using self-representations in online games for socializing. Based on semi structured interviews and gameplay observations of 8 older adults (66 to 95 years old), this talk will present the experiences of older adults playing with virtual avatars in online games with other people.
+About the presenter
+Romina Carrasco is a PhD candidate supervised by Prof Frank Vetere, Dr Jenny Waycott, and Dr Steven Baker at the Microsoft Research Centre for SocialNUI, University of Melbourne. She holds Master in Digital Arts at Pompeu Fabra University, Spain, and a Bachelor in Visual Communication Multimedia at the University of San Francisco de Quito, Ecuador). In her PhD, she is investigating how virtual avatars can empower social participation among older adults (65+).
+
+ PresenterRomina Carrasco
+
+
+
+
+28 Apr 
+
+
+
+Kinecting with Orangutans: Zoo Visitors’ Empathetic Responses to Animals’ Use of Interactive Technology (CHI Practice Talk)
+Animal conservation organisations occasionally harness depictions of animals using digital technology to inspire interest in, and concern for animals. To better understand the forms of empathy experienced by people observing animal-computer interaction, we designed and studied an interactive installation for orangutans at a zoo. Through collaborative design we established an understanding of zoos’ objectives and strategies related to empathy in the zoo context. We deployed a prototype installation, and observed and interviewed visitors who watched orangutans use the installation. Analysis of observations and interviews revealed that visitors responded with cognitive, affective and motor empathy for the animals. We propose that these empathetic responses are prompted by the visibility of orangutans’ bodily movements, by the ‘anthropic frame’ provided by digital technology, and by prompting reflection on animals’ cognitive processes and affective states. This paper contributes new evidence and understanding of people’s empathetic responses to observing animal-computer interaction and confirms the value of designing for empathy in its various forms.
+About the presenter
+Sarah Webber is a doctoral candidate at the Microsoft Research Centre for Social NUI, University of Melbourne. Her PhD research investigates the design and use of interactive technology at the zoo. In recent years Sarah has contributed to a number of interaction design research projects at the University of Melbourne, investigating the impacts of interactive digital technologies on wellbeing, social recreation, and the management of identity-related possessions. Sarah holds a MSc in Information Systems, and has a professional IT background in interaction design, client-facing and user advocacy roles, having worked in a range of corporate, government, academic and non-profit organisations.
+
+ Presenter Sarah Webber
+
+
+
+Trajectories of Engagement and Disengagement with a Story-Based Smoking Cessation App (CHI Practice Talk)
+Strong user engagement with digital technologies for behaviour change is often taken as a precursor to their longer-term efficacy. We critically examine this assumption through a qualitative study of a smoking cessation app, called NewLeaf, which allows quitters to swap personal stories. The study examined what influenced people to engage or disengage with NewLeaf, and how the app was deployed in quit attempts during a four week trial. Several properties of swapped stories were reported to promote engagement, including: authenticity, currency, contextualization of advice, and evoking a sense of community. But while the resulting engagement was sometimes productive in supporting quitting, other trajectories of use were observed involving counterproductive engagement, and a surprising pattern of productive disengagement especially among stronger quitters. We discuss how this analysis of different trajectories problematizes any simple interpretation of user engagement as an early indicator of success for behaviour change technologies.
+About the presenter
+Wally Smith has worked in the field for Human-Computer Interaction and Social Computing for several years, holding research positions at University College London, University of Surrey, University of Western Australia, City University London, before joining the University of Melbourne. His research examines real-world experiences of using IT in a variety of domains including public history, education, health and emergency management. He also does more theoretical work on the social and historical origins of information technology. Across his career he has taught various aspects of applied computing, most recently Organisational Processes, Knowledge Management, Research Methods in Information Systems, and Impacts of Digitisation.
+
+ Presenter Wally Smith
+
+
+
+Celebratory Technologies during Family Mealtimes (CHI Practice Talk)
+While the idea of “celebratory technologies” during family mealtimes to support positive interactions at the dinner table is promising, there are few studies that investigate how these technologies can be meaningfully integrated into family practices. This paper presents the deployment of Chorus – a mealtime technology that orchestrates the sharing of personal devices and stories during family mealtimes, explores related content from all participants’ devices, and supports revisiting previously shared content. A three-week field deployment with seven families shows that Chorus augments family interactions through sharing contents of personal and familial significance, supports togetherness and in-depth discussion by combining resources from multiple devices, helps to broach sensitive topics into familial conversation, and encourages participation from all family members including children. We discuss implications of this research and reflect on design choices and opportunities that can further enhance the family mealtime experience.
+About the presenter
+Hasan Shahid Ferdous is a PhD student at the University of Melbourne, Australia. He has completed Master of IT (Research) degree from GSIT, Monash University, Australia in 2011, and BSc in CSE from the Department of CSE, BUET, Bangladesh in the year 2008. He is an active member of the Microsoft Research Centre for Social Natural User Interface (SNUI) at the University of Melbourne, specially focusing on technology usage in the collocated interaction space.
+
+ Presenter Hasan Ferdous
+
+
+
+
+19 May 
+
+
+
+Human Sensing: Crowdsourcing
+The growing number and popularity of social systems has led to a significant increase of data originating from humans. For this reason, both industry and researchers of different domains have increasingly leveraged this data to investigate human behaviour and/or improve their applications/systems/platforms/data collection practices. In this seminar, I will provide an overview of the work I have been conducting over the past few years on this topic, with particular focus on crowdsourcing.
+About the presenter
+Dr Jorge Goncalves is a Lecturer in Human-Computer Interaction in the Human-Computer Interaction at the University of Melbourne, Australia. He has published over 75 peer-reviewed publications, many of which at top venues within the field of Human-Computer Interaction (CHI, CSCW, UbiComp, UIST, DIS, ACM TOCHI). His research interests include social computing, ubiquitous computing, crowdsourcing, mobile instrumentation and public displays. Goncalves received a PhD with distinction in Computer Science and Engineering from the University of Oulu, Finland. Contact him at jorge.goncalves@unimelb.edu.au
+
+ Presenter Jorge Goncalves
+
+
+
+
+26 May 
+
+
+
+Studies of Cross-device Interaction
+In this seminar I will present some of the recent findings from our ongoing research in cross-device interaction, as reported in our recent CHI, NordiCHI, and UbiComp papers.
+About the presenter
+Jesper Kjeldskov is Assoc. Professor in the Human-Computer Interaction at University of Melbourne. Jesper's research focus is on mobile and ubiquitous technologies, primarily in domestic settings. He has published more than 130 peer-reviewed journal and conference papers within the area of HCI. Since 2009 he has extended his work on mobile and domestic computing with new projects in the areas of digital ecosystems, sustainability, smart cities, emerging display technologies, and natural user interfaces.
+
+ Presenter Jesper Kjeldskov 
+
+
+
+
+30 May 
+
+
+
+Annotations for collaboration on 3D animated virtual objects (Confirmation Seminar)
+Annotations are used to add extra information to any object (image, text, 3D model, etc.). In traditional classrooms, an example of annotation is drawing with markers over a whiteboard, or taking notes on printed slides. With new technology, annotations in the classroom are more than text and drawings, examples are physiotherapy classes, where students learn by visualizing a 3D human virtual model. With technology of augmented reality (AR), this interactive classroom can use a 3D whiteboard. In a physiotherapy class, the lecturer can explain human body movements by using an animated 3D human model. As the model is animated, classic annotation techniques (as drawings) are restricted as this visual information lose meaning with movements. Using user center design, with Physiotherapy teacher and 3th year students, we present and discussed a research thought design project that will deliver the annotation tools teachers need for a futuristic 3D whiteboard that uses real-time animated models.
+About the presenter
+Martin is original from Ecuador, where he received an Electronic Engineer degree from USFQ. He was recipient of the Ecuadorian Scholarship “Top Universities” to study a Master of Science at The University of Melbourne. After completing this degree he was awarded a scholarship in Melbourne to continue PHD, focusing on human computer interaction for Movement Teaching. Martin is currently working in project related to developing tools to improve communication in immersive VR and AR systems as part of his work in the Interaction Design lab and the Microsoft SocialNui lab.
+
+ Presenter Martin Reinoso
+
+
+
+
+16 Jun 
+
+
+
+Understanding How to Design Technology to Mediate Indigenous Knowledge Over Distance
+As dominant communication technologies gain new places, the culture, lenses and logics embedded in their design threaten to totally or partially subjugate the foreign culture they find themselves in. Design becomes very critical in this era given that it contributes to determining what knowledges and cultures are mediated, and ultimately what knowledges and cultures are aligned.
+This thesis builds on the critical relationship between knowledge and design, particularly the role of technology design in the development of indigenous knowledge. It examines how video-mediated communication technology can be designed to support African transnationals in nurturing indigenous knowledge (IK) over distance. The African transnational, in using current technologies to nurture an indigenous identity while away from the homelands, becomes central to understanding how communication technologies support or align indigenous knowledge, and how new technologies can be designed or redesigned to mediate IK over distance.
+Through three field studies conducted between Australia and Kenya, this thesis presents contributions to the fields of Video-mediated communication and IK technology design. Among other contributions, an indigenous lens to technology design will be proposed. Additionally, through the use of a 360° video conferencing prototype in one of the studies, insights will be presented on how the immobility of mobile devices hinders the cultivation of IK over distance; and that designing for an individual and communal experience supports the development of IK.
+About the presenter
+Kagonya Awori is a PhD candidate with the Microsoft Research Center for Social Natural User Interfaces (SocialNUI), at the University of Melbourne, Australia. Her PhD in Human-Computer Interaction examines how video-mediated communication technologies can be designed to support the nurturing of indigenous knowledge over distance. Kagonya holds a dual Masters in Human-Computer Interaction from Carnegie Mellon University, USA, and a Bachelors in Business Information Technology from Strathmore University, Kenya. In 2014, Kagonya received the Google Anita Borg award for demonstrating outstanding academic achievement, leadership and community involvement in Computer Engineering, and received the Human Computer Interface/ Interaction Design Award sponsored by Microsoft Research SocialNUI Centre in 2016.
+
+ Presenter Kagonya Awori 
+
+
+
+
+27 Jun 
+
+
+
+Insertables – Digital Devices in, through and underneath the skin (Confirmation Seminar)
+There is a progression towards devices moving inside the human body, a category of devices we define as insertables. This emerging category of devices is not present in available literature. Individuals are putting devices inside their bodies, yet the reasons as to why are not well known. There is a tension with these so-called “bio-hackers” and some members of the general public who are against the concept of insertables. These hobbyists are designing and developing insertable devices themselves, and are moving from merely makers heralding new markets to emerging consumers. The design and development of these devices is not necessarily considering new end users. Currently devices are made by engineers, for engineers, resulting in barriers to entry for “lay-people” (due to lack of concern to mainstream usability and UX). Understanding, and addressing these problems will create principles to aid the design development of these emerging devices, with an intent to make them a viable interaction mode of choice. Individuals should be able to choose wearable or insertable forms based on their personal preferences.
+
+ Presenter Kayla Heffernan 
+
+
+
+
+14 Jul 
+
+
+
+Mixed reality shopping experience: improving consumer and producer connections (Imagine Cup Team)
+SourceLink are developing a mixed reality experience for consumers to improve their shopping experience, designed mainly for use in independent food retailers. The technology can be used in both an augmented reality app and the Microsoft Hololens, and will give consumers more relevant information about the products in store.
+The SourceLink team will compete as the Australian entry at the Microsoft Imagine Cup in Seattle later in July. At this seminar, the team will seek feedback and suggestions to maximise their chances of success. For more information:
+										https://blogs.msdn.microsoft.com/bizspark_au/2017/06/28/sourcelink-creating-exciting-new-mixed-reality-shopping-experience-with-information-about-the-producers-behind-the-food-we-buy/
+About the presenters
+The Imagine Cup team SourceLink was conceived and formed at the CISSA hackathon, CodeBrew, earlier this year. Matilda is a second year student in the Bachelor of Science (Computing and Software Systems). Karen and Jack are students in Master of Information Systems.
+
+ Presenter Matilda Stevenson, Jack Qian, Karen Zhang 
+
+
+
+
+21 Jul 
+
+
+
+Supporting Bodily Communication in Video Consultations of Physiotheraphy (Completion Seminar)
+Physiotherapy is a post-rehabilitation activity that aims to improve and restore the body movements and functioning of an individual. Physiotherapists rely on fine-details about the patient’s movements such as weight distribution and range of movement, to understand their recovery. Recently, physiotherapists have started using video conferencing tools to conduct consultations over-a-distance. However, little is known about whether and how video technology supports the tasks of physiotherapists in assessing and treating patients; how bodily information is communicated to and interpreted by physiotherapists during video consultations; and how does it affect the overall outcome of a video consultation.
+This thesis investigates the role of interactive technologies to support the tasks of physiotherapists in assessing and treating patients during video consultations. Employing user-centred approach, I conducted four studies to answer the research goals. I began by understanding the challenges faced by physiotherapists in the current practises of video consultations through a field study at the Royal Children’s Hospital. The study inspired the design of a wearable technology – SoPhy. SoPhy was evaluated first through a laboratory study to refine the design, and then through field deployments at Royal Children’s Hospital to understand it’s real-world use.
+Through the insights of four studies, this thesis provides both practical and theoretical guidelines to design future video consultations systems that support bodily communication between patients and clinicians
+About the presenter
+Deepti Aggarwal is a PhD candidate supervised by Prof Frank Vetere, Dr Bernd Ploderer, and Dr Thuong Hoang at the Microsoft Research Centre for SocialNUI, University of Melbourne. In her PhD, she is investigating ways to communicate bodily information in video consultations of physiotherapy. She aims to make video consultations effective by designing NUI based technologies that can support the essential clinician-patient interactions remotely.
+
+ Presenter Deepti Aggarwal
+
+
+
+
+28 Jul 
+
+
+
+VR, Older Adults and Social Participation: Meet the Technology Explorers
+Cutting edge technologies, such as Virtual and Augmented Reality (VR/AR) have been proposed as a means by which older adults might increase their level of social participation and improve their quality of life. Virtual bodies (avatars) used in virtual environments may also allow older adults to adopt alternative forms of self-representation that allow them to transcend physical limitations and challenge stereotypes about the way we view older adults in society. This talk will discuss the Ageing and Avatars research project that aims to partner with older adults (the Technology Explorers) to examine the potential of VR/AR technology, design social VR experiences that encourage older adults to participate in social activities, and explore the role of virtual bodies for older users. In particular, this talk will present preliminary findings from the second study of the project that used a social VR technology probe, populated by avatars created by the older adults themselves. In doing so, the talk will discuss the goals of understanding the Technology Explorers needs and desires, evaluating the field-test of the social VR technology, and consider how the probe has inspired both the participants and the researchers to think about social VR design. The talk will also discuss next steps for the project.
+About the presenter
+Steven has undergraduate degrees in Social Work and Human Services and completed his PhD in 2016. He has extensive professional experience working with disadvantaged older adults, particularly in the area of homelessness and social isolation. Steven’s PhD examined the use of tablet computers by older adults with histories of homelessness, social isolation and complex needs. He has presented at local and international conferences on topics related to technology use by older adults and results from his PhD have been published in journals in the fields of social work, gerontology and human-computer interaction. Steven is a current research fellow at the Microsoft Research Centre for Social Natural User Interfaces and is conducting research on the use of Virtual and Augmented Reality technology by older adults.
+
+ Presenter Steven Baker
+
+
+
+
+04 Aug 
+
+
+
+Data Work in the City
+Growing capacities for sensor-driven interaction and the promise of large-scale data analytics has caught the attention of many different groups. One site of active interest is in smart cities and data-driven urban governance — the opportunities to use data platforms as sites for urban efficiency and as means for civic engagement. Our ongoing ethnographic research looks at the practical problems of data-driven urbanism — problems that are organizational, cultural, and institutional as much as (or more than) technical. In this talk, I’ll take data as a cultural category and ask what role it can play in urban governance and what it takes for it to assume that role.
+About the presenter
+Paul Dourish is Chancellor's Professor of Informatics in the Donald Bren School of Information and Computer Sciences at the University of California Irvine. He also has courtesy appointments in Computer Science and Anthropology, and an Honorary Senior Fellow in Computing and Information Systems at the University of Melbourne. His research focuses primarily on understanding information technology as a site of social and cultural production; his work combines topics in human-computer interaction, social informatics, and science and technology studies. He is the author of "Where the Action Is: The Foundations of Embodied Interaction" (MIT Press, 2001), co-author (with Genevieve Bell) of "Divining a Digital Future: Mess and Mythology in Ubiquitous Computing" (MIT Press, 2011) and most recently author of "The Stuff of Bits: An Essay on the Materialities of Information" (MIT Press 2017).
+
+ Presenter Paul Dourish
+
+
+
+
+11 Aug 
+
+
+
+Happy Cyborgs: research on human wellbeing and technology use
+Modern technology - referring here to consumer-oriented, internet-capable digital devices and software - has become enmeshed into human life in the developed world. It is enabling unprecedented access to information, new insights for research, and also sparking debates about its role in health and wellbeing. This talk will consider the complex intersection between technology use and wellbeing, and introduce research taking place at the Centre for Positive Psychology (CPP), which aims to advance the science and practice of wellbeing through the application of Positive Psychology. Research initiatives within the CPP either explore the role of technology in wellbeing, or make use of technology in a variety of ways, including large-scale online surveys to aid schools and others in evaluating the wellbeing of their constituents (and efforts to improve it), the use of apps to boost wellbeing, mobile devices to gather accurate health and wellbeing data, big-data analyses of language, and recently the addition of some psychobiological capability. The talk will begin by introducing contemporary, multidimensional constructions of wellbeing and modern trends in health, outline the research at the CPP, then consider how “everyday” technology use (with an emphasis on video gaming) may aid or hinder flourishing and optimal performance. Theories and initiatives that put forward notions of the right balance in technology use will be touched upon.
+About the presenter
+Dr Dan Loton’s professional experience comprises research management and quality assurance in the Higher Education sector, and academic work as a researcher in the disciplines of Education, Psychology and Research Policy. Soon after completing his PhD on the topic of excessive video gaming, Dan commenced a post-doctoral Fellowship in the Centre for Positive Psychology at the University of Melbourne’s Graduate School of Education, focussing on the topics of Positive Parenting and Positive Education. Dan’s research background comprises multi-method studies with emphasis on public and professional engagement, and an interest in technology use, wellbeing and the transformative capacity of education, particularly for non-traditional students.
+
+ Presenter Dan Loton
+
+
+
+
+18 Aug 
+
+
+
+Supporting Interaction Trajectories during Domestic Video Calls
+Video calls among family members and friends are no longer experiences where they sit in front of a technology that mediates their audio and video of their faces. Rather, families and friends integrate video call experiences into their mundane activities meaning that they get engaged in everyday activities while video calling. Such interactions are not necessarily planned. They unfold during the course of video calls, creating a video call interaction trajectory. However, current video call technologies fall short in supporting these interaction trajectories.
+In my thesis, I developed an understanding of how we can support interaction trajectories during domestic video calls through conducting three field studies. In the first study, I explored the requirements to support video call interaction trajectories by observing how current technologies shape video call interaction trajectories and how video callers use technologies to support their interaction trajectories. In the second study, building on the findings of the first study, I examined how a video call technology that provides hands-free mobility can support interaction trajectories. In the third study, building on the findings of the first and second study, I examined how enabling cross-device interaction during video calls can support interaction trajectories.
+About the presenter
+Behnaz is a PhD student in the Microsoft Research Centre for Social NUI. She has a Bachelor and Master degree in Industrial Engineering and has worked in industry as a Business Analyst. During her PhD, she has also worked for Microsoft Research Cambridge as an intern working on the Social Devices Project. Her research interest is on understanding social experiences of technology use in the context of mediated interactions especially video-mediated communications.
+
+ Presenter Behnaz Rostami
+
+
+
+
+25 Aug 
+
+
+
+Understanding tabletop boardgaming
+The rich material interface of boardgames affords subtleties of interaction and social organisation that offer insights not only for game studies but also for the HCI and IS communities. Although there has been considerable research on digital games, research on boardgames has to date focused relatively narrowly on the game itself as an artefact, as a system or as a text, as well as on opportunities to implement them in digital form. There has been little attempt to understand the native experience of tabletop boardgame play or to explore the relationship between physical boardgames and their digital representations.
+Björk (2008) argued that to understand games, we should study them from three distinct perspectives: the game, the gamers and the experience of gaming. Through three studies – a case study of three popular games, an interview study with serious leisure boardgamers, and an observational study of the play experience – I explore these perspectives and identify key elements of the boardgame experience as well as the challenges that they present for digitisation.
+The primary argument of this thesis is that the materiality of a boardgame is an end in itself, but is also a tool that gamers use to make sense of and plan for the game. Game components are a key enabler of the tenuous relationship between cooperation and competition that underlies the boardgame. Moreover, the experience of playing boardgames – the pastime of boardgaming – extends beyond the at-the-table experience of playing a game to preparatory and follow-up activities, to future plays, and to the myriad other social and play-oriented activities that occur at the table before, during and after play. Focusing on the experience of boardgame enthusiasts, I will demonstrate that, although the act of playing a boardgame may be an explicitly non-digital and material practice, the activities which surround it are frequently digital, and that a “Hinterland” of digital tools and practices enables much of the non-digital play.
+Björk, S. (2008). Games, gamers, and gaming: understanding game research. Paper presented at the 12th international conference on Entertainment and media in the ubiquitous era, Tampere, Finland.
+About the presenter
+Melissa is a PhD student in the Human-Computer Interaction and Microsoft Research Centre for Social NUI. Her research examines the experience of playing boardgames in both physical and digital forms, as well as the characteristics and motivations of hobbyist boardgame players, designers, and developers. It applies techniques from human–computer interaction to the study of games and play. Melissa is co-chair of Boardgames Australia, and is a member of the jury for the International Gamers’ Awards. 
+
+ Presenter Melissa Rogerson
+
+
+
+
+01 Sep 
+
+
+
+Mobile Experience Sampling: Data Quality and Quantity in Digital Human Sensing
+Modern smartphones provide unprecedented access to longitudinal and large-scale data on human behaviour through sensor data. This data can be collected in a real-world setting, resulting in a highly realistic data collection process. Up to this point, studies utilising smartphones have predominantly focused on the collection of data solely through the use of such sensors. While sensors are capable of capturing our direct surroundings in ways beyond human capability, measurement of intrapsychic elements is notoriously difficult to obtain without human input. Therefore, there is a clear opportunity in the combination of human and sensor data sensing techniques for any researcher interested in studying human behaviour. This combination of data sources often remains unattainable due to technological and methodological obstructions. This project seeks to answer how these two data sources can be successfully combined to increase the capabilities of mobile phones as a research tool on human behaviour. In this presentation I will highlight the effect of various methodological decisions on the quality and quantity of human submitted data as reported in several of our recent studies.
+About the presenter
+Niels van Berkel is a PhD candidate at the Human-Computer Interaction, University of Melbourne. He is supervised by Prof Vassilis Kostakos and Dr Jorge Goncalves. In his PhD, Niels is investigating the use of mobile devices as a scientific instrument for studying human behaviour. He aims to explore the current technological and methodological obstructions as well as new possibilities in experience sampling, using a combination of human and sensor data.
+
+ Presenter Niels van Berkel
+
+
+
+
+05 Sep 
+
+
+
+Managing the Machines
+If the nineteenth century was about the evolution from mechanisation to industrialisation, and the twentieth century was about a move from electrification to computing; then we are surely in the midst of another significant shift from digitization to a fully data-centric world. Some label this the 4th wave of industrialisation, with emergent technologies such as the Internet of Things, machine learning, artificial intelligence and autonomous systems, all taking advantage of rich data layers, and increased processing power. This emerging data-driven world suggests profound challenges and opportunities. New business models and new markets are appearing and disruptions seemed likely across markets, ecosystems and institutions, with the likelihood of profound social, cultural and political impacts. These emergent techno-economic transformations, like many of their predecessors, will then also be accompanied by a great deal of societal and cultural anxiety regarding economic impact, sustainability and trust. Managing the machinery of the 21st century, in a way that it safe, secure and scalable, is critical! How might we approach this problem? Drawing on the history of earlier transformations, Dr Bell will sketch out a bold agenda for developing a new applied science for the 21st century.
+About the presenter
+Professor Genevieve Bell is an Australian-born anthropologist and researcher. Genevieve has recently joined the ANU College of Engineering and Computer Science. Dr Bell joined the ANU in February 2017 from global innovation company Intel, where she served as a Vice President of Intel and became the first woman in the company’s history to be appointed an Intel Senior Fellow.
+
+ Presenter Genevieve Bell 
+
+
+
+
+08 Sep 
+
+
+
+The Impact of Working Memory on Search Behaviour
+Interactive search is a cognitively intensive task, however the impact of cognitive load and limitations on user performance has received only tentative consideration. In this talk, I'll review the current evidence for how much, or little, working memory impact on users' search behaviour, and describe future planned work for how to get a more systematic understanding of how important working memory is in influencing user behaviour and performance.
+About the presenter
+George Buchanan joined Melbourne as an Associate Professor at the end of 2016. Previously, he led the human-computer interaction group at City University London, and was a founder member of the Future Interaction Laboratory at Swansea University and University College London's Interaction Centre. His research focuses on how users interact with search and discovery systems, particularly on mobile devices.
+
+ Presenter George Buchanan 
+
+
+
+
+15 Sep 
+
+
+
+Immersive Visualisation Projects at Monash sensiLab
+sensiLab is an innovative research lab based within the Faculty of Information Technology at Monash University. In this presentation, Tom Chandler and Elliott Wilson will overview the design and development of specific 3D content (architecture, vegetation and animated, decision making agents) and explore how this content might be deployed in crafting virtual environments for both current and future research endeavours. For more information: http://sensilab.monash.edu/projects/
+ABOUT THE PRESENTERS
+Dr Tom Chandler is a senior lecturer and researcher within the Caulfield School of Information Technology. Tom teaches 3D modelling and animation and leads FIT’s Interactive Media major. His research explores the interdisciplinary application of 3D modelling and virtual world building, with collaborative projects running from archaeology (the Visualising Angkor Project), anthropology and biology through to industrial design and neuroscience.
+Elliott Wilson is the lab manager of sensiLab, when he’s not running around getting the lab set up for a workshop or hack day, he’s exploring new technologies and helping people prototype new ideas. His research interests include real-time 3D Graphics and Games (including Virtual Reality), Visualisation, Emerging Interfaces and Interactions, Mobile and Wearable Technology, 3D Printing and Digital Fabrication, Robotics and Electronics. Previously he’s been a Games Developer and Teacher, teaching Games Design and Development and Mobile Application Development at Monash.
+
+ Presenter Tom Chandler, Elliott Wilson 
+
+
+
+
+22 Sep 
+
+
+
+Constructing a psychophysiological data acquisition device for Affective Video Games
+The importance of emotions for normal communicative behaviour has been long realised in computational sciences. Affective computing aims to accommodate the need for emotions in two-way human computer interactions. Engaging emotions into video games is an attractive proposition, for research, game developers and game players alike. Affective gaming forms a growing field of research in computer science, which relies on affective data acquisition. Input devices for affective gaming are woefully under-invested, particularly given the longevity and importance of the underlying technologies. In this presentation, Thomas will discuss his research and designs on a psychophysiological input device, trialled with a custom-made stress inducing video game.
+About the presenter
+Dr Thomas Christy is a researcher, lecturer in the Melbourne School of Computing and Information Systems, at Melbourne University. His research looks at methods of extracting and analysing psychophysiological data, utilising ubiquitous technologies. His interests gravitate towards exploring and developing new processes for computer interactivity, with a focus on developing new immersive experiences; particularly within the video game universe. He has a wealth of experience in developing with computer graphics and particle visualisations. His experience extends into pattern recognition and machine learning, to further extend his desire to explore innate human computer interactivity.
+
+ Presenter Thomas Christy
+
+
+
+
+25 Sep 
+
+
+
+Performances and Publics on Twitch.tv (Completion Seminar)
+This thesis ethnographically examines how the interactions and motivations of users on a live-streaming platform, Twitch.tv, construct networked publics and constitute cultural performances. Through 21 email interviews and in-depth observations of the channels of streamers from these interviews, this research emphasises the experiences of users and analyses the hobby-profession dynamic of streamers on Twitch.tv. Additionally, the thesis describes Twitch.tv as a social media which enables users to attend to issues surrounding mental well-being and the building of relationships.
+About the presenter
+Naomi is a MPhil (Engineering) student who has research interests in ethnographically examining live-streaming, online videos and video games. Prior to commencing, she completed Honours in Anthropology at the University of Melbourne with a thesis entitled, “Online and Offline Social Interactions: Navigating Multiple Spaces While Playing Online Games”. She also holds a Bachelor of Psychological Science and a Bachelor of Arts from the University of Adelaide. Additionally, Naomi has spent the past two years as the Manager and Social Media Coordinator for 'Ethnoforum', a cross-institutional, post-graduate forum for all things ethnography.
+
+ Presenter Naomi Robinson
+
+
+
+
+06 Oct 
+
+
+
+Evaluating the impact of Ask Izzy: a mobile website to help people experiencing homelessness
+Ask Izzy is a mobile website that contains information from over 350,000 services designed to tackle the growing problem of homelessness in Australia. The listed services provide a range of support from help with health issues, food, shelter through to legal or financial advice. Any such technology aiming to foster change is unsurprisingly loaded with a number of emotional concerns with direct implications on both the design and adoption processes. The interplay between emotional concerns, software features, and the wider adoption processes is poorly understood and is fluid in essence. I will talk about a series of engagements with Ask Izzy stakeholders that have underpinned our research towards technology for societal change.
+About the presenter
+Dr Rachel Burrows is a Research Fellow in the School of Computing and Information Systems at the University of Melbourne. Previously, she completed her Ph.D. in software engineering at Lancaster University, UK and PUC-RIO in Brazil. Following this she was a postdoc in the HCI group at the University of Bath. You could ask her about previous research into reducing energy demand in buildings using personal pervasive digital technologies or current work on catering for individuals’ emotions in technology development.
+
+ Presenter Rachel Burrows 
+
+
+
+
+20 Oct 
+
+
+
+Designing Smartphone Sensing Systems in Research and Practice
+Smartphones are very popular and able to collect a variety of data. Such data may come from hardware sensors, software applications and human input. Researchers and developers can use such Big Data to understand people or their context for scientific findings or context-aware applications. The speaker will present the typical workflows for smartphone-based research, as well as practical development of context-aware applications. He will also talk about related tools and techniques for data collection, machine learning, validation and evaluation.
+About the presenter
+Chu Luo is a PhD student at Human-Computer Interaction, University of Melbourne. He was educated in China, UK and Finland before coming to Australia. His interests include Ubiquitous Computing, Context-Awareness and Software Engineering, especially on Android.
+
+ Presenter Chu Luo
+
+
+
+
+27 Oct 
+
+
+
+When Buildings Speak: Media Architecture in Melbourne's New Innovation Precinct
+The University of Melbourne is in constant transition. New and redeveloped building fabric continually emerges across campus. One such development is Carlton Connect (CCI), an innovation precinct on the former site of the Royal Women's Hospital. Science Gallery Melbourne (SGM) will be a key part of the precinct, with exhibition themes that explore the collision of art and science. Various opportunities were identified to future-proof SGM by integrating digital media within architecture. This phenomenon is otherwise known as media architecture. In my talk, I will contextualise my work with SGM by 1) illustrating the unique collaboration with project stakeholders; 2) presenting the multi-disciplinary nature of media architecture; and 3) sharing a vision for the future of media architecture.
+About the presenter
+Niels Wouters is an academic specialist in the Microsoft Research Centre for SocialNUI. In a previous life, he mentored technology start-ups in establishing digital strategies. Now he advises Science Gallery Melbourne on the creative and functional requirements of digital media. Niels holds a PhD in Architectural Engineering (University of Leuven) and degrees in Computer Science, Architectural Design and Human-Computer Interaction. His doctoral thesis examined the design and functional qualities of media facades and urban screens. 
+
+ Presenter Niels Wouters
+
+
+
+
+03 Nov 
+
+
+
+Enhancing Mobile Interaction during Situational Impairments
+The main objective of my research is to investigate the effect of situational impairments on mobile interaction, and improve the accessibility and usability of off-the-shelf mobile devices for those temporarily affected by different contextual factors (e.g., noise, ambient temperature, encumbrance, etc.). In my work, I am interested in finding novel techniques and methodologies to accommodate and overcome these situational impairments. In this talk I will provide an overview of the different situational impairments that affect mobile interaction and present my previous, current and future work in this area.
+About the presenter
+Zhanna Sarsenbayeva is a PhD student in the Human-Computer Interaction and is supervised by Dr Jorge Goncalves and Prof Vassilis Kostakos. Her research focuses mostly on the impact of situational impairments on mobile interaction. She is also interested in context sensing and affective computing. Zhanna received a BSc in Computer Science from University College London, UK and MSc in Computer Science and Engineering from University of Oulu, Finland.
+
+ Presenter Zhanna Sarsenbayeva
+
+
+
+
+10 Nov 
+
+
+
+Social Devices for Collaboration
+The talk will discuss our recent research into Social Devices for mixed presence collaboration. Social Device experiences allow us to use several of our devices together during a meetup, exploiting and combining their different form factors and interactive capabilities. They also allow the UX to adapt and respond according to the presence of other nearby devices (of mine, my colleagues or belonging to a conference room) such that they augment rather than duplicate the experience.  So, for example, If I host a video call on my laptop I can simultaneously use my phone to share photos (e.g. of a whiteboard) and live video as content into the same online meeting (exploiting the mobility of the phone camera). Similarly, if a colleague shares a PowerPoint on a meeting room display, I can seamlessly view and remotely control their slides from my nearby phone which is aware of the meetup and content. I will discuss how these experiences transform both local and remote collaboration experiences to enable richer forms of participation.
+About the presenter
+Kenton is a senior researcher at Microsoft Research Cambridge and is a Visiting Professor in the Computer Science Department at the University of Bristol. His research explores everyday social and collaborative practices with technology with a view to informing design and innovation. He has investigated new technologies in a variety of domains including the home, mobile environments, urban settings and the workplace. Kenton has authored over 90 publications and two books on public displays and music consumption. He has previously worked as a Principal Scientist at CSIRO and as Director of the HxI Initiative in Australia) as well as being a Senior Researcher at Xerox EuroPARC, HP Labs and the Appliance Studio.
+
+ Presenter Kenton O’Hara
+
+
+
+
+13 Nov 
+
+
+
+Echolocation as a means to assist people with visual impairment in navigating virtual environments
+As console, mobile, and computer games become ubiquitous, it is necessary to bring access to this media to everyone, regardless of their physical or mental abilities. In this presentation, I discuss the progress made during the first six months of my PhD candidature. During this time, I have been looking at existing approaches to bring accessibility for people with visual impairment to videogames. I have also been studying echolocation: the use of mouth-produced sounds and echo reverberations to generate a mental map of one’s surroundings, and how this technique can be integrated into virtual environments to facilitate exploration by people with visual impairment.
+About the presenter
+Ronny Andrade is a first-year PhD candidate in the Human-Computer Interaction at The University of Melbourne. He is under the supervision of Dr Jenny Waycott, Prof Frank Vetere, and Dr Steven Baker. Ronny has experience working with blind people and English learners. His current research interests include the use of novel interfaces to provide enticing experiences for people with disabilities.
+
+ Presenter Ronny Andrade
+
+
+
+
+17 Nov 
+
+
+
+Making Things Harder to Make Things Better? Towards Effort Sensitive Design
+In Human-Computer Interaction, user effort is often seen as undesirable and something to be minimized through design. However, this viewpoint is problematic when applied to the arena of close personal relationships, where the investment of effort into communication can be highly meaningful. This tension presents an intriguing challenge for designers of mediating technologies: how do we create communication tools that are easy to use, but which do not trivialise the process of composition that is so valued in close relationships?
+In this talk I will discuss our recent research on this topic, focusing on qualities of effort that are seen to be valuable and which might sensitise designers to the meaningfulness of effort. I will also touch on the challenges of making invested effort “visible” to recipients, and I will introduce Message Builder, a prototype text chat application that aimed to encourage reflection on effort through an interface that is (arguably) user-unfriendly.
+About the presenter
+Ryan Kelly recently joined the Centre for Social NUI as a research fellow. He was previously a consulting researcher at the Open University, where he worked on projects related to personal informatics and smart cities. Prior to that he was a research associate at the University of Bath, working on the Leverhulme Trust project “Investing Care and Appreciating Effort in Personal Communication Technologies”.
+
+ Presenter Ryan Kelly
+
+
+
+
+24 Nov 
+
+
+
+Asking Technology: A Step Too Far or Not Far Enough?
+Much of HCI research involves asking people questions, either through interviews, surveys, design sessions, evaluation studies, voting, polling and so on. We choose our methods depending on what we want to find out. However, there is also increasing evidence showing how the use of different media and form factors can affect how much people are willing to share, what they say and how honest they are. For example, studies have shown how people reveal more about their habits when filling in an online form compared with a paper-based one; students have been found to rate their instructors less favorably when online; people may divulge more when interacting with bots or robots compared with talking to people. In my talk, I will describe a program of research we have been conducting over the last few years, where we have been investigating how physicality and embodied interaction can be used to good effect, widening participation, encouraging reflection and helping scientists make sense of data. At the same time, we have been using breaching experiments, design fiction and artistic probes to elicit responses and reactions for more edgy and elusive topics. In so doing, we have been subjected to considerable criticism – arguing that we are irresponsible and have gone too far in our methods when using technology. While it is easy to play safe and hide behind IRB walls, I will argue that it is imperative that we take more risks in our research if we want to answer the difficult questions about how technology design affects people’s lives.
+About the presenter
+Professor Yvonne Rogers is the director of the Interaction Centre at UCL (UCLIC), and a deputy head of the Computer Science department at UCL. She is the Principal Investigator for the Intel-funded Urban IoT collaborative research Institute (cities.io) at UCL. Her research interests lie at the intersection of physical computing, interaction design and human-computer interaction. Much of her work is situated in the wild - concerned with informing, building and evaluating novel user experiences through creating and assembling a diversity of technologies (e.g. tangibles, internet of things) that augment everyday, learning, community engagement and collaborative work activities. She has been instrumental in promulgating new theories (e.g., external cognition), alternative methodologies (e.g., in the wild studies) and far-reaching research agendas (e.g., “Being Human: HCI in 2020” manifesto), and has pioneered an approach to innovation and ubiquitous learning. She is a co-author of the definitive textbook on Interaction Design and HCI now published in its 4th edition that has sold over 150,000 copies worldwide and has been translated into 6 languages. She is a fellow of the BCS and the ACM CHI Academy.
+
+ Presenter Yvonne Rogers
+
+
+
+
+08 Dec 
+
+
+
+Understanding eSports spectatorship motivations and behaviours in Australia
+The spectatorship of organised competitive video gaming, otherwise known as eSports, has become a rapidly growing form of entertainment. The attribution of internet-enabled entertainment like online video games and live-streaming platforms to this rise in eSports consumption can present it as a global phenomena. However, research has demonstrated that when introduced to specific regions and countries, eSports becomes shaped by and adapts to the local culture and context, manifesting in different ways. While this has been written about regarding North America, Europe and Asia, Australia remains largely uncovered. This is problematic. While interest in Australia as an eSports market has been expressed, the country is largely unprepared to capitalise on it. Despite the historic geographic and technological limitations that have stunted the Australian eSports scene, international eSports organisations have begun hosting inaugural stages of their circuits in Australia in the past year. In order to benefit from the emergence of eSports as an entertainment industry, how national culture and identity of Australians factors into their eSports spectatorship motivations and behaviours will be investigated.
+This research seeks to address this issue by answering the research question: “How are eSports spectating motivations and behaviours in Australia influenced by the Australian cultural context?” To achieve this, the three main environments of sports spectatorship will be investigated in the context of Australian eSports through case study and ethnographic approaches. These environments are physical live events, communal public settings and private domestic settings. The study of these environments is expected to provide a complete picture of how Australian culture permeates and shapes eSports spectatorship in all methods of spectatorship. In doing so, Australian companies, event organisers and government agencies will be better equipped to capitalise on the growing market potential of eSports as it begins to enter the Australian market.
+About the presenter
+David is studying a DPhil under the supervision of Martin Gibbs and Wally Smith. He has a media studies and journalism background, and has a BA (Hons) on these subjects from Curtin University. His research interests revolve around the intersection of media, video games, online communities and culture. He is a member of the Networked Institute Society Doctoral Academy.
+
+ Presenter David Cumming
+
+
+
+
+14 Dec 
+
+
+
+The New ABCs of Research: Achieving Breakthrough Collaborations
+With Solving the immense problems of the 21st century will require ambitious research teams skilled at producing practical solutions and foundational theories simultaneously. The solutions need to be “Applied & Basic Combined” (the ABC principle). The research teams can then deliver high-impact outcomes by blending “Science, Engineering and Design Thinking” (the SED principle), which encourages use of the methods from all three disciplines. These guiding principles (ABC & SED) aim to replace Vannevar Bush’s flawed linear model from 1945 that has misled researchers for over 70 years. In this seminar, Professor Shneiderman will discuss how these new guiding principles will enable students, researchers, academic leaders, and government policy makers to accelerate discovery and innovation.
+About the presenter
+Ben Shneiderman is a Distinguished Professor in the Department of Computer Science, Founding Director (1983-2000) of the Human-Computer Interactionoratory, and a Member of the UM Institute for Advanced Computer Studies (UMIACS) at the University of Maryland. He is a Fellow of the AAAS, ACM, IEEE, and NAI, and a Member of the National Academy of Engineering. He is recognised for his pioneering contributions to human-computer interaction and information visualization, with specific contributions to the direct manipulation concept, clickable highlighted web-links, touchscreen keyboards, dynamic query sliders for Spotfire, development of treemaps and more. He has published several books, including “Designing the User Interface: Strategies for Efective Human-Computer Interaction” (co-authored with Catherine Plaisant) now in its 6th edition. His latest book is “The New ABCs of Research: Achieving Breakthrough Collaborations” (Oxford, April 2016).
+
+ Presenter Ben Shneiderman
+
+
+
+
+15 Dec 
+
+
+
+ Biodiversity Citizen Science: New Research Challenges for Human Computer Interaction (HCI)
+In this age of the Anthropocene, humans have profound influence on the planet, changing the atmosphere we breathe and reshaping the earth’s surface, thereby triggering species extinction at an alarming rate. HCI’s influence on every aspect of technology means that we have a responsibility to heal our planet by raising awareness and triggering action. Citizen science is a form of crowdsourcing that involves citizens in collecting and or analyzing data. This talk focuses on biodiversity citizen science and it challenges HCI researchers, practitioners, teachers, and students to lead the way in shaping a sustainable future. It includes inspirational prototypes that show how design excellence can change technology, raise awareness, and engage citizens to contribute by becoming “citizen scientists”. These challenges are advancing the leading edge of HCI theory and practice and contributing to save the species with which we share our planet.
+About the presenter
+Jennifer Preece is a Fellow of the ACM SIGCHI Academy and a Professor at the College of Information Studies – Maryland’s Information School, where she was Dean (2005–2015). She is co-author of one of the most widely used textbooks in HCI, Interaction Design: Beyond Human Computer Interaction (4th Edition, John Wiley & Sons, 2015). Her pioneering book Online Communities: Designing Usability, Supporting Sociability (2000), helped to clarify determinants of success in empathic online communities, especially in healthcare discussion groups. She is author, coauthor, or editor of seven other books including one of the first texts in HCI, Human-Computer Interaction (1994), as well as numerous journal and conference papers. Preece’s current research focuses on biodiversity citizen science, and informal environmental education; she is particularly interested in factors that contribute to participation, especially long-term participation in these communities. 
+
+ Presenter Jennifer Preece
+
+
+
+
+
+
+
+
+
+30 Jul 
+
+
+
+Supporting Work Activities in Healthcare by Mobile Electronic Patient Records
+Supporting work activities in healthcare is highly complex and challenging. This presentation outlines the findings from a usability study of a commercial PC based electronic patient record (EPR) system at a large Danish hospital and presents our experiences with the design of a mobile counterpart. First, a number of challenges in relation to the use of traditional desktop-based EPR systems in healthcare were identified. Secondly, a mobile context-aware prototype was designed and implemented, which automatically keeps track of contextual factors such as the physical location of patients and staff, upcoming appointments etc. The usability of the mobile EPR prototype was evaluated in a laboratory as well as in relation to carrying out real work activities at the hospital. Our results indicate that mobile EPR systems can support work activities in health-care, but that interaction design of such systems must be carefully thought out and evaluated. Specifically, our findings challenge the view of context-awareness being a universally useful paradigm for mobile HCI. 
+
+ Presenter Jesper Kjeldskov
+
+
+
+
+06 Aug 
+
+
+
+Report on visit to Lancaster University
+This presentation will describe a visit to Lancaster University's Computing Department. Specifically, this presentation will describe PhD work conducted in conjunction with Keith Cheverst and Mark Rouncefield examining the possible additional role of technology in a residential health care setting for ex-psychiatric patients. The presentation will describe how a framework drawn from CSCW is used to analyse health care workers' practice and to understand the potential role of technology in the setting.
+
+ Presenter Connor Graham
+
+
+
+
+13 Aug 
+
+
+
+Towards 100 actions for the 100 languages of Children
+The use of Naturalistic Enquiry and Participatory Design to enable an investigation into children's learning using tangible media and digital technologies.
+
+ Presenter Frank Feltham (RMIT)
+
+
+
+
+20 Aug 
+
+
+
+How to Handle Childrens Wants in a Development Process
+The talk will be about how to handle childrens wants in a development process. This by examining how to involve them in requirement specification and evaluation activities. 
+ We investigated the problem through the development of a painting program. The children were involved in a preanalysis through observations of them painting and constructive interactions with existing painting software. This lead to several concepts and one of these formed the core of the design for the program. The program was realized through two releases using the development method Extreme Programming. Every release was evaluated by the children through constructive interactions. 
+ We concluded that it was possible to involve the children in the requirements specification by using the preanalysis to develop concepts and construct user stories. The children were also involved in the evaluation of the program through constructive interactions which each release. 
+ Throughout we have been forced to interpret the childrens' statements and actions. Thus there is no guarantee that the program really reflects the childrens' wants, despite the seemingly appropriate methods. 
+
+ Presenter Kasper Garnæs, Olga Gruenberger
+
+
+
+
+27 Aug 
+
+
+
+Towards more usable Enterprise Content Management System
+The explosion of digital content has driven the emergence of Content Management System (CMS). Started as Document or Web Site Management Applications, the system has grown into a complex system with many ambitious goals in several dimensions: to manage various types of content, to serve a large number of core and extended functionalities, and to cater a wide range context of use. The increase in complexity gives rise to steep interaction design challenges.
+ Initial research results from the first 5 months of PhD will be presented. It includes motivation, challenges, opportunity and pain of PhD experience. 
+
+ Presenter Ivo Widjaja
+
+
+
+
+03 Sep 
+
+
+
+Reflections on a (nearly complete) PhD
+This presentation will reflect on the twists and turns of a PhD studying flow and interactivity in online learning. The nature of the experiments will be briefly described, as well as some outcomes and conclusions. Some thoughts about the process and problems encountered will be discussed.
+
+ Presenter Jon Pearce
+
+
+
+
+10 Sep 
+
+
+
+Application of Grounded Theory to Pattern Mining
+This research proposes application of grounded theory to pattern mining. The presented approach aims at inducing expert development knowledge and its subsequent packaging into domain-specific pattern languages, which could subsequently be used by both experienced and novice developers in the field. The method is being evaluated empirically in the domain of multimedia design.
+
+ PresenterTanya Linden
+
+
+
+
+17 Sep 
+
+
+
+The Involvement of Children in the Design of Technology
+The emergence of children as users of technology presents us with the challenge of designing to meet their needs in a useful and meaningful way. Traditionally adults have been charged with the design of children's products, under the assumption that children have too many limitations to do it themselves. Involving children brings complexity to the design process; however it can be an enriching experience for designers and children and it could be seen as an important predictor of a products success.
+
+ Presenter Miriam Sofia Pardo Pajaro
+
+
+
+
+08 Oct 
+
+
+
+Managing Fragmented Work
+Our daily working lives are made up of various concurrent and overlapping tasks. Several studies have been conducted to understand the process of task switching, the use of artifacts as reminders, the implications of interruptions on tasks, and the way that people maintain context in fragmented work. The results of these studies have produced design recommendations for possible virtual and physical artifacts for reminding, switching, and resumption of pending/suspended tasks. However, the majority of research has only concentrated on observing the surface behaviour of task management in various work contexts. My planned research attempts to look deeper into the problem by examining how people internally represent and structure their tasks in regards to task planning, control, and execution. The presentation will provide an overview of the first 6 months of my PhD research. 
+
+ Presenter Aaron Mullane
+
+
+
+
+15 Oct 
+
+
+
+The translation of information between Human-Computer Interaction specialist and Software Engineering specialists in model-driven development
+The aim of this project is to gather data about the collaboration between Human-Computer Interaction (HCI) specialist and Software Engineering (SE) specialists through their shared boundary objects. Results will be knowledge to better understand the translation and sharing of information in software development. The first experiment will simulate a standard model-driven development process. 15 students with knowledge in HCI and 15 students with knowledge in SE will participate and collaborate in pairs. They will produce a set of UML models and a paper-prototype. These results will be analysed to detect changes and translations in interface design and in UML models. 
+
+ Presenter Jan Skjetne
+
+
+
+
+22 Oct 
+
+
+
+Greenfield User interfaces for Navigating Hierarchical Information (Honours Presentation)
+Throughout the years there have been many new interfaces developed to present information in different ways. The FUN interface is one of these interfaces. Two important features of the FUN interface were seen to be its speed as well as its ability to help users in prompted recall of the structure. These features are assessed and compared with Windows Explorer.
+
+ Presenter Sally Lane
+
+
+
+Picture Scenarios: An Extended Scenario-based Method for Mobile Appliance Design (OZCHI 2004)
+This paper presents an extended scenario-based design method for the design of mobile appliances. This method builds on the results of two studies with designers in industry. Central to the method is the representation of dynamic use context, a core characteristic of mobile appliance use, with the use of picture scenarios. The initial use of this method in three design workshops is reported here, along with the feedback of the participants.
+
+ Presenter Sonja Pedell
+
+
+
+
+29 Oct 
+
+
+
+Designing with people who have a cognitive disability (Honours Presentation)
+A case can be made for the direct involvement of people with a cognitive disorder, such as autism or Asperger's syndrome in the development of technologies to support them. There is doubt, however, that some of the very traits that these technologies are designed to support may also impact the effectiveness of appropriateness of available participatory design techniques. I will report on my experiences conducting a Delphi study that explored the problems associated with engaging this group directly in the design process.
+
+ Presenter Peter Francis
+
+
+
+Trust in mobile guide design: exploiting interaction paradigms (OZCHI 2004)
+Trust is an important issue in the design of context-aware mobile guides. Here we draw on the field evaluations of two different mobile guides to explore trust related incidents. Important factors in trust relationships are user expectations and managing the user's sense of vulnerability. However, uncertainty is currently unavoidable with mobile guide systems. Consequently, given the user's expectations, evidence of the system providing incorrect information (e.g. caused by uncertainty in location due to limited network coverage) is likely to adversely affect the user's trust in the system. We argue here that the interaction paradigm supported by the system can play a crucial role in managing the user's trust. Furthermore, we argue that personified interaction paradigms (Local, Guide, Chaperone, Buddy, Captain) can act as a useful tool for designers developing mobile guides. (Paper by Connor Graham, Keith Cheverst, Steve Howard, Jesper Kjeldskov, Frank Vetere) 
+
+ Presenter Connor Graham
+
+
+
+
+05 Nov 
+
+
+
+Special Presentation: Visit to SINTEF and NordiCHI
+Frank's Report from SINTEF and NordiCHI.
+
+ PresenterFrank Vetere
+
+
+
+
+
+
+
+
+
+Past seminars2020 | 2019 | 2016–2018 | 2011–2015 | 2006–2010 | 2004–2005
+
+
+
+
+Email Contact us
+Faculty of Engineering and Information Technology
+Engineering & IT Students
+Staff only: FEIT Intranet
+
+
+
+
+
+
+
+School of Computing and Information Systems
+About us
+About the School
+Life in Melbourne
+Alumni profiles
+Casual tutor, demonstrator, marker and project team supervisor opportunities
+CSIRAC: Our first computer
+CSIRAC’s vital statistics
+CSIRAC chronology
+CSIRAC design
+How did CSIRAC work?: Storage
+How did CSIRAC work?: Console
+CSIRAC uses
+CSIRAC: Designers
+The music of CSIRAC
+CSIRAC emulator
+Jurij Semkiw
+CSIRAC and computer history links
+The Last of the First, CSIRAC: Australia’s First Computer
+CSIRAC photo gallery
+The history of computing at the University of Melbourne
+History of computing in the department
+Starting the Department of Information Systems
+Early internet
+Memories of the department
+Programming
+Student life in the department
+Women in computing
+CIS Doctoral Colloquium
+2023 CIS Doctoral Colloquium
+Submission Guidelines
+Colloquium Photos
+2022 CIS Doctoral Colloquium
+Submission Guidelines
+Program_open
+Participation and Awards
+Volunteers and Judges
+CISDC 2022 Photos
+2019 CIS Doctoral Colloquium
+2018 CIS Doctoral Colloquium
+2017 CIS Doctoral Colloquium
+2016 CIS Doctoral Colloquium
+2015 CIS Doctoral Colloquium
+2014 CIS Doctoral Colloquium
+2013 CIS Doctoral Colloquium
+Keynote speaker
+Colloquium sponsors
+Committee
+Call for papers
+Application_closed
+Submission_info
+Program_pending
+Program_open
+Alumni
+Registration_pending
+Industry
+Research collaboration
+Cyber attack maps to underpin better strategic responses
+Surgeons gain implant expertise with virtual training
+Informatics analyses value in digital health technologies
+Data contrasting highlights changing use of city
+Online community designed to support mental health for young people
+Satisfaction score to improve quality of internet search results
+Supply chain scheduling keeps automated mining operations on task
+Combined data adds power to decision-making
+New algorithms help interpret vision loss from digital images
+Host a student intern
+Mentor our students
+Student industry projects
+Become a guest speaker
+News
+2022 news and events
+CIS-EEE Seed Funding
+How data can prevent overdiagnosis
+
+CIS - IE 2022 Research Collaboration Seed Funding
+2021 news and events
+2020 news and events
+2019 news and events
+2023 news and events
+CIS-ME 2023 Seed Funding round
+CIS-IE 2023 Seed Funding round
+People
+Research
+Artificial intelligence
+Graduate Reseachers
+Computer science
+Graduate Researchers
+Digital Health
+Research projects
+Seminars
+Schools
+Study with us
+Undergraduate programs
+Graduate coursework programs
+Graduate research programs
+Industry based learning
+Programming proficiency test
+First Year Centre
+About
+Study with CIS
+Undergraduate programs
+Get help
+People
+Become a tutor
+Contact
+Graduate programs
+Graduate coursework programs
+Graduate research programs
+AI and Autonomy Lab
+News
+People
+Publications
+Research
+Mining and optimisation
+Automated planning languages
+Foundations of human-agent collaboration
+People-oriented software engineering
+Explainable artificial intelligence
+Multimodal human-agent collaboration
+Artificial Intelligence Assurance Lab
+About us
+Research
+Publications
+People
+Industry engagement
+Academic Centre of Cyber Security Excellence (ACCSE)
+Human-Computer Interaction
+Facilities
+User Experience Lab
+Interactive Technologies Lab
+Engineering Workshop
+
+Telstra Creator Space
+
+News and Events
+People
+Staff
+Graduate researchers
+Alumni
+Projects
+Adaptive learning technologies
+Ageing and avatars
+AI-enabled assistance for strategic planning in games
+Wearable technology for arm monitoring in health
+Augmented fitness
+Augmented learning environment for physiotherapy education
+Biometric Mirror
+Changing views
+Citizen Heritage
+Cognition-aware systems
+Cognitive interaction
+Completed projects
+Connecting learners for collaboration across diverse communities
+Cross-community information systems
+Crowdsourcing
+Death and the Internet
+Deceptive AI
+Designing for scale
+Designing technologies for indigenous knowledge
+Digital commemoration
+Digital domesticity
+Conceptualising and measuring digital emotion regulation
+Emerging technologies for enrichment in old age
+Encounters
+Ethics and digital games
+Evaluation of natural user interfaces in query auto-completion
+Examining the ‘digital’ in hybrid digital boardgames
+Exploring complex data sets using highly engaging environments
+Exploring natural user interfaces during meal times
+FaceSpace
+Getting well and being present
+Growing old and staying connected
+HandLog: tangible interactions for game input and rehabilitation
+iFISH
+Improving Vitamin D status and related health in young women
+Insertable technology for human interactions
+Interactive displays
+Interactive spaces and media architecture
+Kinecting with orang-utans
+Mediating intimacy
+Mobile fieldwork and learning
+Multimodal human–agent collaboration
+Music streaming and algorithmic recommendation
+Near-infrared spectroscopy
+Onebody
+Orygen Virtual World Project
+Promoting student peer review in Australian tertiary education
+Personal sensing for mental health and wellbeing
+Pholiota Unlocked
+Reading on ubiquitous devices
+Smart Garden Watering
+Smartphones for science
+Social gaming events: Warhammer 40K
+Social networking sites for ambivalent socialisers
+Social play in immersive gaming environments
+Social robots and virtual assistants for older people
+Sociophysical interactions
+Social Orientated Requirements Engineering
+Spectating eSports and Let’s Play
+SpinalLog
+Supporting social interactions for video calls in the home
+Teleconsultation: enhancing interactions between clinicians and patients
+Virtual co-presence
+Virtual Reality and climate change communication
+VR therapy for youth mental health
+Robot Assisted Learning and Rehabilitation
+XR for Human-Robot Interaction
+Social and Domestic Drones 
+Human-Centred Agent Learning
+Child of Now
+ #thismymob
+Publications
+Research
+Smart Spaces
+Ubiquitous computing
+Digital health
+Digital nature
+Novel interactions
+Design for ageing
+Games and play
+Social computing and communities
+Human information interaction
+Human-Robot Interaction
+Seminars
+Past seminars 2020
+Past seminars 2019
+Past seminars 2016–2018
+Past seminars 2011–2015
+Past seminars 2006–2010
+Past seminars 2004–2005
+Study
+HCI programs for potential students
+HCI subjects
+Masters projects
+Potential PhD students
+Information systems
+Process science and technology
+Business analytics and decision making
+Cybersecurity management
+Digital health
+Innovations in the digital society
+Publications
+Contact us
+Current Students
+Library
+Staff
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

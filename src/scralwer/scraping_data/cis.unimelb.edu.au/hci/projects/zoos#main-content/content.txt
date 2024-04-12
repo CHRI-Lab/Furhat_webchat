@@ -1,0 +1,367 @@
+URL: https://cis.unimelb.edu.au/hci/projects/zoos#main-content
+
+
+
+
+
+
+
+
+Kinecting with orang-utans: Human-Computer Interaction, The University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+School of Computing and Information Systems
+
+
+
+Human-Computer Interaction
+
+
+
+Projects
+
+
+
+Kinecting with orang-utans
+
+
+
+
+
+
+
+Kinecting with orang-utans
+
+
+
+
+
+
+Project overviewDigital technology presents significant opportunities to support zoos in their goals of animal welfare and enrichment. Researchers from the Microsoft Research Centre for Social Natural User Interfaces (SocialNUI) at the University of Melbourne are excited to be collaborating with Zoos Victoria to explore how natural user interface technologies (NUIs) can improve animal wellbeing.Orang-utans are a highly intelligent species critically endangered due to deforestation of their natural habitat for palm oil plantations.  Through our collaborative project we are studying how digital enrichment can improve the welfare of Melbourne Zoo’s 6 orang-utans and building a better understanding of the way orang-utans learn and interact with technology. By studying the design and use of digital enrichment we are seeking to better understand the zoo as a context for human-computer interaction (HCI) research, and develop design methodologies for non-human users.The research team are applying ‘user-centered design’ methods to approach the development of enrichment for orang-utans. This involves observing interactions between orang-utans and keepers as well as conducting interviews and workshops with animal welfare experts, keepers and other personnel, to identify orang-utans’ motivations and interests and define the opportunities for NUIs in this space.Early on in this process, the SocialNUI researchers studied how Melbourne Zoo was utilising technology with the orang-utans. As well as projecting movies into the enclosure, the keepers have explored the use of tablet computers to provide enrichment in the form of puzzles, games, musical instruments and painting. While these activities show the potential for digital enrichment, they are limited as the orang-utans, who would readily break fragile tablet computers, can only interact with their fingertips through metal bars while a zoo keeper holds the tablet outside the enclosure. The current project utilises NUI technologies to give the orang-utans a wider range of ways to interact with technology through more active, full body movement. The proof of concept system was tested in February 2016 at Melbourne Zoo. This solution uses a Microsoft Kinect and a projector placed outside the enclosure, which avoids the need to give the orang-utans physical devices that could be broken. The system projects moving images on to the floor of the orang-utan enclosure. Using custom software, the Microsoft Kinect sensor tracks the orang-utans’ movements and detects their touches and interactions with this area of the floor, so that the projection becomes a large touch-enabled surface.The orang-utans were given complete choice over whether to interact with the system or not, and all trials were overseen by the Zoo’s animal welfare expert. The team developed a variety of games and simple applications for this system. The applications aim to explore how orang-utans prefer to interact with the system, and demonstrate opportunities for enrichment. The games are designed to encourage orang-utans to play, explore and learn about what they can do with the system, building on their natural problem-solving abilities.The games were developed in close collaboration with the zoo keepers, drawing on their knowledge of the orang-utans different personalities, likes and dislikes. For example, researchers discovered that Kiani (Suma), Melbourne Zoo’s 37 year old female orang-utan, loves looking at photos of herself. The team developed an application that showed a gallery of photographs that the orang-utans could browse, select and interact with. The orang-utans have experience of painting on canvas and seem to find this enriching, so a painting application was also developed. Orang-utans’ willingness and ability to use this technology without training or encouragement indicates that it can provide a foundation for diverse cognitive challenges which respond to their individual needs and interests, helping to keep their minds and bodies active.During the trial, the research team interviewed zoo visitors who watched the orang-utans interacting with the system. They found that visitors responded with empathy for the animals, and reflected on what the animals might be thinking and feeling as they interacted with the system. As part of the trial the orang-utans were offered the opportunity to interact with humans through the technology. As orang-utans seem to find humans interesting, the team created a shared digital space where orang-utans could choose to interact safely with keepers and even visitors. In the first trial of a game for humans and orang-utans, the team observed with delight that the orang-utans chose to play even with people they had not met before, creating a powerful sense of connection for the human player.The next phase of this research is to explicitly examine the benefits of digital technology to the orang-utans’ welfare. Zoo personnel and the orang-utan keepers are integrally involved in the design and execution of the study. At the same time, SocialNUI researchers will be conducting a visitor experience study to further examine visitor perceptions of the use of technology by zoo animals.Zoo Technology Research GroupWe facilitate discussion between zoo professionals, technology researchers and specialists in animal welfare and behaviour, through the Zoo Technology Research Group online network. The network was established following the Technology at the Zoo’ workshop, convened by the project team at the CHI2016 conference, in collaboration with pre-eminent zoo-based researchers from around the world.If you are interested in joining the Zoo Technology Research Group, please contact us.CollaborationThis project is a collaboration between the University of Melbourne’s Microsoft Research Centre for Social Natural User Interfaces (SocialNUI) and Zoos Victoria and proudly supported by Microsoft.Project teamSarah Webber, Doreen Thomas Postdoctoral Fellow, School of Computing and Information Systems, The University of MelbourneZaher Joukhadar, Lead Software Engineer, The University of MelbourneMarcus Carter, Department of Media and Communications, University of SydneySally Sherwen, Animal Welfare Specialist, Wildlife Conservation & Science, Zoos VictoriaWally Smith, Associate Professor, School of Computing and Information Systems, The University of MelbourneRuining Dong, Masters Student, The University of Melbourne Contact detailsSarah WebberEmail: s.webber@unimelb.edu.auPublicationsDong, R., Carter, M., Smith, W., Joukhader, Z., Sherwen, S. & Smith, A. (2017) Supporting Animal Welfare with Automatic Tracking of Giraffes with Thermal Cameras In Proceedings of the 29th Australian Conference on Computer-Human Interaction (OzCHI 2017), 28 Nov – 1 Dec, Brisbane, Australia.Webber, S., Carter, M., Smith, W. & Vetere, F. (2017) Interactive technology and human-animal encounters at the zoo International Journal of Human-Computer Studies 98:150–168. [DOI]Webber, S., Carter, M., Sherwen, S., Smith, W., Joukhader, Z. & Vetere, F. (2017) Kinecting with Orangutans: Zoo visitors’ emphathetic responses to animals’s use of interactive technology. In In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems, Denver, USA. [DOI]Webber, S., Carter, M., Watters, J., Krebs, B., Sherwen, S., Mancini, C., French, F. & O’Hara, K. (2016). HCI Goes to the Zoo: Workshop proposal. In Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems. [DOI]French, F., Kingston-Jones, M., Schaller, D., Webber, S., Väätäjä, H. & Campbell, M. (2016). Don’t cut to the chase: Hunting experiences for zoo animals and visitors. In ACI '16 Proceedings of the Third International Conference on Animal-Computer Interaction, Article No. 19. [DOI]Pons, P., Carter, M., & Jaen, J. (2016). Sound to your Objects: A Novel Design Approach to Evaluate Orangutans’ Interest in Sound-based Stimuli. In Proceedings of The Third International Congress on Animal Computer Interaction. ACM. [PDF]Webber, S., Carter, M., Smith, W., & Vetere, F. (2016). Interactive Technology and Human-Animal Encounters at the Zoo. International Journal of Human-Computer Studies [DOI] [PDF]Carter, M., Webber, S., & Sherwen, S. (2015). Naturalism and ACI: Augmenting Zoo Enclosures with Digital Technology. In Proceedings of The Second International Congress on Animal Computer Interaction. ACM. [PDF]Rault, J.-L., Webber, S., & Carter, M. (2015). Cross-Disciplinary Perspectives on Animal Welfare Science and Animal-Computer Interaction. In Proceedings of the Second International Congress on Animal Computer Interaction. ACM. [PDF]Media The Age, 1 February 2016Experiment has zoo’s orang-utans seeing red Pursuit, 1 February 2016Kinecting with the orang-utans Gamespot, 1 February 2016Xbox Kinect Being Used by Orangutans at ZooThe Age Newspaper (Print), 2 February 2016Orang-utans get smart with technology Microsoft News, 2 February 2016Kinect empowers Melbourne Zoo orang-utans with digital enrichment New York Daily News, 2 February 2016Xbox Kinect used by orangutans at the Melbourne Futurity, 2 February 2016‘Kinect’ At The Zoo Could Let Orangutans Play Games With Visitors PC & Tech Authority, 2 February 2016Melbourne Zoo’s Orang-utans get access to Kinect-powered apps and games Win Beta, 2 February 2016Microsoft Kinect and Xbox One let orangutans play video games Gizmodo, 2 February 2016Melbourne Zoo’s Orangutans Are Playing Videogames Tech Times, 2 February 2016Experts Let Orangutans At Melbourne Zoo Tinker With Xbox Kinect Mashable Australia, 2 February 2016Scientists are using Xbox Kinect to let orangutans play video games ABC News, 3 February 2016Orangutans in Melbourne Zoo playing interactive videogames using Xbox technologyABC 774 Drive, 3 February 2016Interview with Sarah Webber: Microsoft Research Centre for SocialNUI(at 2hrs 48mins)Channel Ten, 3 February 2016The Project Daily Mail Australia, 3 February 2016Wonder if they’re playing Ape Escape? Zookeepers teach orangutans to play video games to boost their mood ABC Online, 3 February 2016Orangutans in Melbourne Zoo playing interactive videogames using Xbox technology Huffington Post, 4 February 2016Orangutans Learning To Play Xbox To Fight Boredom In ZooTechFlow, 5 February 2016Kinecting with orang-utans News Beat Social, 5 February 2016WATCH: Orangutans Learn to Play Xbox Kinect Channel 7 News, 9 February 2016World-first technology enables highly intelligent orangutan to interact with humans at Melbourne Zoo Zoos Victoria, 9 February 2016World-first study gives orang-utans the choiceThe Courier Mail, 9 February 2016Orang-utans use Xbox tech to interact Channel Ten News, 9 February 2016World first for Melbourne Zoo orangutans Channel Nine News, 10 February 2016Video: Tech savvy orangutans master computer games at Melbourne ZooChannel Seven, 10 February 2016Sunrise Lonely Planet Travel News, 10 February 2016Orangutans in Melbourne Zoo play Xbox for university study Zoonation.org, 12 February 2016Orangutan Gamers BBC, 15 February 2016Orangutans try out motion-controlled games in AustraliaABC News 24, 16 February 2016In a world first program, orangutans are playing interactive video games at Melbourne Zoo, Interview with Dr Marcus Carter ABC Behind the News, 16 February 2016Orangutan Gamers National Geographic, 16 February 2016Melbourne Zoo’s Orangutans are playing video games The Conversation, 14 March 2016Orang-utans play video games too, and it can enrich their lives in the zoo SBS, 15 March 2016Orangutans play video games too, and it can enrich their lives in the zoo ABC TV Good Game Spawn Point, 2 April 2016Feature Story: Melbourne Zoo ABC RN Radio, The Science Show, 23 April 2016Orangutans take to interactive video games The University of Melbourne, 2 May 2016Video: Kinecting with orang-utansHerald Sun, 16 May 2016Video: Melbourne Researchers Develop Interactive Gaming System for Orangutans International Business Times, 16 May 2016Watch zoo orangutans playing Xbox brain games The Wire, 19 May 2016Orangutans: The Future of Gaming? SMH, 28 May 2016Do apes have culture? ABC TV, 19 July 2016ABC TV CatalystOrangutans are highly intelligent animals and keeping them mentally engaged and challenged is paramount for Melbourne zoo keepers and researchers. ABC News, 19 July 2016Orangutans at Melbourne Zoo to be given more video gamesBy Alice Donaldson, Catalyst 8 September 2016Engineering and IT PhD research on show for 3 Minute ThesisThe grand finalists included Sarah Webber from the Microsoft Centre for Social Natural User Interfaces.
+
+
+
+
+Email Contact us
+Faculty of Engineering and Information Technology
+Engineering & IT Students
+Staff only: FEIT Intranet
+
+
+
+
+
+
+
+School of Computing and Information Systems
+About us
+About the School
+Life in Melbourne
+Alumni profiles
+Casual tutor, demonstrator, marker and project team supervisor opportunities
+CSIRAC: Our first computer
+CSIRAC’s vital statistics
+CSIRAC chronology
+CSIRAC design
+How did CSIRAC work?: Storage
+How did CSIRAC work?: Console
+CSIRAC uses
+CSIRAC: Designers
+The music of CSIRAC
+CSIRAC emulator
+Jurij Semkiw
+CSIRAC and computer history links
+The Last of the First, CSIRAC: Australia’s First Computer
+CSIRAC photo gallery
+The history of computing at the University of Melbourne
+History of computing in the department
+Starting the Department of Information Systems
+Early internet
+Memories of the department
+Programming
+Student life in the department
+Women in computing
+CIS Doctoral Colloquium
+2023 CIS Doctoral Colloquium
+Submission Guidelines
+Colloquium Photos
+2022 CIS Doctoral Colloquium
+Submission Guidelines
+Program_open
+Participation and Awards
+Volunteers and Judges
+CISDC 2022 Photos
+2019 CIS Doctoral Colloquium
+2018 CIS Doctoral Colloquium
+2017 CIS Doctoral Colloquium
+2016 CIS Doctoral Colloquium
+2015 CIS Doctoral Colloquium
+2014 CIS Doctoral Colloquium
+2013 CIS Doctoral Colloquium
+Keynote speaker
+Colloquium sponsors
+Committee
+Call for papers
+Application_closed
+Submission_info
+Program_pending
+Program_open
+Alumni
+Registration_pending
+Industry
+Research collaboration
+Cyber attack maps to underpin better strategic responses
+Surgeons gain implant expertise with virtual training
+Informatics analyses value in digital health technologies
+Data contrasting highlights changing use of city
+Online community designed to support mental health for young people
+Satisfaction score to improve quality of internet search results
+Supply chain scheduling keeps automated mining operations on task
+Combined data adds power to decision-making
+New algorithms help interpret vision loss from digital images
+Host a student intern
+Mentor our students
+Student industry projects
+Become a guest speaker
+News
+2022 news and events
+CIS-EEE Seed Funding
+How data can prevent overdiagnosis
+
+CIS - IE 2022 Research Collaboration Seed Funding
+2021 news and events
+2020 news and events
+2019 news and events
+2023 news and events
+CIS-ME 2023 Seed Funding round
+CIS-IE 2023 Seed Funding round
+People
+Research
+Artificial intelligence
+Graduate Reseachers
+Computer science
+Graduate Researchers
+Digital Health
+Research projects
+Seminars
+Schools
+Study with us
+Undergraduate programs
+Graduate coursework programs
+Graduate research programs
+Industry based learning
+Programming proficiency test
+First Year Centre
+About
+Study with CIS
+Undergraduate programs
+Get help
+People
+Become a tutor
+Contact
+Graduate programs
+Graduate coursework programs
+Graduate research programs
+AI and Autonomy Lab
+News
+People
+Publications
+Research
+Mining and optimisation
+Automated planning languages
+Foundations of human-agent collaboration
+People-oriented software engineering
+Explainable artificial intelligence
+Multimodal human-agent collaboration
+Artificial Intelligence Assurance Lab
+About us
+Research
+Publications
+People
+Industry engagement
+Academic Centre of Cyber Security Excellence (ACCSE)
+Human-Computer Interaction
+Facilities
+User Experience Lab
+Interactive Technologies Lab
+Engineering Workshop
+
+Telstra Creator Space
+
+News and Events
+People
+Staff
+Graduate researchers
+Alumni
+Projects
+Adaptive learning technologies
+Ageing and avatars
+AI-enabled assistance for strategic planning in games
+Wearable technology for arm monitoring in health
+Augmented fitness
+Augmented learning environment for physiotherapy education
+Biometric Mirror
+Changing views
+Citizen Heritage
+Cognition-aware systems
+Cognitive interaction
+Completed projects
+Connecting learners for collaboration across diverse communities
+Cross-community information systems
+Crowdsourcing
+Death and the Internet
+Deceptive AI
+Designing for scale
+Designing technologies for indigenous knowledge
+Digital commemoration
+Digital domesticity
+Conceptualising and measuring digital emotion regulation
+Emerging technologies for enrichment in old age
+Encounters
+Ethics and digital games
+Evaluation of natural user interfaces in query auto-completion
+Examining the ‘digital’ in hybrid digital boardgames
+Exploring complex data sets using highly engaging environments
+Exploring natural user interfaces during meal times
+FaceSpace
+Getting well and being present
+Growing old and staying connected
+HandLog: tangible interactions for game input and rehabilitation
+iFISH
+Improving Vitamin D status and related health in young women
+Insertable technology for human interactions
+Interactive displays
+Interactive spaces and media architecture
+Kinecting with orang-utans
+Mediating intimacy
+Mobile fieldwork and learning
+Multimodal human–agent collaboration
+Music streaming and algorithmic recommendation
+Near-infrared spectroscopy
+Onebody
+Orygen Virtual World Project
+Promoting student peer review in Australian tertiary education
+Personal sensing for mental health and wellbeing
+Pholiota Unlocked
+Reading on ubiquitous devices
+Smart Garden Watering
+Smartphones for science
+Social gaming events: Warhammer 40K
+Social networking sites for ambivalent socialisers
+Social play in immersive gaming environments
+Social robots and virtual assistants for older people
+Sociophysical interactions
+Social Orientated Requirements Engineering
+Spectating eSports and Let’s Play
+SpinalLog
+Supporting social interactions for video calls in the home
+Teleconsultation: enhancing interactions between clinicians and patients
+Virtual co-presence
+Virtual Reality and climate change communication
+VR therapy for youth mental health
+Robot Assisted Learning and Rehabilitation
+XR for Human-Robot Interaction
+Social and Domestic Drones 
+Human-Centred Agent Learning
+Child of Now
+ #thismymob
+Publications
+Research
+Smart Spaces
+Ubiquitous computing
+Digital health
+Digital nature
+Novel interactions
+Design for ageing
+Games and play
+Social computing and communities
+Human information interaction
+Human-Robot Interaction
+Seminars
+Past seminars 2020
+Past seminars 2019
+Past seminars 2016–2018
+Past seminars 2011–2015
+Past seminars 2006–2010
+Past seminars 2004–2005
+Study
+HCI programs for potential students
+HCI subjects
+Masters projects
+Potential PhD students
+Information systems
+Process science and technology
+Business analytics and decision making
+Cybersecurity management
+Digital health
+Innovations in the digital society
+Publications
+Contact us
+Current Students
+Library
+Staff
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

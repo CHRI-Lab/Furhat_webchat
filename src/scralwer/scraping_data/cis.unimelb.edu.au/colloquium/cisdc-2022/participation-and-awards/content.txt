@@ -1,0 +1,521 @@
+URL: https://cis.unimelb.edu.au/colloquium/cisdc-2022/participation-and-awards
+
+
+
+
+
+
+
+
+Participation and Awards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+School of Computing and Information Systems
+
+
+
+Colloquium
+
+
+
+CISDC 2022
+
+
+
+Participation and Awards
+
+
+
+
+
+Participation and Awards
+
+
+
+Award WinnersHere is a list of all award winners, who each took home $500 in prizes! Jury's Choice
+         Best Paper Award 
+      
+         Ashley Anderson 
+      
+         Best Paper Presentation 
+      
+         Archana Vadakattu 
+      
+         Best Poster 
+      
+         Samangi Wadinambi Arachichi 
+      
+         Best 3MR 
+      
+         Robert Langtry 
+       People's Choice
+         Best Poster 
+      
+         Ming Chen 
+      
+         Best 3MR 
+      
+         Yunning Zhou 
+      Accepted SubmissionsHere is a list of all accepted submissions for each track:Paper TrackArtificial IntelligencePresenterTitle
+         Hanan Alsouly 
+      
+         What Makes A Constrained Multi-Objective Optimization Problem Hard? 
+      
+         Archana Vadakattu 
+      
+         Extracting Strategies from Single-agent Game Trajectories 
+      
+         Chen Wang 
+      
+         Online Trajectory Anomaly Detection Based on Intention Orientation 
+      
+         Philip Cervenjak 
+      
+         Parallel algorithms for optimising p-separable submodular functions 
+      Human-Computer Interaction & Information SystemsPresenterTitle
+         Yushan Xing 
+      
+         Technology Use by Community Organizations to Support the Social Connectedness of Older Adults During the COVID-19 Pandemic 
+      
+         Nattapat Boonprakong 
+      
+         How our bodies experience different opinions?: Sensing confirmation bias through physiological signals 
+      
+         Eleanor Seale 
+      
+         Gods & Greeks: a Study of an Immersive RPG in a Museum Setting 
+      
+         Ashley Anderson 
+      
+         Re-imagining the cybersecurity leader: a novel conceptualisation of the objectives of professional education 
+      Computer SciencePresenterTitle
+         Zhuo Zhang 
+      
+         Approximate Range Thresholding 
+      
+         Stewart Webb 
+      
+         Mapping an Object Capability language onto the seL4 microkernel and its capability system 
+      
+         Peaker Guo 
+      
+         Efficient Computation of String Net Frequency with Augmented Suffix Arrays   
+      GeneralPresenterTitle
+         Nefel Tellioglu 
+      
+         Modelling the effectiveness of mass drug administration strategies for reducing scabies burden in Monrovia, Liberia 
+      
+         Pengbo Yan 
+      
+         Proving Probabilistic Security Features with Formal Verification 
+      
+         Lianglu Pan 
+      
+         Detecting Excessive Data Exposure Vulnerabilities in Web Server Responses 
+      Poster TrackPresenterTitle
+         Ali Ugur Guler 
+      
+         Relu-DNL: A Non Linear Exact Model for Predict+Optimize 
+      
+         Catherine Thompson 
+      
+         Trustworthiness in the Digital World 
+      
+         Duneesha Fernando 
+      
+         Anomaly-aware Management of Microservices-based Edge Computing Resources 
+      
+         Hajar Alamri 
+      
+         Motivations for Discussing Chronic Disease on Online Photo Sharing Platforms 
+      
+         Hanxun Huang 
+      
+         Unlearnable Examples: Making Personal Data Unexploitable 
+      
+         Hoa Nguyen 
+      
+         A Serverless Platform for developing Microservice Quantum-Classical Applications 
+      
+         Matthew Sidji 
+      
+         The Hidden Rules of Hanabi: How Humans Outperform AI Agents 
+      
+         Ming Chen 
+      
+         Efficient Resource Management via Co-locating Jobs in Clouds 
+      
+         Samangi Wadinambi Arachchi 
+      
+         Exploring the Potential of AI-generated Images as a Remedy for Design Fixation 
+      
+         Tharindu Bandara Saryakara Hewage 
+      
+         Decentralized Re-Scheduling of Latency Critical Tasks in GeoDistributed Micro-Clouds With Dynamic Power-Budgets 
+      Three Minute Research TrackPresenterTitle
+         Stephanie Park 
+      
+         Improving Information Security Governance in Organisations 
+      
+         Yuning Zhou 
+      
+         Active Learning-based Deep Learning Dataset Construction for Laparoscopic Cholecystectomy Structure Segmentation 
+      
+         Kemal Kurniawan 
+      
+         Easier Transfer Learning for Predicting Sentence Structures 
+      
+         Prabodi Senevirathna 
+      
+         Quantifying and Mitigating Digital Overdiagnosis 
+      
+         Craig Lewis 
+      
+         Influence in organisations 
+      
+         Hao Wu 
+      
+         Frequency Estimation Under Local Differential Privacy 
+      
+         Zhuoqun Huang 
+      
+         Defending adversarial malware disguises 
+      
+         Robert Langtry 
+      
+         Machine learning for automated generation of validated infra-red signature models 
+      
+         Shuai Yuan 
+      
+         Social Robots in Aged Care: Care Staff Experiences and Perspectives on Robot Benefits and Challenges 
+      
+         Jiankai Jin 
+      
+         Identifying and Preventing Implementation Flaws in Secure Machine Learning Systems 
+      
+         Wei Zhao 
+      
+         Designing Digital Technologies to Support Older Adults’ Engagement in Meaningful Activities
+
+
+
+
+Email Contact us
+Faculty of Engineering and Information Technology
+Engineering & IT Students
+Staff only: FEIT Intranet
+
+
+
+
+
+
+
+School of Computing and Information Systems
+About us
+About the School
+Life in Melbourne
+Alumni profiles
+Casual tutor, demonstrator, marker and project team supervisor opportunities
+CSIRAC: Our first computer
+CSIRAC’s vital statistics
+CSIRAC chronology
+CSIRAC design
+How did CSIRAC work?: Storage
+How did CSIRAC work?: Console
+CSIRAC uses
+CSIRAC: Designers
+The music of CSIRAC
+CSIRAC emulator
+Jurij Semkiw
+CSIRAC and computer history links
+The Last of the First, CSIRAC: Australia’s First Computer
+CSIRAC photo gallery
+The history of computing at the University of Melbourne
+History of computing in the department
+Starting the Department of Information Systems
+Early internet
+Memories of the department
+Programming
+Student life in the department
+Women in computing
+CIS Doctoral Colloquium
+2023 CIS Doctoral Colloquium
+Submission Guidelines
+Colloquium Photos
+2022 CIS Doctoral Colloquium
+Submission Guidelines
+Program_open
+Participation and Awards
+Volunteers and Judges
+CISDC 2022 Photos
+2019 CIS Doctoral Colloquium
+2018 CIS Doctoral Colloquium
+2017 CIS Doctoral Colloquium
+2016 CIS Doctoral Colloquium
+2015 CIS Doctoral Colloquium
+2014 CIS Doctoral Colloquium
+2013 CIS Doctoral Colloquium
+Keynote speaker
+Colloquium sponsors
+Committee
+Call for papers
+Application_closed
+Submission_info
+Program_pending
+Program_open
+Alumni
+Registration_pending
+Industry
+Research collaboration
+Cyber attack maps to underpin better strategic responses
+Surgeons gain implant expertise with virtual training
+Informatics analyses value in digital health technologies
+Data contrasting highlights changing use of city
+Online community designed to support mental health for young people
+Satisfaction score to improve quality of internet search results
+Supply chain scheduling keeps automated mining operations on task
+Combined data adds power to decision-making
+New algorithms help interpret vision loss from digital images
+Host a student intern
+Mentor our students
+Student industry projects
+Become a guest speaker
+News
+2022 news and events
+CIS-EEE Seed Funding
+How data can prevent overdiagnosis
+
+CIS - IE 2022 Research Collaboration Seed Funding
+2021 news and events
+2020 news and events
+2019 news and events
+2023 news and events
+CIS-ME 2023 Seed Funding round
+CIS-IE 2023 Seed Funding round
+People
+Research
+Artificial intelligence
+Graduate Reseachers
+Computer science
+Graduate Researchers
+Digital Health
+Research projects
+Seminars
+Schools
+Study with us
+Undergraduate programs
+Graduate coursework programs
+Graduate research programs
+Industry based learning
+Programming proficiency test
+First Year Centre
+About
+Study with CIS
+Undergraduate programs
+Get help
+People
+Become a tutor
+Contact
+Graduate programs
+Graduate coursework programs
+Graduate research programs
+AI and Autonomy Lab
+News
+People
+Publications
+Research
+Mining and optimisation
+Automated planning languages
+Foundations of human-agent collaboration
+People-oriented software engineering
+Explainable artificial intelligence
+Multimodal human-agent collaboration
+Artificial Intelligence Assurance Lab
+About us
+Research
+Publications
+People
+Industry engagement
+Academic Centre of Cyber Security Excellence (ACCSE)
+Human-Computer Interaction
+Facilities
+User Experience Lab
+Interactive Technologies Lab
+Engineering Workshop
+
+Telstra Creator Space
+
+News and Events
+People
+Staff
+Graduate researchers
+Alumni
+Projects
+Adaptive learning technologies
+Ageing and avatars
+AI-enabled assistance for strategic planning in games
+Wearable technology for arm monitoring in health
+Augmented fitness
+Augmented learning environment for physiotherapy education
+Biometric Mirror
+Changing views
+Citizen Heritage
+Cognition-aware systems
+Cognitive interaction
+Completed projects
+Connecting learners for collaboration across diverse communities
+Cross-community information systems
+Crowdsourcing
+Death and the Internet
+Deceptive AI
+Designing for scale
+Designing technologies for indigenous knowledge
+Digital commemoration
+Digital domesticity
+Conceptualising and measuring digital emotion regulation
+Emerging technologies for enrichment in old age
+Encounters
+Ethics and digital games
+Evaluation of natural user interfaces in query auto-completion
+Examining the ‘digital’ in hybrid digital boardgames
+Exploring complex data sets using highly engaging environments
+Exploring natural user interfaces during meal times
+FaceSpace
+Getting well and being present
+Growing old and staying connected
+HandLog: tangible interactions for game input and rehabilitation
+iFISH
+Improving Vitamin D status and related health in young women
+Insertable technology for human interactions
+Interactive displays
+Interactive spaces and media architecture
+Kinecting with orang-utans
+Mediating intimacy
+Mobile fieldwork and learning
+Multimodal human–agent collaboration
+Music streaming and algorithmic recommendation
+Near-infrared spectroscopy
+Onebody
+Orygen Virtual World Project
+Promoting student peer review in Australian tertiary education
+Personal sensing for mental health and wellbeing
+Pholiota Unlocked
+Reading on ubiquitous devices
+Smart Garden Watering
+Smartphones for science
+Social gaming events: Warhammer 40K
+Social networking sites for ambivalent socialisers
+Social play in immersive gaming environments
+Social robots and virtual assistants for older people
+Sociophysical interactions
+Social Orientated Requirements Engineering
+Spectating eSports and Let’s Play
+SpinalLog
+Supporting social interactions for video calls in the home
+Teleconsultation: enhancing interactions between clinicians and patients
+Virtual co-presence
+Virtual Reality and climate change communication
+VR therapy for youth mental health
+Robot Assisted Learning and Rehabilitation
+XR for Human-Robot Interaction
+Social and Domestic Drones 
+Human-Centred Agent Learning
+Child of Now
+ #thismymob
+Publications
+Research
+Smart Spaces
+Ubiquitous computing
+Digital health
+Digital nature
+Novel interactions
+Design for ageing
+Games and play
+Social computing and communities
+Human information interaction
+Human-Robot Interaction
+Seminars
+Past seminars 2020
+Past seminars 2019
+Past seminars 2016–2018
+Past seminars 2011–2015
+Past seminars 2006–2010
+Past seminars 2004–2005
+Study
+HCI programs for potential students
+HCI subjects
+Masters projects
+Potential PhD students
+Information systems
+Process science and technology
+Business analytics and decision making
+Cybersecurity management
+Digital health
+Innovations in the digital society
+Publications
+Contact us
+Current Students
+Library
+Staff
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

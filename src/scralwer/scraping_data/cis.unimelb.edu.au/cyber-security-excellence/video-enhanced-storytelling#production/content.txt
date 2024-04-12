@@ -1,0 +1,391 @@
+URL: https://cis.unimelb.edu.au/cyber-security-excellence/video-enhanced-storytelling#production
+
+
+
+
+
+
+
+
+Video enhanced storytelling in cyber security: Faculty of Engineering and Information Technology, The University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+School of Computing and Information Systems
+
+
+
+Cyber Security
+
+
+
+Video enhanced storytelling
+
+
+
+
+
+
+
+Video enhanced storytelling in cyber security
+
+
+
+
+
+
+
+About us
+
+Our team
+
+Video projects
+
+Production process
+
+Work with us
+
+
+
+
+About usWe produce high quality cyber security training videos to suit an array of audiences.Whether the learner is a high-powered business executive or an IT student, we can create a solution that is right for you, your organisation and your budget.Trailer: Cybersecurity and IP TheftTrailer: Breach investigationThe above trailers are from two award-winning, recent cyber security videos: drama, and comedy. Each video is designed fit-for purpose and to suit the audience requirements. We work with the client to establish the needs of the project, and come up with solutions that will best deliver the learning messages.Why we existThe topic of cybersecurity has never been more pertinent than it is today.Although organisations have significantly increased their investment in cybersecurity, the number of cybersecurity incidents continues to rise. Verizon’s ‘2018 Data Breaches Investigations’ reported that outsiders perpetrated 73% of the surveyed 53,000 incidents (Verizon, 2018). Of these externally initiated incidents, half were committed by organised criminal groups and 12% by groups affiliated with state or state-affiliated actors.Given the business impact of security incidents, the level of expenditure in information security has dramatically increased in recent years. Worldwide spending on information security solutions is expected to reach $93 billion in 2018 (Gartner, 2017).The School of Computing and Information Systems has developed a case-based learning (CBL) approach for the education of tomorrow’s cybersecurity executive. CBL instigates critical discussion, draws out relevant experiences from students, encourages questioning of accepted practices, and creates dialogue between theory and practice. For effective CBL, innovative, authentic and effective pedagogical instruments have been developed with cybersecurity in mind.Teaching cases can be leveraged as powerful tools to teach future security management executives about real-world practice. In particular, storytelling (fictional) case studies that closely parallel real-world situations can deliver on pedagogical objectives as writers can use their creative license to craft a storyline that better focuses on the particular principles, concepts and challenges they want to address in their teaching.Video in particular, is an incredibly impactful method of storytelling for case-based learning. Video has a powerful impact in this space. The following is an excerpt from Christine Umayam, who has over 20 years of video content experience working in television news as a TV journalist and as a video producer for corporate companies:Engagement Studies have shown that video learning has positive outcomes on multiple levels, including increased motivation and deeper learning, and can specifically impact students’ ability to facilitate discussions and identify problems. Effectiveness Educators can use video to create more time and space for active learning. Once a video is created, it can be reused and updated as needed, leaving more time for live discussions and engagement with students. Inspired thinking Visual cues combined with audio play a huge role in the comprehension and retention of new material. Forrester Research analyst James McQuivey claims one minute of video equals approximately 1.8 million written words. Students are forced to think critically when introduced to complex content through video. Video for all Watching a video means learners can go at their own pace. Students can pause or rewatch a video multiple times in order to gain and retain learning material. Captions, for example, also enable deaf students to read the video. Video also allows for easy sharing of educational knowledge across different countries around the world.—Christine Umayam A still from Clutch & Dagger ReferencesAhmad, A., Webb, J., Desouza, K.C., and Boorman, J. (2019). Strategically-Motivated Advanced Persistent Threat: Definition, Process, Tactics and a Disinformation Model of Counterattack, Computers & Security. Vol 86, pp. 402–418.Ahmad, A., & Maynard, S.B. (2014). Teaching Information Security Management: Reflections and Experiences, Information Management & Computer Security. 22(5), pp. 513–536.Christine Umayam, Five (Easy-to-Implement) Ways Video Can Have a Powerful Impact on Teaching and Learning, EdSurge, 23 April 2018Our team
+
+ 
+
+Our teamAtif Ahmad and Sean Maynard have long been experts in their academic field of cybersecurity, and with the help of Rachael James, they are now venturing into the exciting field of video and film.After recognising the importance of case-studies in bringing learnings to life, Atif came up with an extensive fictional case-study story for students. The highly creative story was designed to illustrate fundamentals of security management and information security protection. The prose then evolved, and was transformed into a photo-story with voice-over, co-written by Rachael, Atif and Sean, and produced by Rachael.Off the back of this successful video, the trio were granted further funding to turn the idea into two fully fledged, high-end video productions. The two videos were very well received in both educational and cinema fields, winning five awards to date.With the need for more of these educational videos apparent, the trio secured a second grant and are currently working on further cyber videos with the same goals and intentions.Sean B. Maynard Sean MaynardSean B. Maynard is an academic based at the School of Computing and Information Systems, The University of Melbourne, Australia. Sean has over 25 years of teaching experience at the undergraduate, postgraduate and executive training levels. His teaching specialities include: Information Systems, Information Systems strategy and governance, database, and data warehousing.  He received his PhD in Information Security from the University of Melbourne in 2010. His research interests are in the management of information security specifically relating to security policy, security culture, security governance, security strategy, security analytics, and incident response. He has also published in the area of decision support systems, and business analytics, particularly in capability maturity. He has over sixty publications. His research has been published in high-impact journals such as Computers & Security, the Journal of the Association for Information Science and Technology, and the International Journal of Information Management, as well as leading conferences such as the International Conference on Information Systems.More informationWebsite: www.seanmaynard.meLinkedIn: Sean’s LinkedIn profileAtif Ahmad Atif AhmadAtif Ahmad is an Associate Professor at the University of Melbourne where he serves as Deputy Director for the Academic Centre of Cyber Security Excellence. Atif leads a unique team of Cybersecurity Management researchers drawn from information systems, business administration, security intelligence, and information warfare. He has authored over 90 scholarly articles in cybersecurity management and received over AUD$3.9M in grant funding. Atif is an Associate Editor for the leading IT security journal, Computers & Security. Atif has previously served as a cybersecurity consultant for WorleyParsons, Pinkerton and SinclairKnightMerz. He is a Certified Protection Professional with the American Society for Industrial Security.More informationWebsite: www.atifahmad.meLinkedIn: Atif’s LinkedIn profileRachael James Rachael JamesRachael James has worked in film and media for 10+ years. With a BA(Hons) from Victoria University and a diploma from the London Film Academy, she cut her teeth in the London film industry first as a cinematographer, and then moved into directing and producing. Rachael set up and co-ran a production business Buckwheat Films UK. She is highly experienced in overseeing and producing film and video from end-to-end. Rachael has filmed in Italy, London, Ireland, China, Austria, New Zealand and Australia, and has worked on everything from features to music videos, commercials and promos, as well as documentaries that allowed her to travel the globe. She is a passionate, award-winning screenwriter, working as a script consultant, with two features under her belt. Rachael currently produces, writes and directs in Melbourne.More informationLinkedIn: Rachael’s LinkedIn profileCase studies
+
+ 
+
+A Story of Cybersecurity and IP Theft:Part 1: Horizon (end 2019) Part 2: FC Pharma (end 2019) Part 3: Breach Investigation (2020/2021)Partners: The University of Melbourne in partnership with Deakin University & Oceania Cyber Security Centre (OCSC). For video 3, we also partnered with The Holmes Institute.Production type: Fictitious, three-part film seriesTo view any of these videos in full, please contact us.A Story of Cybersecurity and IP Theft is a three-part video series that tells of a fictitious firm that suffers a catastrophic incident of Intellectual Property (IP) theft. Protecting IP is both complex and expensive as it involves understanding and developing security mechanisms for the people, process, and technology dimensions of organisations.The case provokes conflict, requires high-stakes decisions to be made, and is extremely relevant to the sustainability of private enterprise (the problem and plot that was drawn from news stories and relevant legal indictments). The authors crafted the plot, narrative, characterisation, dilemmas and conflict to focus on the three key areas of cybersecurity, risk management, planning and strategy, and policy and governance.Delivery of a case study using video especially where the content is constructed to invite students to discuss observed practices is particularly effective. Realistic problem-solving using colorful graphics and videos in particular are both highly engaging and help students to bridge the gap between theory and practice as well. Video and graphics enhanced case studies make the problem more situated, which allows for greater realism, emotional complexity and higher levels of engagement especially for younger generations of learners.AwardsA Story of Cybersecurity and IP Theft have received the following awards to date:Accolade Competition - Award of Merit - 2020Best Shorts - Award of Excellence: Educational / Instructional / Training, Award of Excellence: Women Filmmakers - 2020Crown Wood International Film Festival - Winner, Monthly Edition Award - 2020Raw Science Festival - Finalist - 2020The IndieFEST film award - MERIT - 2020A Story of Cybersecurity and IP Theft (The Backstory) has received the following awards to date:Award of Excellence (Educational / Instructional / Training category) - The Best Shorts Competition, 2020Award of Merit (Best Shorts category) - The IndieFEST, 2020Clutch & DaggerPartners: The University of Melbourne / MSPACEProduced for: School of Computing and Information Systems, Managing Information Systems Executive (MISE)Production type: Animatic (photo story with voice over)Clutch & Dagger is an animatic examining the topic of intellectual property theft. It is part of a broader case study; this broader case study was over fifteen pages long making the video element an efficient and highly engaging means of drawing out key themes and facilitating discussion amongst students.The animatic was not housed in any particular course, it was generally for Managing Information Systems Executive, and it was shown in focus groups (research based). This video was also used as part of a presentation to the Oceania Cyber Security Centre (OCSC), which resulted in the OCSC coming on board as a funding partner to produce the multi-award-winning ‘A Story of Cybersecurity and IP Theft’ video series.To view this case study, Contact us.Production process
+
+ 
+
+Production processThe trio have a well established and enjoyable work pattern that makes life a breeze for clients.Identify key messagesThe first step is to identify all the key learning messages that need to be addressed in the video. This is done in conjunction with funding bodies or tailored to the design of the client and learner. Whether the learner is a high-powered business exec or an IT student, the design of the video will be very different but the principles of cyber security are the same. Atif and Sean’s extensive academic and professional experience in the field of Cyber Security means that they are a wealth of knowledge and able to identify key learning messages to fit the need of the film.Develop video briefNext, the video brief is put together. Length of video, intended audience, expected outcomes and format of outputs are identified. A timeline and overview of the project length will be established and agreed upon at this stage too. The brief is then agreed with the client, and all parties involved sign off.Pre-productionPre-production begins with the template or overview of the script being designed by Rachael. This template, including style and tone, is then negotiated, adapted, and agreed upon by Sean, Atif and Rachael. The script is written in stages of drafts (usually 2–4 versions) by Rachael. With each draft, Rachael relates it back to the key learning messages, and discusses and adapts it based on feedback from Atif and Sean. A script consultant may also be hired and worked with at this stage.There is a delicate balance to be found between cinematic/film principles, and academic/teaching needs. This balance is carefully struck by having the different expertises of Atif, Sean and Rachael, ensuring quality. When the script has gone through these phases, it is shown and discussed with the client or partner, to approve the storyline and give any final feedback. It is then polished and the script is considered finalised and locked into a shooting script.Production phaseProduction involves casting, crewing, managing the budget and hiring and tracking contractors and expenditures. Depending on the size of the project there can be more or less personnel involved. The production can involve a director, producer, cinematographer, assistant director, sound-person, art director, makeup artist, and several runners and assistants. Casting may involve a casting director, depending on the size of cast. Auditions are held, and the best performers, who also match the look and tone of the story, are assigned to the project.Call-sheets, risk assessments, and shoot-schedules must be created in advance of shoot dates, and ideal locations are chosen and booked, to best match the needs of the creative vision. Locations are assessed as far as lighting and sound needs. Filming equipment, props, costumes, and sound gear is booked and prepared. The director (Rachael), art director, cinematographer, and sometimes a location manager, will all be involved at this stage.FilmingUsually 5–7 minutes (or pages) of film can be shot in one day. Multiple cameras and camera gear, lights, tracking gear, sound equipment and set design props are required. Each shot and scene is clearly identified and notes are taken on the day for best takes. Raw footage (rushes) is wrangled. Clips are saved, labelled and media managed at the end of each shoot day.Post-productionPost-production refers to the editing process. This involves the director and an editor. Rachael will oversee this entire process too, and deliver 2–4 rounds of edit for Atif/Sean and then the client or funding partner. Each round feedback is received and this is relayed to the editor who makes adjustments. Sound levelling and colour grading is done last – this means tidying and tweaking the levels of sound and and music, as well as ‘grading’ the shots (so that they match the tone of the film, and match each other so that it flows smoothly).DeliveryThe film is signed-off and delivered in hard copy, and across the agreed platforms. Production in process for A Story of Cybersecurity and IP Theft Work with us
+
+ 
+
+Work with usDo you have a cyber security training gap that needs to be filled? Then why not partner with us and fill that gap with a beautifully produced video tailored exactly to your needs?Our multi-award-winning team is uniquely positioned to produce high quality cyber security videos to suit an array of audiences. Whether the learner is a high-powered business executive or an IT student, we can create a solution that is right for you, your organisation and your budget.As well as winning a multitude of awards, we have received a number of grands based on the high calibre of our prior work. If you are interested in partnering with us to fund a project, we would love to hear from you.If you would like to discuss a potential project or partnership, please contact us using the form below.Contact us
+
+
+
+
+
+
+Email Contact us
+Faculty of Engineering and Information Technology
+Engineering & IT Students
+Staff only: FEIT Intranet
+
+
+
+
+
+
+
+School of Computing and Information Systems
+About us
+About the School
+Life in Melbourne
+Alumni profiles
+Casual tutor, demonstrator, marker and project team supervisor opportunities
+CSIRAC: Our first computer
+CSIRAC’s vital statistics
+CSIRAC chronology
+CSIRAC design
+How did CSIRAC work?: Storage
+How did CSIRAC work?: Console
+CSIRAC uses
+CSIRAC: Designers
+The music of CSIRAC
+CSIRAC emulator
+Jurij Semkiw
+CSIRAC and computer history links
+The Last of the First, CSIRAC: Australia’s First Computer
+CSIRAC photo gallery
+The history of computing at the University of Melbourne
+History of computing in the department
+Starting the Department of Information Systems
+Early internet
+Memories of the department
+Programming
+Student life in the department
+Women in computing
+CIS Doctoral Colloquium
+2023 CIS Doctoral Colloquium
+Submission Guidelines
+Colloquium Photos
+2022 CIS Doctoral Colloquium
+Submission Guidelines
+Program_open
+Participation and Awards
+Volunteers and Judges
+CISDC 2022 Photos
+2019 CIS Doctoral Colloquium
+2018 CIS Doctoral Colloquium
+2017 CIS Doctoral Colloquium
+2016 CIS Doctoral Colloquium
+2015 CIS Doctoral Colloquium
+2014 CIS Doctoral Colloquium
+2013 CIS Doctoral Colloquium
+Keynote speaker
+Colloquium sponsors
+Committee
+Call for papers
+Application_closed
+Submission_info
+Program_pending
+Program_open
+Alumni
+Registration_pending
+Industry
+Research collaboration
+Cyber attack maps to underpin better strategic responses
+Surgeons gain implant expertise with virtual training
+Informatics analyses value in digital health technologies
+Data contrasting highlights changing use of city
+Online community designed to support mental health for young people
+Satisfaction score to improve quality of internet search results
+Supply chain scheduling keeps automated mining operations on task
+Combined data adds power to decision-making
+New algorithms help interpret vision loss from digital images
+Host a student intern
+Mentor our students
+Student industry projects
+Become a guest speaker
+News
+2022 news and events
+CIS-EEE Seed Funding
+How data can prevent overdiagnosis
+
+CIS - IE 2022 Research Collaboration Seed Funding
+2021 news and events
+2020 news and events
+2019 news and events
+2023 news and events
+CIS-ME 2023 Seed Funding round
+CIS-IE 2023 Seed Funding round
+People
+Research
+Artificial intelligence
+Graduate Reseachers
+Computer science
+Graduate Researchers
+Digital Health
+Research projects
+Seminars
+Schools
+Study with us
+Undergraduate programs
+Graduate coursework programs
+Graduate research programs
+Industry based learning
+Programming proficiency test
+First Year Centre
+About
+Study with CIS
+Undergraduate programs
+Get help
+People
+Become a tutor
+Contact
+Graduate programs
+Graduate coursework programs
+Graduate research programs
+AI and Autonomy Lab
+News
+People
+Publications
+Research
+Mining and optimisation
+Automated planning languages
+Foundations of human-agent collaboration
+People-oriented software engineering
+Explainable artificial intelligence
+Multimodal human-agent collaboration
+Artificial Intelligence Assurance Lab
+About us
+Research
+Publications
+People
+Industry engagement
+Academic Centre of Cyber Security Excellence (ACCSE)
+Human-Computer Interaction
+Facilities
+User Experience Lab
+Interactive Technologies Lab
+Engineering Workshop
+
+Telstra Creator Space
+
+News and Events
+People
+Staff
+Graduate researchers
+Alumni
+Projects
+Adaptive learning technologies
+Ageing and avatars
+AI-enabled assistance for strategic planning in games
+Wearable technology for arm monitoring in health
+Augmented fitness
+Augmented learning environment for physiotherapy education
+Biometric Mirror
+Changing views
+Citizen Heritage
+Cognition-aware systems
+Cognitive interaction
+Completed projects
+Connecting learners for collaboration across diverse communities
+Cross-community information systems
+Crowdsourcing
+Death and the Internet
+Deceptive AI
+Designing for scale
+Designing technologies for indigenous knowledge
+Digital commemoration
+Digital domesticity
+Conceptualising and measuring digital emotion regulation
+Emerging technologies for enrichment in old age
+Encounters
+Ethics and digital games
+Evaluation of natural user interfaces in query auto-completion
+Examining the ‘digital’ in hybrid digital boardgames
+Exploring complex data sets using highly engaging environments
+Exploring natural user interfaces during meal times
+FaceSpace
+Getting well and being present
+Growing old and staying connected
+HandLog: tangible interactions for game input and rehabilitation
+iFISH
+Improving Vitamin D status and related health in young women
+Insertable technology for human interactions
+Interactive displays
+Interactive spaces and media architecture
+Kinecting with orang-utans
+Mediating intimacy
+Mobile fieldwork and learning
+Multimodal human–agent collaboration
+Music streaming and algorithmic recommendation
+Near-infrared spectroscopy
+Onebody
+Orygen Virtual World Project
+Promoting student peer review in Australian tertiary education
+Personal sensing for mental health and wellbeing
+Pholiota Unlocked
+Reading on ubiquitous devices
+Smart Garden Watering
+Smartphones for science
+Social gaming events: Warhammer 40K
+Social networking sites for ambivalent socialisers
+Social play in immersive gaming environments
+Social robots and virtual assistants for older people
+Sociophysical interactions
+Social Orientated Requirements Engineering
+Spectating eSports and Let’s Play
+SpinalLog
+Supporting social interactions for video calls in the home
+Teleconsultation: enhancing interactions between clinicians and patients
+Virtual co-presence
+Virtual Reality and climate change communication
+VR therapy for youth mental health
+Robot Assisted Learning and Rehabilitation
+XR for Human-Robot Interaction
+Social and Domestic Drones 
+Human-Centred Agent Learning
+Child of Now
+ #thismymob
+Publications
+Research
+Smart Spaces
+Ubiquitous computing
+Digital health
+Digital nature
+Novel interactions
+Design for ageing
+Games and play
+Social computing and communities
+Human information interaction
+Human-Robot Interaction
+Seminars
+Past seminars 2020
+Past seminars 2019
+Past seminars 2016–2018
+Past seminars 2011–2015
+Past seminars 2006–2010
+Past seminars 2004–2005
+Study
+HCI programs for potential students
+HCI subjects
+Masters projects
+Potential PhD students
+Information systems
+Process science and technology
+Business analytics and decision making
+Cybersecurity management
+Digital health
+Innovations in the digital society
+Publications
+Contact us
+Current Students
+Library
+Staff
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

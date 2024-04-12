@@ -1,0 +1,5754 @@
+URL: https://cis.unimelb.edu.au/archive/gr-page-list#S
+
+
+
+
+
+
+
+
+GR - Page List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+School of Computing and Information Systems
+
+
+
+GR - Page List
+
+
+
+
+
+GR - Page List
+
+
+Jump to: A | B | C | D | E | F | G | H | J | K | L | M | N | O | P | R | S | T | W | X | Y | Z
+
+
+
+
+
+
+Ehsan Abedin
+
+Thesis title:
+Credibility assessment of user-generated content
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Dr Antonette Mendoza
+Prof Shanika Karunasekera
+
+Location:
+Melbourne Connect
+
+
+
+eabedin@student.unimelb.edu.au
+
+
+
+
+
+
+
+Nigel Adams
+
+Thesis title:
+How can process mining support banks address the issues they face with Business Process Compliance?
+Website:
+hettonadvisory.com 
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Prof Marcello La Rosa
+Prof Michael Davern
+Dr Adriano Augusto
+
+Location:
+Melbourne Connect
+
+
+
+nigel.adams@student.unimelb.edu.au
+
+
+
+
+
+
+
+Sadaf Afrashteh
+
+Thesis title:
+Conceptualising ethical big data use
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof James Bailey
+Ida Asadi Someh
+Prof Michael Davern
+
+Location:
+Melbourne Connect
+
+
+
+safrashteh@student.unimelb.edu.au
+
+
+
+
+
+
+
+Siddharth Agarwal
+
+Thesis title:
+Serverless computing optimization: reducing cold starts
+Website:
+LinkedIn profile 
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Rajkumar Buyya
+Dr Maria Rodriguez Read
+
+Location:
+Offshore
+
+
+
+siddhartha@student.unimelb.edu.au
+
+
+
+
+
+
+
+Carlos-Andres Agudelo-Serna
+
+Thesis title:
+Information security risks associated with mobility contexts (BYOD)
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Dr Sean Maynard
+Assoc Prof Atif Ahmad
+Dr Rachelle Bosua
+
+Location:
+Melbourne Connect
+
+
+
+cagudelo@student.unimelb.edu.au
+
+
+
+
+
+
+
+Scott Ainslie
+
+Thesis title:
+Cyber threat intelligence driven incident response in organisations
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Assoc Prof Atif Ahmad
+Dr Sean Maynard
+
+Location:
+Melbourne Connect
+
+
+
+sainslie@student.unimelb.edu.au
+
+
+
+
+
+
+
+Hajar Alamri
+
+Thesis title:
+Motivations for Discussing Chronic Diseases on Online Photo Sharing Platforms
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Prof Reeva Lederman
+Assoc Prof Jenny Waycott
+
+Location:
+Melbourne Connect
+
+
+
+halamri@student.unimelb.edu.au
+
+
+
+
+
+
+
+Hanan Alkhammash
+
+Thesis title:
+Stochastic process discovery
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Dr Artem Polyvyanyy
+Prof Alistair Moffat
+
+Location:
+Melbourne Connect
+
+
+
+halkhammash@student.unimelb.edu.au
+
+
+
+
+
+
+
+Abeer Alshehri
+
+Thesis title:
+Explanation of goal recognition systems
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Tim Miller
+Mor Vered
+
+Location:
+Melbourne Connect
+
+
+
+aalshehri@student.unimelb.edu.au
+
+
+
+
+
+
+
+Hanan Alsouly
+
+Thesis title:
+Dynamic many-objective optimisation using evolutionary algorithms
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Michael Kirley
+Dr Andres Munoz Acosta
+
+Location:
+Melbourne Connect
+
+
+
+halsouly@student.unimelb.edu.au
+
+
+
+
+
+
+
+Yasser Aldwyan
+
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Richard Sinnott
+
+Location:
+Melbourne Connect
+
+
+
+yaldwyan@student.unimelb.edu.au
+
+
+
+
+
+
+
+Abdullah Aldwyish
+
+Thesis title:
+Location-based social networks
+Website:
+twitter.com/adwayish
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Egemen Tanin
+Prof Shanika Karunasekera
+
+Location:
+Melbourne Connect
+
+
+
+aldwyish@student.unimelb.edu.au
+
+
+
+
+
+
+
+Elaheh Alipour
+
+Thesis title:
+Network traffic monitoring for DoS detection
+Website:
+LinkedIn profile 
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Chris Leckie
+Dr Sarah Monazam Erfani
+Assoc Prof Atif Ahmad
+
+Location:
+Melbourne Connect
+
+
+
+ealipourchav@student.unimelb.edu.au
+
+
+
+
+
+
+
+Mona Alshardan
+
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Dr Antonette Mendoza
+
+Location:
+Melbourne Connect
+
+
+
+m.alshardan@student.unimelb.edu.au
+
+
+
+
+
+
+
+Gayashan Amarasinghe
+
+Thesis title:
+Distributed Stream Processing on Edge and Cloud Computing Environments
+Website:
+Google Scholar 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Shanika Karunasekera
+Dr Aaron Harwood
+Dr Marcos D de Assunção (INRIA)
+
+Location:
+Melbourne Connect
+
+
+
+gamarasinghe@student.unimelb.edu.au
+
+
+
+
+
+
+
+Ashley Anderson
+
+Thesis title:
+Methods of case-based instruction to improve cybersecurity education for post-professional learners
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Assoc Prof Atif Ahmad
+Assoc Prof Shanton Chang
+
+Location:
+Melbourne Connect
+
+
+
+abanderson@student.unimelb.edu.au
+
+
+
+
+
+
+
+Madeleine Antonellos
+
+Thesis title:
+Developing digital careers: a case study on cosplay in Australia
+Website:
+https://scholar.google.com/citations?user=mzlZXAMAAAAJ&hl=en 
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Prof Martin Gibbs
+Dr Bjorn Nansen
+
+Location:
+Melbourne Connect
+
+
+
+mantonellos@student.unimelb.edu.au
+
+
+
+
+
+
+
+Jiayang Ao
+
+Thesis title:
+Explainable computer vision algorithms
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Kris Ehinger
+Dr Qiuhong Ke
+
+Location:
+Melbourne Connect
+
+
+
+jiayang.ao@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Ebrahim Babaei
+
+Thesis title:
+Attention model for learning from eye gaze in eLearning environments
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Dr Eduardo Velloso
+
+Location:
+Melbourne Connect
+
+
+
+ebabaei@student.unimelb.edu.au
+
+
+
+
+
+
+
+Vincent Barbosa Vaz
+
+Thesis title:
+Predict+optimise through time
+Website:
+vincentbarbosavaz.com 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof James Bailey
+Prof Chris Leckie
+
+Location:
+Melbourne Connect
+
+
+
+ vbarbosavaz@student.unimelb.edu.au
+
+
+
+
+
+
+
+Saeed Nasehi Basharzad
+
+Thesis title:
+A high performance and near real-time integrated driving navigation and traffic controlling system
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Egemen Tanin
+Dr Farhana Choudhury
+
+Location:
+Offshore
+
+
+
+ s.nasehibasharzad@student.unimelb.edu.au
+
+
+
+
+
+
+
+Uri Berger
+
+Thesis title:
+Interactive multimodal language acquisition
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Lea Frermann
+Prof Omri Abend (The Hebrew University of Jerusalem)
+Dr Gabriel Stanovsky (The Hebrew University of Jerusalem)
+
+Location:
+University of Jerusalem, Israel
+
+
+
+uberger@student.unimelb.edu.au
+
+
+
+
+
+
+
+Priyankar Bhattacharjee
+
+Thesis title:
+Digitally enriching the old age experience
+Website:
+priyankarbhattacharjee.wordpress.com 
+Discipline/Group:
+Human-Computer Interaction 
+Supervisor:
+
+Assoc Prof Jenny Waycott
+
+Location:
+Melbourne Connect
+
+
+
+ priyankar.bhattacharjee@student.unimelb.edu.au"
+
+
+
+
+
+
+
+Nattapat Boonprakong
+
+Thesis title:
+Towards social media literacy: a data-driven approach for human cognitive bias mitigation
+Website:
+nattapatb.github.io
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Dr Tilman Dingler
+Dr Benjamin Tag
+
+Location:
+Offshore
+
+
+
+nboonprakong@student.unimelb.edu.au
+
+
+
+
+
+
+
+Eman Bin Khunayn
+
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Shanika Karunasekera
+
+Location:
+Melbourne Connect
+
+
+
+emanb@student.unimelb.edu.au
+
+
+
+
+
+
+
+Stu Black
+
+Thesis title:
+Data risk and/or reward: how organisations view the secondary use of data, configurations for success, and the role therein of the board and management
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Dr Sean Maynard
+Prof Michael Davern
+
+Location:
+Melbourne Connect
+
+
+
+stu.black@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Daniel Cabrera Lozoya
+
+Thesis title:
+Augmenting clinical mental health practice with machine learning models and digital phenotyping insights
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Dr Simon D’Alfonso
+
+Location:
+Offshore
+
+
+
+daniel.cabreralozoya@student.unimelb.edu.au
+
+
+
+
+
+
+
+Joanne Cannon
+
+Thesis title:
+The investment of play: Long term evolution of human-computer musical interactions
+Discipline/Group:
+Human-Computer Interaction 
+Supervisor:
+
+Prof Martin Gibbs
+
+Location:
+Melbourne Connect
+
+
+
+j.cannon@student.unimelb.edu.au
+
+
+
+
+
+
+
+Francesco Cataldo
+
+Thesis title:
+Videoconference psychotherapy
+Website:
+LinkedIn profile 
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Assoc Prof Shanton Chang
+Dr Antonette Mendoza
+Dr George Buchanan
+
+Location:
+Melbourne Connect
+
+
+
+francesco.cataldo@student.unimelb.edu.au
+
+
+
+
+
+
+
+Wendy Cavenett
+
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Assoc Prof Jenny Waycott
+Dr Steven Baker
+
+Location:
+Melbourne Connect
+
+
+
+wendyc@student.unimelb.edu.au
+
+
+
+
+
+
+
+Philip Cervenjak
+
+Thesis title:
+Approximation algorithms for submodular optimisation
+Website:
+www.linkedin.com/in/philip-cervenjak/ 
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Tony Wirth
+Dr Junhao Gan
+
+Location:
+Level 2, Desk 076, Melbourne Connect
+
+
+
+pcervenjak@student.unimelb.edu.au
+
+
+
+
+
+
+
+Yanchuan Chang
+
+Thesis title:
+Spatial indices with non-trivial performance guarantees
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Jianzhong Qi
+Assoc Prof Egemen Tanin
+
+Location:
+Melbourne Connect
+
+
+
+yanchuanc@student.unimelb.edu.au
+
+
+
+
+
+
+
+Arjun Chaudhary
+
+Thesis title:
+Medical data mining
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Uwe Aickelin
+Dr Pauline Lin
+
+Location:
+Melbourne Connect
+
+
+
+a.chaudhary@student.unimelb.edu.au
+
+
+
+
+
+
+
+Ming Chen
+
+Thesis title:
+A heterogeneous stream processing system based on online learning and blockchain in IoT
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Rajkumar Buyya
+Dr Maria Rodriguez Read
+
+Location:
+Offshore
+
+
+
+mingc4@student.unimelb.edu.au
+
+
+
+
+
+
+
+Jiyu Chen
+
+Thesis title:
+Automatic biological data curation based on language understanding and network analysis
+Website:
+www.jiyuc.live 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Karin Verspoor
+Assoc Prof Nic Geard
+Prof Justin Zobel
+
+Location:
+Melbourne Connect
+
+
+
+jiyuc@student.unimelb.edu.au
+
+
+
+
+
+
+
+Huaihui Cheng
+
+Thesis title:
+The financial and security impact of hospitals’ adoption of mobile technologies on the Health Information Exchange system (HIE)
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Dr Libo Liu
+Dr Tingru Cui
+
+Location:
+Offshore
+
+
+
+huaihuic@student.unimelb.edu.au
+
+
+
+
+
+
+
+Martin Chesbrough
+
+Thesis title:
+Data driven culture in organisations
+Website:
+martinchesbrough.net
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Prof Michael Davern
+Dr Sean Maynard
+
+Location:
+Melbourne Connect
+
+
+
+martin.chesbrough@student.unimelb.edu.au
+
+
+
+
+
+
+
+Louis Cheung
+
+Thesis title:
+Formally Verified Data Compression Algorithms
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Alistair Moffat
+A/Prof Toby Murray
+
+
+
+
+louis.cheung@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Zahra Dasht Bozorgi
+
+Thesis title:
+Active learning for prescriptive process monitoring
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Prof Marcello La Rosa
+Dr Artem Polyvyanyy
+
+Location:
+Melbourne Connect
+
+
+
+zahra.dashtbozorgi@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+David Eccles
+
+Thesis title:
+Inoculating targeted online users from targeted misinformation and disinformation persuasion
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Dr Suelette Dreyfus
+Prof Reeva Lederman
+
+Location:
+Melbourne Connect
+
+
+
+ecclesd@student.unimelb.edu.au
+
+
+
+
+
+
+
+Aparna Elangovan
+
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Karin Verspoor
+
+
+
+
+a.elangovan@student.unimelb.edu.au
+
+
+
+
+
+
+
+Fernando Estrada Martinez De Alva
+
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Prof Reeva Lederman
+Dr Greg Wadley
+
+Location:
+Melbourne Connect
+
+
+
+f.estrada@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Biaoyan Fang
+
+Thesis title:
+Anaphora resolution in biochemical text
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Karin Verspoor
+Prof Tim Baldwin
+
+Location:
+Melbourne Connect
+
+
+
+biaoyanf@student.unimelb.edu.au
+
+
+
+
+
+
+
+Luxin Fang
+
+Thesis title:
+Estimation of distribution power network topology from smart meter measurements
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Dr Lachlan Andrew
+Dr Andres Munoz Acosta
+
+Location:
+Melbourne Connect
+
+
+
+luxinf@student.unimelb.edu.au
+
+
+
+
+
+
+
+Fatma Faruq
+
+Thesis title:
+Verified multi-agent planning under uncertainty
+Website:
+www.cs.bham.ac.uk/~fxf603/ 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Tim Miller
+Dave Parker (University of Birmingham)
+
+Location:
+University of Birmingham
+
+
+
+ffaruq@student.unimelb.edu.au
+
+
+
+
+
+
+
+Kate Ferris
+
+Thesis title:
+Virtual Reality for Climate Change Communication
+Website:
+people.eng.unimelb.edu.au/kferris
+Discipline/Group:
+ Human-Computer Interaction
+Climate Energy College
+
+Supervisor:
+
+Dr Greg Wadley
+Prof Kathryn Williams
+
+Location:
+Melbourne Connect
+
+
+
+kferris@student.unimelb.edu.au
+
+
+
+
+
+
+
+Sophie Freeman
+
+Thesis title:
+Machine learning and music discovery: something lost, something gained
+Website:
+LinkedIn profile 
+Discipline/Group:
+Human-Computer Interaction
+Discipline/Group:
+ 
+Supervisor:
+
+Prof Martin Gibbs
+Dr Bjorn Nansen
+
+Location:
+Melbourne Connect
+
+
+
+freemans1@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Wei Gao
+
+Discipline/Group:
+Artificial Intelligence>
+					Supervisor:
+
+Dr Jianzhong Qi
+
+Location:
+Melbourne Connect
+
+
+
+weig2@student.unimelb.edu.au
+
+
+
+
+
+
+
+Elsy Garcia Reyes
+
+Thesis title:
+Understanding the acceptance and use of home-based care technologies by older adults
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Assoc Prof Jenny Waycott
+Dr George Buchanan
+
+Location:
+Melbourne Connect
+
+
+
+egarciareyes@student.unimelb.edu.au
+
+
+
+
+
+
+
+Gourab Ghosh Roy
+
+Thesis title:
+Interplay of network architecture and dynamics for understanding emergence in complex systems
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Karin Verspoor
+Assoc Prof Nic Geard
+Dr Shan He
+
+Location:
+University of Birmingham
+
+
+
+gghoshroy@student.unimelb.edu.au
+
+
+
+
+
+
+
+Mohammad Goudarzi
+
+Thesis title:
+Task Processing System for Fog/Edge Computing
+Website:
+LinkedIn profile 
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Rajkumar Buyya
+Marimuthu Palaniswami
+
+Location:
+Melbourne Connect
+
+
+
+mgoudarzi@student.unimelb.edu.au
+
+
+
+
+
+
+
+Guan Gui
+
+Thesis title:
+Yui: A personal activity assisant that promotes a smarter lifestyle
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Dr Aaron Harwood
+
+Location:
+Melbourne Connect
+
+
+
+ggui@student.unimelb.edu.au
+
+
+
+
+
+
+
+Udesh Gunarathna
+
+Thesis title:
+Efficient Spatial Data Management for Enabling True Ride-Sharing
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Egemen Tanin
+Prof Shanika Karunasekera
+Dr Renata Borovica-Gajic
+
+Location:
+Melbourne Connect
+
+
+
+udesh.gunarathna@student.unimelb.edu.au
+
+
+
+
+
+
+
+Zifeng (Peaker) Guo
+
+Thesis title:
+Efficient structures for recency and string-searching queries in data streams
+Website:
+www.linkedin.com/in/peaker-guo-1ba686147
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Tony Wirth
+Prof Justin Zobel
+
+Location:
+Melbourne Connect
+
+
+
+peaker.guo@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Bing-yi Han
+
+Thesis title:
+Ethical issues in the use of AI in educational settings
+Website:
+www.linkedin.com/in/bingyi-han-29683716a 
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Dr George Buchanan
+Dr Dana McKay
+
+Location:
+Offshore
+
+
+
+bingyih@student.unimelb.edu.au
+
+
+
+
+
+
+
+Xudong Han
+
+Thesis title:
+Gender bias detection and debiasing in models of human language
+Website:
+hanxudong.github.io
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Trevor Cohn
+Prof Tim Baldwin
+
+Location:
+Melbourne Connect
+
+
+
+xudongh1@student.unimelb.edu.au
+
+
+
+
+
+
+
+Haitian He
+
+Thesis title:
+Video anomaly detection in crowded scenes at multi-timescale
+Website:
+haitianhe-site.herokuapp.com 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Sarah Monazam Erfani
+Dr Qiuhong Ke
+
+Location:
+Melbourne Connect
+
+
+
+haitianh@student.unimelb.edu.au
+
+
+
+
+
+
+
+Jiabo He
+
+Thesis title:
+Reinforcement Learning for Surgical Procedures
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Dr Sarah Monazam Erfani
+Dr Sudanthi Wijewickrema
+Prof Stephen O’Leary
+
+Location:
+Melbourne Connect
+
+
+
+jiaboh@student.unimelb.edu.au
+
+
+
+
+
+
+
+Daniel Herring
+
+Thesis title:
+Dynamic Multi-Objective Optimization Using Evolutionary Algorithms
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Michael Kirley
+Dr Nir Lipovetzky
+Prof Xin Yao
+Dr Per Kristian Lehre
+
+Location:
+University of Birmingham
+
+
+
+dherring@student.unimelb.edu.au
+
+
+
+
+
+
+
+Danula Hettiachchi
+
+Thesis title:
+Improving the quality of scientific data collected via crowdsourcing
+Website:
+danula.github.io 
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Dr Jorge Goncalves
+Prof Vassilis Kostakos
+
+Location:
+Melbourne Connect
+
+
+
+dhettiachchi@student.unimelb.edu.au
+
+
+
+
+
+
+
+Geoffrey Hill
+
+Thesis title:
+Private MMO servers as video game preservation
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Prof Martin Gibbs
+Dr Melissa Rogerson
+
+Location:
+Melbourne Connect
+
+
+
+gwhill@student.unimelb.edu.au
+
+
+
+
+
+
+
+Markus Hiller
+
+Thesis title:
+Constraining learning methods through geometry and causal reasoning
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Tom Drummond
+Dr Kris Ehinger
+
+Location:
+Melbourne Connect
+
+
+
+markus.hiller@student.unimelb.edu.au
+
+
+
+
+
+
+
+Guang Hu
+
+Thesis title:
+Explainable agency using epistemic planning
+Website:
+ausdroid.co/people/guanghu
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Tim Miller
+Dr Nir Lipovetzky
+
+Location:
+Melbourne Connect
+
+
+
+ghu1@student.unimelb.edu.au
+
+
+
+
+
+
+
+Hanxun Huang
+
+Thesis title:
+Robust machine learning
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof James Bailey
+Dr Sarah Monazam Erfani
+Dr Daniel Ma
+
+Location:
+Melbourne Connect
+
+
+
+hanxunh@student.unimelb.edu.au
+
+
+
+
+
+
+
+Zhuoqun (Calvin) Huang
+
+Thesis title:
+Adaptive data analysis for principled data reuse
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Ben Rubinstein
+Dr Olya Ohrimenko
+
+Location:
+Melbourne Connect
+
+
+
+zhuoqunh@student.unimelb.edu.au
+
+
+
+
+
+
+
+Zuo Huang
+
+Thesis title:
+Real-time hot-spot detection for the environmental sciences through deep learning, sensor networks and data fusion
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Richard Sinnott
+Dr Qiuhong Ke
+
+Location:
+Melbourne Connect
+
+
+
+zuhuang@student.unimelb.edu.au
+
+
+
+
+
+
+
+Sukai Huang
+
+Thesis title:
+Texted based reinforcement learning agent
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Trevor Cohn
+Prof Ben Rubinstein
+Dr Nir Lipovetzky
+
+Location:
+Melbourne Connect
+
+
+
+sukaih@student.unimelb.edu.au
+
+
+
+
+
+
+
+Xinting Huang
+
+Thesis title:
+Low resource dialogue system learning by knowledge sharing
+Website:
+timhuang1.github.io 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Jianzhong Qi
+Dr Bayu Trisedya
+
+Location:
+Melbourne Connect
+
+
+
+xintingh@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Vincent Jackson
+
+Thesis title:
+Mechanised High-Level Verification for Concurrent Low-level Programs
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Dr. Christine Rizkallah
+A/Prof Toby Murray
+
+
+
+
+vincent.jackson@student.unimelb.edu.au
+
+
+
+
+
+
+
+Amanda Jayanetti
+
+Website:
+LinkedIn profile 
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Rajkumar Buyya
+Prof Saman Halgamuge
+
+Location:
+Melbourne Connect
+
+
+
+amjayanetti@student.unimelb.edu.au
+
+
+
+
+
+
+
+Yunzhe Jia
+
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof James Bailey
+
+Location:
+Melbourne Connect
+
+
+
+y.jia10@student.unimelb.edu.au
+
+
+
+
+
+
+
+Weiwei Jiang
+
+Thesis title:
+Developing interactive systems using near-infrared spectroscopy
+Website:
+www.weiweijiang.xyz 
+Discipline/Group:
+ Human-Computer Interaction
+Supervisor:
+
+Prof Vassilis Kostakos
+
+Location:
+Melbourne Connect
+
+
+
+weiwei.jiang@student.unimelb.edu.au
+
+
+
+
+
+
+
+Yujing Jiang
+
+Thesis title:
+Adversarial machine learning with medical application
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof James Bailey
+Dr Sarah Monazam Erfani
+Dr Daniel Ma
+
+Location:
+Melbourne Connect
+
+
+
+yujingj@student.unimelb.edu.au
+
+
+
+
+
+
+
+Jiankai Jin
+
+Thesis title:
+Analysing utility and tradeoffs of multi-party machine learning
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Dr Olya Ohrimenko
+Prof Ben Rubinstein
+
+Location:
+Offshore
+
+
+
+jiankaij@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Timothy Kariotis
+
+Thesis title:
+Information continuity in the digital age: co-developing the socio-technical design requirements for an integrated electronic health record in mental health contexts
+Website:
+LinkedIn profile 
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Assoc Prof Shanton Chang
+Assoc Prof Kathleen Gray
+Dr Megan Prictor
+
+Location:
+Melbourne Connect
+
+
+
+timothy.kariotis@student.unimelb.edu.au
+
+
+
+
+
+
+
+Atlarelang Kesiilwe
+
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Prof Reeva Lederman
+Dr Suelette Dreyfus
+
+Location:
+Melbourne Connect
+
+
+
+akesiilwe@student.unimelb.edu.au
+
+
+
+
+
+
+
+Anam Khan
+
+Thesis title:
+Attention aware systems for personalised learning
+Website:
+LinkedIn 
+Discipline/Group:
+Human-Computer Interaction 
+Supervisor:
+
+Prof James Bailey
+Dr Eduardo Velloso
+
+Location:
+Melbourne Connect
+
+
+
+anamk@student.unimelb.edu.au
+
+
+
+
+
+
+
+Shima Khanehzar
+
+Thesis title:
+A data driven model of agenda setting in Australian politics
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Andrew Turpin
+Prof Justin Zobel
+
+Location:
+Melbourne Connect
+
+
+
+skhanehzar@student.unimelb.edu.au
+
+
+
+
+
+
+
+Sara Khorasani
+
+Thesis title:
+Harnessing immersive simulation data in real-time to analyze user performance in virtual environments and guide training development
+Website:
+LinkedIn 
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Dr Eduardo Velloso
+Dr Jarrod Knibbe
+
+Location:
+Melbourne Connect
+
+
+
+sara.khorasani@student.unimelb.edu.au
+
+
+
+
+
+
+
+Fajri Koto
+
+Thesis title:
+Neural Language Model for Abstractive Text Summarisation
+Website:
+www.fajrikoto.com 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Tim Baldwin
+Dr Jey Han Lau
+
+Location:
+Melbourne Connect
+
+
+
+ffajri@student.unimelb.edu.au
+
+
+
+
+
+
+
+Ritu Lakshmi Kudallur Ramanathan
+
+Thesis title:
+Sensemaking in security
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Assoc Prof Atif Ahmad
+Dr Sean Maynard
+
+Location:
+Melbourne Connect
+
+
+
+rkudallur@student.unimelb.edu.au
+
+
+
+
+
+
+
+Kemal Kurniawan
+
+Website:
+kkurniawan.com 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Trevor Cohn
+Dr Lea Frermann
+
+Location:
+Melbourne Connect
+
+
+
+kemal.kurniawan@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Robert Langtry
+
+Thesis title:
+Machine learning for automated generation of validated infra-red signature models
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof James Bailey
+Prof Chris Manzie
+
+Location:
+Melbourne Connect
+
+
+
+r.langtry1@student.unimelb.edu.au
+
+
+
+
+
+
+
+Rabindra Lamsal
+
+Thesis title:
+Social media analytics: a real-time machine learning approach
+Website:
+rlamsal.com.np 
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Dr Aaron Harwood
+Dr Maria Rodriguez Read
+
+Location:
+Offshore
+
+
+
+rlamsal@student.unimelb.edu.au
+
+
+
+
+
+
+
+Thao Le
+
+Thesis title:
+Explainable machine learning
+Website:
+LinkedIn profile 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Tim Miller
+Dr Ronal Singh
+Prof Liz Sonenberg
+
+Location:
+Offshore
+
+
+
+thaol4@student.unimelb.edu.au
+
+
+
+
+
+
+
+Volodymyr Leno
+
+Thesis title:
+Accelerating RPA via Process Mining
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Marcello La Rosa
+Artem Polyvyanyy
+
+Location:
+Melbourne Connect
+
+
+
+vleno@student.unimelb.edu.au
+
+
+
+
+
+
+
+Ang Li
+
+Thesis title:
+Large-Scale Automated Deep Annotation for Urban Environment
+Discipline/Group:
+Computer Science>
+					Supervisor:
+
+Prof Rui Zhang
+
+Location:
+Offshore
+
+
+
+angl4@student.unimelb.edu.au
+
+
+
+
+
+
+
+Haonan Li
+
+Thesis title:
+Geospatial Information with Natural Language Processing
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Tim Baldwin
+Maria Vasardani
+Dr Martin Tomko
+
+Location:
+Melbourne Connect
+
+
+
+haonanl5@student.unimelb.edu.au
+
+
+
+
+
+
+
+Haopeng Li
+
+Thesis title:
+Multimodal Video Understanding Based on Deep Learning
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr. Qiuhong Ke
+Dr. Mingming Gong
+
+Location:
+Offshore
+
+
+
+haopeng.li@student.unimelb.edu.au
+
+
+
+
+
+
+
+Miao Li
+
+Website:
+oaimli.github.io 
+Discipline/Group:
+Artificial intelligence
+Supervisor:
+
+Dr Jianzhong Qi
+Dr Jey Han Lau
+
+Location:
+Melbourne Connect
+
+
+
+miao4@student.unimelb.edu.au
+
+
+
+
+
+
+
+Yichen Li
+
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Jianzhong Qi
+
+Location:
+Melbourne Connect
+
+
+
+yichenl1@student.unimelb.edu.au
+
+
+
+
+
+
+
+Alex Jacey Ligthart-Smith
+
+Thesis title:
+Preserving data privacy with semi-trusted adversaries
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Dr Olya Ohrimenko
+Prof Tony Wirth
+
+Location:
+Melbourne Connect
+
+
+
+jacey.ligthartsmith@student.unimelb.edu.au
+
+
+
+
+
+
+
+Zheng Wei Lim
+
+Thesis title:
+Cross-lingual Psycholinguistics with NLP methods
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Trevor Cohn
+Prof Charles S Kemp
+Dr Ekaterina Vylomova
+
+
+
+
+z.lim4@student.unimelb.edu.au
+
+
+
+
+
+
+
+Chunhua Liu
+
+Thesis title:
+Entailing fragments recognition
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Trevor Cohn
+Dr Lea Frermann
+
+Location:
+Melbourne Connect
+
+
+
+chunhua.liu@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Dongge Liu
+
+Thesis title:
+Software vulnerability analysis with machine learning
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Assoc Prof Toby Murray
+Prof Ben Rubinstein
+Richard Nock
+
+Location:
+Melbourne Connect
+
+
+
+donggel@student.unimelb.edu.au
+
+
+
+
+
+
+
+Guanli Liu
+
+Thesis title:
+Learned spatial indices
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Jianzhong Qi
+Prof Lars Kulik
+
+Location:
+Melbourne Connect
+
+
+
+guanli.liu@student.unimelb.edu.au
+
+
+
+
+
+
+
+Han Liu
+
+Thesis title:
+Enhancing Scientific Document Categorization with Taxonomy Information
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Richard Sinnott
+Dr Jey Han Lau
+
+Location:
+Offshore
+
+
+
+h.liu71@student.unimelb.edu.au
+
+
+
+
+
+
+
+Jinghui Liu
+
+Thesis title:
+Analysis of electronic health records for clinical decision support
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Karin Verspoor
+Dr Daniel Capurro
+Dr Anthony Nyugen
+
+Location:
+Melbourne Connect
+
+
+
+jinghui.liu@student.unimelb.edu.au
+
+
+
+
+
+
+
+Rui Liu
+
+Thesis title:
+Digital resource aggregation: using linked data to aggregate academic resources in the digital humanities discipline
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Dr George Buchanan
+Dr Dana McKay
+
+Location:
+Melbourne Connect
+
+
+
+ruiliu2@student.unimelb.edu.au
+
+
+
+
+
+
+
+Shijie Liu
+
+Thesis title:
+Enhancing adversarial defence via robust statistics and certified robustness
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Ben Rubinstein
+Dr Sarah Monazam Erfani
+Dr Andrew Cullen
+
+Location:
+Melbourne Connect
+
+
+
+shijiel2@student.unimelb.edu.au
+
+
+
+
+
+
+
+Yuansan Liu
+
+Thesis title:
+Robust AI for guidance of a cochlear implant procedure
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof James Bailey
+Dr Sudanthi Wijewickrema
+
+Location:
+Melbourne Connect
+
+
+
+yuansanl@student.unimelb.edu.au
+
+
+
+
+
+
+
+Juan Lu
+
+Thesis title:
+Objective assessment of severity of psoriasis through skin images
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Ed Kazmierczak
+Jonathon Manton
+
+Location:
+Melbourne Connect
+
+
+
+jualu@student.unimelb.edu.au
+
+
+
+
+
+
+
+Henrietta Lyons
+
+Thesis title:
+Developing human-centred explanations for decisions made by artificial intelligence
+Website:
+LinkedIn
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Dr Eduardo Velloso
+Prof Tim Miller
+
+Location:
+Melbourne Connect
+
+
+
+hlyons@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Mansoureh Maadi
+
+Thesis title:
+Robust data mining
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Uwe Aickelin
+Dr Hadi Khorshidi
+
+Location:
+Melbourne Connect
+
+
+
+mansoureh.maadi@student.unimelb.edu.au
+
+
+
+
+
+
+
+Prashan Madumal
+
+Thesis title:
+Explainable agency in autonomous agents
+Website:
+Google Scholar 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Tim Miller
+Prof Frank Vetere
+Prof Liz Sonenberg
+
+Location:
+Melbourne Connect
+
+
+
+p.madumal@student.unimelb.edu.au
+
+
+
+
+
+
+
+Isura Manchanayaka
+
+Thesis title:
+Identifying Coordination and Influential People in Social Media and Their Intentions
+Discipline/Group:
+Artificial Intelligence
+Website:
+http://192.46.229.63/ 
+Supervisor:
+
+Prof Shanika Karunasekera
+Prof Christopher Leckie
+
+Location:
+Offshore
+
+
+
+imanchanayak@student.unimelb.edu.au
+
+
+
+
+
+
+
+Anupama Ruwanthika Mampage
+
+Thesis title:
+Context-aware dynamic resource management in fog/edge computing environments
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Rajkumar Buyya
+Prof Shanika Karunasekera
+
+Location:
+Melbourne Connect
+
+
+
+anupama.mampage@student.unimelb.edu.au
+
+
+
+
+
+
+
+Gabriele Marini
+
+Thesis title:
+Reliable Operating Room (ROR)
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Prof Vassilis Kostakos
+Dr Eduardo Velloso
+Dr Jorge Goncalves
+
+Location:
+Melbourne Connect
+
+
+
+gabriele.marini@student.unimelb.edu.au
+
+
+
+
+
+
+
+Nitika Mathur
+
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Tim Baldwin
+Prof Trevor Cohn
+
+Location:
+Melbourne Connect
+
+
+
+nmathur@student.unimelb.edu.au
+
+
+
+
+
+
+
+Jane Mavoa
+
+Thesis title:
+Digital games and young children 
+Discipline/Group:
+Human-Computer Interaction 
+Supervisor:
+
+Prof Martin Gibbs
+Dr Marcus Carter
+
+Location:
+Melbourne Connect
+
+
+
+jmavoa@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Kevin McDonald
+
+Thesis title:
+Enhancing reinforcement learning algorithms for team-based systems
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Adrian Pearce
+Dr Michelle Blom
+Dr Michael Papasimeon
+
+Location:
+Melbourne Connect
+
+
+
+kevin.mcdonald@student.unimelb.edu.au
+
+
+
+
+
+
+
+Brian McKitrick
+
+Thesis title:
+How do Let’s Play communities define themselves?
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Prof Martin Gibbs
+Dr Bjorn Nansen
+Dr Melissa Rogerson
+
+Location:
+Melbourne Connect
+
+
+
+bmckitrick@student.unimelb.edu.au
+
+
+
+
+
+
+
+Toni McLennan
+
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Prof Martin Gibbs
+
+Location:
+Melbourne Connect
+
+
+
+t.mclennan@student.unimelb.edu.au
+
+
+
+
+
+
+
+Aidan McLoughney
+
+Thesis title:
+Algorithmic Fairness in Automated Decision-making
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Dr Marc Cheong
+Jenny Paterson
+
+Location:
+Melbourne Connect
+
+
+
+aidan.mcloughney@student.unimelb.edu.au
+
+
+
+
+
+
+
+Christopher McMaster
+
+Thesis title:
+Machine learning models for predicting and mitigating adverse drug reactions
+Website:
+chrismcmaster.com 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Douglas Pires
+Prof Wendy Chapman
+Assoc Prof Russell Buchanan
+
+Location:
+Melbourne Connect
+
+
+
+c.mcmaster@student.unimelb.edu.au
+
+
+
+
+
+
+
+Mahtab Mirmomeni
+
+Thesis title:
+Improved data analytic techniques for activity recognition using time-series data from wearable sensors
+Website:
+LinkedIn profile 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof James Bailey
+Prof Lars Kulik
+
+Location:
+Melbourne Connect
+
+
+
+m.mirmomeni@student.unimelb.edu.au
+
+
+
+
+
+
+
+Hadi M. Dolatabadi
+
+Thesis title:
+Normalising flows: new methods and new applications
+Website:
+hmdolatabadi.github.io 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Sarah Monazam Erfani
+Prof Chris Leckie
+
+Location:
+Melbourne Connect
+
+
+
+ hadi.mohagheghdolatabadi@student.unimelb.edu.au
+
+
+
+
+
+
+
+Mohammad Moniruzzaman
+
+Thesis title:
+The human action perspective
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Assoc Prof Sherah Kurnia
+
+Location:
+Melbourne Connect
+
+
+
+m.moniruzzaman@student.unimelb.edu.au
+
+
+
+
+
+
+
+Bruna Moreira da Silva
+
+Thesis title:
+Deconvoluting epilepsy patient data using machine learning
+Discipline/Group:
+ Artificial Intelligence 
+Supervisor:
+
+Dr Douglas Pires
+
+Location:
+Melbourne Connect
+
+
+
+bruna.moreiradasilva@student.unimelb.edu.au
+
+
+
+
+
+
+
+Sadegh Motallebi
+
+Thesis title:
+Traffic Optimization in the Era of Connected Autonomous Vehicles
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Egemen Tanin
+Prof Shanika Karunasekera
+Prof Tony Wirth
+Location:
+Melbourne Connect
+
+
+
+s.motallebi@student.unimelb.edu.au
+
+
+
+
+
+
+
+Rajeev Muralidhar
+
+Thesis title:
+Energy aware systems: abstractions, API and architectural framework for cross layer energy efficiency
+Website:
+www.linkedin.com/in/rajeev-muralidhar/ 
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Rajkumar Buyya
+Dr Renata Borovica-Gajic
+
+Location:
+Melbourne Connect
+
+
+
+rmuralidhar@student.unimelb.edu.au
+
+
+
+
+
+
+
+Tharindu Lakmal Muthugama
+
+Thesis title:
+Spatiotemporal data and future transportation systems
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Egemen Tanin
+Prof Shanika Karunasekera
+
+Location:
+Offshore
+
+
+
+tmuthugama@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Sadia Nawaz
+
+Thesis title:
+Predicting learner's confusion in digital learning environments
+Website:
+purdue.academia.edu/SadiaNawaz 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof James Bailey
+Gregor Kennedy
+
+Location:
+Melbourne Connect
+
+
+
+nawazs@student.unimelb.edu.au
+
+
+
+
+
+
+
+Chris Nelson
+
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Prof Martin Gibbs
+Dr Marcus Carter
+
+Location:
+Melbourne Connect
+
+
+
+c.nelson2@student.unimelb.edu.au
+
+
+
+
+
+
+
+Hoang Nguyen
+
+Thesis title:
+Focused software testing through Backwards Program Analysis
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Harald Sondergaard
+Assoc Prof Toby Murray
+
+Location:
+Melbourne Connect
+
+
+
+hnguyenduong@student.unimelb.edu.au
+
+
+
+
+
+
+
+Le Tan Chanh Nguyen
+
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Rajkumar Buyya
+Dr Rodrigo Calheiros
+
+Location:
+Melbourne Connect
+
+
+
+lnguyen2@student.unimelb.edu.au
+
+
+
+
+
+
+
+Thanh-Dat Nguyen
+
+Thesis title:
+Machine learning for program synthesis
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Dr Bach Le
+
+Location:
+Melbourne Connect
+
+
+
+thanhdatn@student.unimelb.edu.au
+
+
+
+
+
+
+
+Thanh-Hoa Nguyen
+
+Thesis title:
+Serverless-based quantum cloud computing
+Website:
+LinkedIn profile 
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Rajkumar Buyya
+Dr Muhammad Usman
+
+Location:
+Offshore
+
+
+
+hoa.nguyen1@student.unimelb.edu.au
+
+
+
+
+
+
+
+Anitya Nijhara
+
+Thesis title:
+Group perceptions of information security risks in organisations
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Assoc Prof Atif Ahmad
+Dr Sean Maynard
+
+Location:
+Melbourne Connect
+
+
+
+anijhara@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Mazino Onibere
+
+Thesis title:
+Information security strategy
+Website:
+LinkedIn profile 
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Assoc Prof Atif Ahmad
+Dr Sean Maynard
+
+Location:
+Melbourne Connect
+
+
+
+monibere@student.unimelb.edu.au
+
+
+
+
+
+
+
+Yulia Otmakhova
+
+Thesis title:
+ Multi-document summarization supporting clinical evidence review
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Karin Verspoor
+Prof Tim Baldwin
+Dr Jey Han Lau
+
+Location:
+Melbourne Connect
+
+
+
+yotmakhova@student.unimelb.edu.au
+
+
+
+
+
+
+
+Bastian Oetomo
+
+Thesis title:
+Self-Driving Database with Bandit Learning Algorithms
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Ben Rubinstein
+Dr Renata Borovica-Gajic
+
+Location:
+Melbourne Connect
+
+
+
+boetomo@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Samodha Kanchani Pallewatta
+
+Thesis title:
+Mobility-aware application modeling in edge and fog computing environments
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Rajkumar Buyya
+Prof Vassilis Kostakos
+
+Location:
+Melbourne Connect
+
+
+
+ppallewatta@student.unimelb.edu.au
+
+
+
+
+
+
+
+Lianglu Pan
+
+Thesis title:
+Automated vulnerability and flaw detection in network communications
+Website:
+pa55er6y.com 
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Dr Thuan Pham
+Assoc Prof Toby Murray
+
+Location:
+Melbourne Connect
+
+
+
+lianglup@student.unimelb.edu.au
+
+
+
+
+
+
+
+Yao (Alwyn) Pan
+
+Thesis title:
+Cloud-based container orchestration optimisation to improve scalability in hybrid cloud
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Richard Sinnott
+Dr Glenn T Jayaputera
+
+Location:
+Melbourne Connect
+
+
+
+yaop2@student.unimelb.edu.au
+
+
+
+
+
+
+
+Jirat Pasuksmit
+
+Thesis title:
+Intelligent assistance for agile software development process
+Website:
+LinkedIn profile 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Patanamon Thongtanunam
+
+Location:
+Melbourne Connect
+
+
+
+jpasuksmit@student.unimelb.edu.au
+
+
+
+
+
+
+
+Xiang (Stella) Peng
+
+Thesis title:
+Exploring IT-enabled sustainable supply chain management capability maturity development
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Assoc Prof Sherah Kurnia
+Prof Daniel Samson
+Dr Tingru Cui
+
+Location:
+Melbourne Connect
+
+
+
+xiang.peng@student.unimelb.edu.au
+
+
+
+
+
+
+Kalyani Penyala
+
+Thesis title:
+Machine learning-based Management of Data Centre Resources for Green Cloud Computing
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Rajkumar Buyya
+
+
+
+kalyani.penyala@student.unimelb.edu.au
+
+
+
+
+
+
+
+Malinga Perera
+
+Thesis title:
+Use of reinforcement learning in self-tuning database physical design structures under dynamic and unexplored qorkloads
+Website:
+www.malinga.me 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Renata Borovica-Gajic
+Prof Ben Rubinstein
+
+Location:
+Melbourne Connect
+
+
+
+malinga.perera@student.unimelb.edu.au
+
+
+
+
+
+
+
+Heidi Peart
+
+Thesis title:
+Access to social media platforms during emergencies: An analysis of human rights considerations for people with cognitive disability navigating the digital divide
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Prof Shanton Chang
+Dr Piers Gooding 
+Dr Jennifer Davidson 
+
+
+
+
+hpeart@student.unimelb.edu.au
+
+
+
+
+
+
+Yiyuan Pu
+
+Thesis title:
+Literature-based discovery for Alzheimer's disease
+Website:
+LinkedIn profile 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Daniel Beck
+Prof Karin Verspoor
+
+Location:
+Melbourne Connect
+
+
+
+yiyuanp1@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Subramaniam Ramasubramanian
+
+Thesis title:
+Secure knowledge management in organisations 
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Assoc Prof Atif Ahmad
+Dr Sean Maynard
+Dr Kevin Desouza 
+
+Location:
+Melbourne Connect
+
+
+
+sramasubram@student.unimelb.edu.au
+
+
+
+
+
+
+
+Martin Reinoso
+
+Thesis title:
+VR going to AR with full body tracking
+Discipline/Group:
+Human-Computer Interaction 
+Supervisor:
+
+Prof Frank Vetere
+Prof Egemen Tanin
+
+Location:
+Melbourne Connect
+
+
+
+mreinoso@student.unimelb.edu.au
+
+
+
+
+
+
+
+Daniel Reissner
+
+Thesis title:
+Data-driven root-cause analysis of business process deviances
+Website:
+scholar.google.de/
+						citations?user=twqLjMsAAAAJ&hl=de 
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Prof Marcello La Rosa
+Dr Raffaele Conforti
+
+Location:
+Melbourne Connect
+
+
+
+dreissner@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Tharindu Bandara Saryakara Hewage
+
+Thesis title:
+A distributed framework to detect anomalies in large-scale computing clouds via unsupervised/semi-supervised deep learning concepts
+Website:
+LinkedIn profile 
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Rajkumar Buyya
+Dr Maria Rodriguez Read
+
+Location:
+Melbourne Connect
+
+
+
+tsaryakarahe@student.unimelb.edu.au
+
+
+
+
+
+
+
+Rinu Ann Sebastian
+
+Thesis title:
+Explainable computer vision to improve human-machine interaction
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Tim Miller
+Dr Kris Ehinger
+
+Location:
+Melbourne Connect
+
+
+
+rinuanns@student.unimelb.edu.au
+
+
+
+
+
+
+
+Prabodi Senevirathna
+
+Thesis title:
+Quantifying and mitigating machine-learning induced overdiagnosis in sepsis
+Website:
+LinkedIn profile
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Daniel Capurro
+Dr Douglas Pires
+
+Location:
+Offshore
+
+
+
+prabodi.senevirathna@student.unimelb.edu.au
+
+
+
+
+
+
+
+Abid Hussain Shah
+
+Thesis title:
+Enhancing Strategic Management of Information Security of Organisations through Warfare Practices 
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Assoc Prof Atif Ahmad
+Dr Sean Maynard
+
+Location:
+Offshore
+
+
+
+abidh@student.unimelb.edu.au
+
+
+
+
+
+
+
+Rahul Sharma
+
+Thesis title:
+Decentralised anomaly detection in multi-access edge computing
+Website:
+LinkedIn profile 
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Chris Leckie
+Dr Chien Aun Chan
+Prof Thas Nirmalathas
+
+Location:
+Melbourne Connect
+
+
+
+sharma1@student.unimelb.edu.au
+
+
+
+
+
+
+
+Susan Sheldrick
+
+Thesis title:
+“Computer says no”: impacts of AI in information systems for rural and remote small businesses
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Assoc Prof Shanton Chang
+Assoc Prof Sherah Kurnia
+Dr Dana McKay
+
+Location:
+Melbourne Connect
+
+
+
+ssheldrick@student.unmelb.edu.au
+
+
+
+
+
+
+
+Xinling Shen
+
+Thesis title:
+Dynamic Indoor Evacuation Planning in an Emergency
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Renata Borovica-Gajic
+Prof Stephan Winter
+
+Location:
+Offshore
+
+
+
+xinling.shen@student.unimelb.edu.au
+
+
+
+
+
+
+
+Amila Silva
+
+Thesis title:
+Dynamic representation learning framework for heterogeneous networks
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Shanika Karunasekera
+Prof Chris Leckie
+
+Location:
+Melbourne Connect
+
+
+
+amila.silva@student.unimelb.edu.au
+
+
+
+
+
+
+
+Lucy Sparrow
+
+Thesis title:
+Moral Reasoning in Video Games
+Website:
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Prof Martin Gibbs
+
+Location:
+Melbourne Connect
+
+
+
+lsparrow@student.unimelb.edu.au
+
+
+
+
+
+
+
+Steven Spratley
+
+Thesis title:
+Transparent abstract reasoning agents
+Website:
+www.stevenspratley.com 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+Prof Tim Miller 
+Location:
+Melbourne Connect
+
+
+
+spratley@student.unimelb.edu.au
+
+
+
+
+
+
+
+Xinyu Su
+
+Thesis title:
+Traffic prediction using graph neural networks
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Jianzhong Qi
+Prof Egemen Tanin
+Prof Majid Sarvi
+
+Location:
+Melbourne Connect
+
+
+
+suxs3@student.unimelb.edu.au
+
+
+
+
+
+
+
+Yixin Su
+
+Thesis title:
+Explainable Recommendation Systems
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Sarah Monazam Erfani
+
+Location:
+Melbourne Connect
+
+
+
+yixins1@student.unimelb.edu.au
+
+
+
+
+
+
+
+Zihang Su
+
+Thesis title:
+Evidence-based goal recognition using process mining techniques
+Website:
+LinkedIn 
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Artem Polyvyanyy
+Dr Nir Lipovetzky
+
+Location:
+Melbourne Connect
+
+
+
+zihangs@student.unimelb.edu.au
+
+
+
+
+
+
+
+Kanwal Aslam Syed
+
+Thesis title:
+Hash based post quantum cryptography on FPGA
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Udaya Parampalli
+Dr Muhammad Usman
+
+Location:
+Melbourne Connect
+
+
+
+kanwalaslam.syed@student.unimelb.edu.au
+
+
+
+
+
+
+
+Brandon Syiem
+
+Thesis title:
+Automatic Distraction Mitigation for Independent Tasks In Collaborative Virtual Workspaces
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Dr Eduardo Velloso
+Dr Jorge Goncalves
+Dr Tilman Dingler
+
+Location:
+Melbourne Connect
+
+
+
+bsyiem@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Pan Tan
+
+Thesis title:
+Codes for Distributed Storage
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Udaya Parampalli
+
+Location:
+Melbourne Connect
+
+
+
+ptta@student.unimelb.edu.au
+
+
+
+
+
+
+
+Nataliia (Natasha) Tashevtseva
+
+Thesis title:
+Consumer privacy protection: effective end-user adoption approaches
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Dr Suelette Dreyfus
+Prof Udaya Parampalli
+
+Location:
+Offshore
+
+
+
+nataliia.tashevtseva@student.unimelb.edu.au
+
+
+
+
+
+
+
+Nyree Taylor
+
+Thesis title:
+Improving lived experiences for people at the time of hospital discharge: Development of a Person-Centred Information Framework (PCIF)
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Prof Reeva Lederman
+
+Location:
+Melbourne Connect
+
+
+
+nyreet@student.unimelb.edu.au
+
+
+
+
+
+
+
+Nefel Tellioglu
+
+Thesis title:
+Modeling the evolutionary and epidemiology dynamics of group A streptococcus
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Assoc Prof Nic Geard
+Dr Rebecca Chisholm
+Dr Mark Davies
+
+Location:
+Melbourne Connect
+
+
+
+ntellioglu@student.unimelb.edu.au
+
+
+
+
+
+
+
+Kong Saoane Thach
+
+Thesis title:
+VR and ageing
+Website:
+sites.google.com/view/saoane 
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Prof Reeva Lederman
+Assoc Prof Jenny Waycott
+
+Location:
+Melbourne Connect
+
+
+
+kthach@student.unimelb.edu.au
+
+
+
+
+
+
+
+Catherine Thompson
+
+Thesis title:
+Trust & trustworthiness in the digital world
+Website:
+www.hyperealhq.com 
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Assoc Prof Sherah Kurnia
+Prof Danny Samson
+
+Location:
+Melbourne Connect
+
+
+
+ctthompso@student.unimelb.edu.au
+
+
+
+
+
+
+
+Fangziyun Tong
+
+Thesis title:
+Digital therapeutic alliance
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Prof Reeva Lederman
+Dr Simon D’Alfonso
+
+Location:
+Melbourne Connect
+
+
+
+fangziyunt@student.unimelb.edu.au
+
+
+
+
+
+
+
+Andrei Tour
+
+Thesis title:
+Mining agent-based models of business processes
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Artem Polyvyanyy
+Anna Kalenkova
+
+Location:
+Melbourne Connect
+
+
+
+atour@student.unimelb.edu.au
+
+
+
+
+
+
+
+Hung Thinh Truong
+
+Thesis title:
+Evidence extraction from the clinical trials literature
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Tim Baldwin
+Prof Karin Verspoor
+
+Location:
+Melbourne Connect
+
+
+
+hungthinht@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Archana Vadakattu
+
+Thesis title:
+Dynamic learning in cognitive agent architectures
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Adrian Pearce
+Dr Michelle Blom
+
+Location:
+Offshore
+
+
+
+archana.vadakattu@student.unimelb.edu.au
+
+
+
+
+
+
+
+Gisela Vallejo
+
+Thesis title:
+A Fair Plan Towards Mitigating Bias in Fact Checking
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Lea Frermann 
+Prof Trevor Cohn
+Prof Tim Baldwin
+
+Location:
+
+
+
+
+gvallejo@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Takashi Wada
+
+Thesis title:
+Multilinguality and acceptability in language
+Discipline/Group:
+Artificial Intelligence>
+					Supervisor:
+
+Dr Jey Han Lau
+Prof Tim Baldwin
+
+Location:
+Melbourne Connect
+
+
+
+twada@student.unimelb.edu.au
+
+
+
+
+
+
+
+Chaofan Wang
+
+Website:
+www.chaofanw.net 
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Prof Vassilis Kostakos
+Dr Jorge Goncalves
+
+Location:
+Melbourne Connect
+
+
+
+chaofanw@student.unimelb.edu.au
+
+
+
+
+
+
+
+Chen Wang
+
+Thesis title:
+Inverse Reinforcement Learning Approach for intent inference in adversarial environments
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Sarah Erfani
+Prof Chris Leckie
+
+Location:
+Melbourne Connect
+
+
+
+cww3@student.unimelb.edu.au
+
+
+
+
+
+
+
+Chenyang Wang
+
+Thesis title:
+Extending matrix profile with soft comparison operators and weighting functions for time series anomaly detection
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Uwe Aickelin
+Mr Goce Ristanoski
+Dr Ling Luo 
+
+Location:
+Melbourne Connect
+
+
+
+chenyangw3@student.unimelb.edu.au
+
+
+
+
+
+
+
+Dalin Wang
+
+Thesis title:
+Image captioning with conditional-GAN
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Trevor Cohn
+Dr Daniel Beck
+
+Location:
+Melbourne Connect
+
+
+
+dalinw@student.unimelb.edu.au
+
+
+
+
+
+
+
+Jun Wang
+
+Thesis title:
+Adversarial machine learning for machine translation
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Trevor Cohn
+Prof Ben Rubinstein
+
+Location:
+Melbourne Connect
+
+
+
+jun2@student.unimelb.edu.au
+
+
+
+
+
+
+
+Lingfei Wang
+
+Thesis title:
+High performance event detection and tracking in social media
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Dr Aaron Harwood
+Dr Maria Rodriguez Read
+
+Location:
+Offshore
+
+
+
+lingfeiw@student.unimelb.edu.au
+
+
+
+
+
+
+
+Peiyong Wang
+
+Thesis title:
+Quantum computing: error correction, applications and beyond
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Udaya Parampalli
+Dr Casey Myers
+Prof Lloyd Hollenberg
+Dr Muhammad Usman
+
+Location:
+Melbourne Connect
+
+
+
+peiyongw@student.unimelb.edu.au
+
+
+
+
+
+
+
+Yuxia Wang
+
+Thesis title:
+Clinical text mining and analysis
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Karin Verspoor
+Prof Tim Baldwin
+
+Location:
+Melbourne Connect
+
+
+
+yuxiaw@student.unimelb.edu.au
+
+
+
+
+
+
+
+Tafheem Wani
+
+Thesis title:
+BYOD in Hospitals: Security Issues and Mitigation Strategies
+Website:
+LinkedIn profile 
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Dr Antonette Mendoza
+Assoc Prof Kathleen Gray
+
+Location:
+Melbourne Connect
+
+
+
+twani@student.unimelb.edu.au
+
+
+
+
+
+
+
+Jing Wei
+
+Thesis title:
+Smart Hospital
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Prof Vassilis Kostakos
+Dr Tilman Dingler
+
+Location:
+Melbourne Connect
+
+
+
+jing.wei@student.unimelb.edu.au
+
+
+
+
+
+
+
+Senuri Samalka Wijenayake
+
+Thesis title:
+Longitudinal Analysis of Online Social Networks for Descriptive User Behavior Modelling
+Website:
+LinkedIn profile 
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Dr Jorge Goncalves
+Prof Vassilis Kostakos
+
+Location:
+Melbourne Connect
+
+
+
+swijenayake@student.unimelb.edu.au
+
+
+
+
+
+
+
+Helani Wickramaarachchi
+
+Thesis title:
+An efficient, autonomous reward shaping algorithm with evolutionary game theory: applied to the field of multi-agent systems
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Michael Kirley
+Assoc Prof Nic Geard
+
+Location:
+Melbourne Connect
+
+
+
+hwickramaara@student.unimelb.edu.au
+
+
+
+
+
+
+
+Winton Nathan-Roberts
+
+Thesis title:
+Semi-Supervised Learning with Privileged Information for Medical Applications
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Uwe Aickelin
+Dr Ling Luo
+
+Location:
+Melbourne Connect
+
+
+
+winton.nathanroberts@student.unimelb.edu.au
+
+
+
+
+
+
+
+Chee Kong Wong
+
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Assoc Prof Atif Ahmad
+
+Location:
+Melbourne Connect
+
+
+
+c.wong69@student.unimelb.edu.au
+
+
+
+
+
+
+
+Hao Wu
+
+Thesis title:
+Approximate algorithms for solving problems on massive data
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Dr Junhao Gan
+
+Location:
+Melbourne Connect
+
+
+
+whw4@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Ziren Xiao
+
+Thesis title:
+Runtime optimisation of distributed systems using reinforcement learning
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Dr. Aaron Harwood
+Dr. Maria Rodriguez Read
+
+Location:
+Melbourne Connect
+
+
+
+zirenx@student.unimelb.edu.au
+
+
+
+
+
+
+
+Zhuohan Xie
+
+Thesis title:
+Hierarchically structured neural narrative generation 
+Website:
+www.linkedin.com/in/ZhuohanXie 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Jey Han Lau
+Prof Trevor Cohn
+
+Location:
+Melbourne Connect
+
+
+
+zhuohanx@student.unimelb.edu.au
+
+
+
+
+
+
+
+Yushan Xing
+
+Thesis title:
+Designing for social connectedness in later life
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Assoc Prof Jenny Waycott
+Dr Melissa Rogerson
+Dr Ryan Kelly
+
+Location:
+Melbourne Connect
+
+
+
+yushanx@student.unimelb.edu.au
+
+
+
+
+
+
+
+Aotao (John) Xu
+
+Thesis title:
+A computational analysis of conceptual combination through time
+Website:
+www.cs.toronto.edu/~a26xu 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Yang Xu
+Dr Lea Frermann
+Prof Charles Kemp
+
+Location:
+University of Toronto
+
+
+
+john.xu@student.unimelb.edu.au
+
+
+
+
+
+
+
+Jia Xu
+
+Thesis title:
+Modernise business analytics capability with DataOps
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Dr Sean Maynard
+Dr Humza Naseer
+Dr Justin Filippou
+
+Location:
+Melbourne Connect
+
+
+
+jx3@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Pengbo Yan
+
+Thesis title:
+Scalable, Principled Vulnerability Detection via Insecurity Logics
+Discipline/Group:
+Computer Science
+Supervisor:
+
+A/Prof Toby Murray
+Dr Thuan Pham
+Dr Robert Sison
+
+Location:
+Melbourne Connect
+
+
+
+pengboy@student.unimelb.edu.au
+
+
+
+
+
+
+
+Diana Yang
+
+Thesis title:
+Robust data mining
+Discipline/Group:
+Information Systems
+Supervisor:
+
+Prof Uwe Aickelin
+Dr Hadi Khorshidi
+
+Location:
+Melbourne Connect
+
+
+
+y.yang29@student.unimelb.edu.au
+
+
+
+
+
+
+
+Jinrui Yang
+
+Thesis title:
+RNatural Language Generation from QA-SRL Annotations
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Trevor Cohn
+Prof Tim Baldwin
+
+Location:
+
+
+
+
+jinruiy@student.unimelb.edu.au
+
+
+
+
+
+
+
+Kangning Yang
+
+Thesis title:
+Multimodal Affective Computing Using Hierarchical Attention Strategy for Human Computer Interaction
+Website:
+www.kangningyang.com 
+Discipline/Group:
+Human-Computer Interaction 
+Supervisor:
+
+Dr Jorge Goncalves
+Dr Tilman Dingler
+Dr Greg Wadley
+Prof Vassilis Kostakos
+
+Location:
+Melbourne Connect
+
+
+
+kangning.yang@student.unimelb.edu.au
+
+
+
+
+
+
+
+Shiquan Yang
+
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Sarah Erfani
+
+Location:
+Melbourne Connect
+
+
+
+shiquan.yang@student.unimelb.edu.au
+
+
+
+
+
+
+
+Zihan Yang
+
+Thesis title:
+Deep learning in applications with limited data and computation resources
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Richard Sinnott
+Dr Qiuhong Ke
+Prof James Bailey
+
+Location:
+Melbourne Connect
+
+
+
+zihany1@student.unimelb.edu.au
+
+
+
+
+
+
+
+Behnaz Rostami Yeganeh
+
+Thesis title:
+Video conferencing for domestic social interactions
+Website:
+LinkedIn profile 
+Discipline/Group:
+Human-Computer Interaction 
+Supervisor:
+
+Prof Frank Vetere
+Dr Bernd Ploderer
+
+Location:
+Melbourne Connect
+
+
+
+b.rostamiyeganeh@student.unimelb.edu.au
+
+
+
+
+
+
+
+Difeng Yu
+
+Thesis title:
+Novel on-body interaction for extended reality (XR) systems
+Website:
+www.difeng.me 
+Discipline/Group:
+ Human-Computer Interaction 
+Supervisor:
+
+Dr Jorge Goncalves
+Dr Tilman Dingler
+Dr Eduardo Velloso
+
+Location:
+Melbourne Connect
+
+
+
+difeng.yu@student.unimelb.edu.au
+
+
+
+
+
+
+
+Meng Abigail Yuan
+
+Thesis title:
+Modalities and measurement of systems for information discovery
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Dr Pauline Lin
+Prof Justin Zobel
+
+Location:
+Offshore
+
+
+
+myuan3@student.unimelb.edu.au
+
+
+
+
+
+
+
+Stella Yuan
+
+Thesis title:
+Ethical implications of data driven social credit system
+Discipline/Group:
+ Human-Computer Interaction 
+Supervisor:
+
+Dr Christoph Breidbach
+Prof Vassilis Kostakos
+
+Location:
+Melbourne Connect
+
+
+
+shuai.yuan1@student.unimelb.edu.au
+
+
+
+
+
+
+
+Zhou Yun
+
+Thesis title:
+Real-time feedback for surgical simulation using data mining
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof James Bailey
+Gregor Kennedy
+
+Location:
+Melbourne Connect
+
+
+
+yuzhou@student.unimelb.edu.au
+
+
+
+
+
+
+
+
+Guohang Zeng
+
+Thesis title:
+Robust and Interpretable Deep Learning for Electronic Health Records
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Uwe Aickelin
+
+Location:
+Melbourne Connect
+
+
+
+guohangz@student.unimelb.edu.au
+
+
+
+
+
+
+
+Chenyuan Zhang
+
+Thesis title:
+Computational cognitive model of plan recognition
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Nir Lipovetzky
+Assoc Prof Charles Kemp
+
+Location:
+Melbourne Connect
+
+
+
+chenyuanz@student.unimelb.edu.au
+
+
+
+
+
+
+
+Huiwen Zhang
+
+Thesis title:
+Improving browsing for online collections
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Dr George Buchanan
+Dr Dana McKay
+
+Location:
+Melbourne Connect
+
+
+
+huiwen@student.unimelb.edu.au
+
+
+
+
+
+
+
+Mo Zhang
+
+Thesis title:
+Usable security of medical devices
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Prof Vassilis Kostakos
+A/Prof Toby Murray
+
+Location:
+Melbourne Connect
+
+
+
+mo.zhang@student.unimelb.edu.au
+
+
+
+
+
+
+
+Ruihan Zhang
+
+Thesis title:
+Explainable machine learning
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Tim Miller
+Prof Ben Rubinstein
+
+Location:
+Melbourne Connect
+
+
+
+ruihanz@student.unimelb.edu.au
+
+
+
+
+
+
+
+Xin Zhang
+
+Thesis title:
+Convex Optimisation in Determining the Performance of Algorithms
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Tony Wirth
+Dr Junhao Gan
+
+Location:
+Melbourne Connect
+
+
+
+x.zhang121@student.unimelb.edu.au
+
+
+
+
+
+
+
+Zhuo Zhang
+
+Thesis title:
+Efficient algorithms for solving problems on massive data
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Dr Junhao Gan
+Prof Tony Wirth
+
+Location:
+
+
+
+
+zhuo.zhang@student.unimelb.edu.au
+
+
+
+
+
+
+
+Zenan Zhai
+
+Thesis title:
+Biochemical text mining for advancing chemical and pharmaceutical knowledge
+Website:
+LinkedIn profile 
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof Karin Verspoor
+Prof Trevor Cohn
+
+Location:
+Melbourne Connect
+
+
+
+zenanz@student.unimelb.edu.au
+
+
+
+
+
+
+
+He Zhao
+
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Jianzhong Qi
+
+Location:
+Melbourne Connect
+
+
+
+hez2@student.unimelb.edu.au
+
+
+
+
+
+
+
+Jie Zhao
+
+Thesis title:
+Autonomous workload management in federated cloud computing environments
+Website:
+jiezhao.net 
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Rajkumar Buyya
+Dr Maria Rodriguez Read
+
+Location:
+Melbourne Connect
+
+
+
+zhao.j4@student.unimelb.edu.au
+
+
+
+
+
+
+
+Wei Zhao
+
+Thesis title:
+Designing for social engagement in aged care
+Website:
+people.eng.unimelb.edu.au/wzhao10
+Discipline/Group:
+Human-Computer Interaction
+Supervisor:
+
+Assoc Prof Jenny Waycott
+Dr Melissa Rogerson
+Dr Ryan Kelly
+
+Location:
+Melbourne Connect
+
+
+
+wzhao10@student.unimelb.edu.au
+
+
+
+
+
+
+
+Yunxiang Zhao
+
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Jianzhong Qi
+
+Location:
+Melbourne Connect
+
+
+
+yunxiangz@student.unimelb.edu.au
+
+
+
+
+
+
+
+Zhuowei Zhao
+
+Thesis title:
+Learning based algorithms for solving problems on massive data
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Dr Junhao Gan
+Dr Jianzhong Qi
+
+Location:
+Melbourne Connect
+
+
+
+zhuoweiz1@student.unimelb.edu.au
+
+
+
+
+
+
+
+Zhiheng Zhong
+
+Thesis title:
+Cloud Application Development under Complex Cloud Environment
+Discipline/Group:
+Computer Science
+Supervisor:
+
+Prof Rajkumar Buyya
+
+Location:
+Melbourne Connect
+
+
+
+zhiheng@student.unimelb.edu.au
+
+
+
+
+
+
+
+Qiushi Zhou
+
+Thesis title:
+Expanding Human Cognitive Capacity with Embodied Multimodal Interaction in Augmented Reality
+Website:
+qiushi-zhou.github.io 
+Discipline/Group:
+ Human-Computer Interaction
+Supervisor:
+
+Dr Eduardo Velloso
+Dr Jorge Goncalves
+
+Location:
+Melbourne Connect
+
+
+
+q.zhou6@student.unimelb.edu.au
+
+
+
+
+
+
+
+Anqi Zhu
+
+Thesis title:
+Action recognition with explanation
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Prof James Bailey
+Dr Quihong Ke
+Dr Mingming Gong
+
+Location:
+Melbourne Connect
+
+
+
+azzh1@student.unimelb.edu.au
+
+
+
+
+
+
+
+Rongxin Zhu
+
+Thesis title:
+Automatic summarization for multi-party conversation
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Jey Han Lau
+
+Location:
+Melbourne Connect
+
+
+
+rongxinz1@student.unimelb.edu.au
+
+
+
+
+
+
+
+Farzaneh Zirak
+
+Thesis title:
+Using Eye-Tracking Technology to Improve Visual Data Exploratory Tools Performance
+Discipline/Group:
+Artificial Intelligence
+Supervisor:
+
+Dr Renata Borovica-Gajic
+Dr Farhana Choudhary
+
+Location:
+Offshore
+
+
+
+farzaneh.zirak@student.unimelb.edu.au
+
+
+
+
+
+
+
+Email Contact us
+Faculty of Engineering and Information Technology
+Engineering & IT Students
+Staff only: FEIT Intranet
+
+
+
+
+
+
+
+School of Computing and Information Systems
+About us
+About the School
+Life in Melbourne
+Alumni profiles
+Casual tutor, demonstrator, marker and project team supervisor opportunities
+CSIRAC: Our first computer
+CSIRAC’s vital statistics
+CSIRAC chronology
+CSIRAC design
+How did CSIRAC work?: Storage
+How did CSIRAC work?: Console
+CSIRAC uses
+CSIRAC: Designers
+The music of CSIRAC
+CSIRAC emulator
+Jurij Semkiw
+CSIRAC and computer history links
+The Last of the First, CSIRAC: Australia’s First Computer
+CSIRAC photo gallery
+The history of computing at the University of Melbourne
+History of computing in the department
+Starting the Department of Information Systems
+Early internet
+Memories of the department
+Programming
+Student life in the department
+Women in computing
+CIS Doctoral Colloquium
+2023 CIS Doctoral Colloquium
+Submission Guidelines
+Colloquium Photos
+2022 CIS Doctoral Colloquium
+Submission Guidelines
+Program_open
+Participation and Awards
+Volunteers and Judges
+CISDC 2022 Photos
+2019 CIS Doctoral Colloquium
+2018 CIS Doctoral Colloquium
+2017 CIS Doctoral Colloquium
+2016 CIS Doctoral Colloquium
+2015 CIS Doctoral Colloquium
+2014 CIS Doctoral Colloquium
+2013 CIS Doctoral Colloquium
+Keynote speaker
+Colloquium sponsors
+Committee
+Call for papers
+Application_closed
+Submission_info
+Program_pending
+Program_open
+Alumni
+Registration_pending
+Industry
+Research collaboration
+Cyber attack maps to underpin better strategic responses
+Surgeons gain implant expertise with virtual training
+Informatics analyses value in digital health technologies
+Data contrasting highlights changing use of city
+Online community designed to support mental health for young people
+Satisfaction score to improve quality of internet search results
+Supply chain scheduling keeps automated mining operations on task
+Combined data adds power to decision-making
+New algorithms help interpret vision loss from digital images
+Host a student intern
+Mentor our students
+Student industry projects
+Become a guest speaker
+News
+2022 news and events
+CIS-EEE Seed Funding
+How data can prevent overdiagnosis
+
+CIS - IE 2022 Research Collaboration Seed Funding
+2021 news and events
+2020 news and events
+2019 news and events
+2023 news and events
+CIS-ME 2023 Seed Funding round
+CIS-IE 2023 Seed Funding round
+People
+Research
+Artificial intelligence
+Graduate Reseachers
+Computer science
+Graduate Researchers
+Digital Health
+Research projects
+Seminars
+Schools
+Study with us
+Undergraduate programs
+Graduate coursework programs
+Graduate research programs
+Industry based learning
+Programming proficiency test
+First Year Centre
+About
+Study with CIS
+Undergraduate programs
+Get help
+People
+Become a tutor
+Contact
+Graduate programs
+Graduate coursework programs
+Graduate research programs
+AI and Autonomy Lab
+News
+People
+Publications
+Research
+Mining and optimisation
+Automated planning languages
+Foundations of human-agent collaboration
+People-oriented software engineering
+Explainable artificial intelligence
+Multimodal human-agent collaboration
+Artificial Intelligence Assurance Lab
+About us
+Research
+Publications
+People
+Industry engagement
+Academic Centre of Cyber Security Excellence (ACCSE)
+Human-Computer Interaction
+Facilities
+User Experience Lab
+Interactive Technologies Lab
+Engineering Workshop
+
+Telstra Creator Space
+
+News and Events
+People
+Staff
+Graduate researchers
+Alumni
+Projects
+Adaptive learning technologies
+Ageing and avatars
+AI-enabled assistance for strategic planning in games
+Wearable technology for arm monitoring in health
+Augmented fitness
+Augmented learning environment for physiotherapy education
+Biometric Mirror
+Changing views
+Citizen Heritage
+Cognition-aware systems
+Cognitive interaction
+Completed projects
+Connecting learners for collaboration across diverse communities
+Cross-community information systems
+Crowdsourcing
+Death and the Internet
+Deceptive AI
+Designing for scale
+Designing technologies for indigenous knowledge
+Digital commemoration
+Digital domesticity
+Conceptualising and measuring digital emotion regulation
+Emerging technologies for enrichment in old age
+Encounters
+Ethics and digital games
+Evaluation of natural user interfaces in query auto-completion
+Examining the ‘digital’ in hybrid digital boardgames
+Exploring complex data sets using highly engaging environments
+Exploring natural user interfaces during meal times
+FaceSpace
+Getting well and being present
+Growing old and staying connected
+HandLog: tangible interactions for game input and rehabilitation
+iFISH
+Improving Vitamin D status and related health in young women
+Insertable technology for human interactions
+Interactive displays
+Interactive spaces and media architecture
+Kinecting with orang-utans
+Mediating intimacy
+Mobile fieldwork and learning
+Multimodal human–agent collaboration
+Music streaming and algorithmic recommendation
+Near-infrared spectroscopy
+Onebody
+Orygen Virtual World Project
+Promoting student peer review in Australian tertiary education
+Personal sensing for mental health and wellbeing
+Pholiota Unlocked
+Reading on ubiquitous devices
+Smart Garden Watering
+Smartphones for science
+Social gaming events: Warhammer 40K
+Social networking sites for ambivalent socialisers
+Social play in immersive gaming environments
+Social robots and virtual assistants for older people
+Sociophysical interactions
+Social Orientated Requirements Engineering
+Spectating eSports and Let’s Play
+SpinalLog
+Supporting social interactions for video calls in the home
+Teleconsultation: enhancing interactions between clinicians and patients
+Virtual co-presence
+Virtual Reality and climate change communication
+VR therapy for youth mental health
+Robot Assisted Learning and Rehabilitation
+XR for Human-Robot Interaction
+Social and Domestic Drones 
+Human-Centred Agent Learning
+Child of Now
+ #thismymob
+Publications
+Research
+Smart Spaces
+Ubiquitous computing
+Digital health
+Digital nature
+Novel interactions
+Design for ageing
+Games and play
+Social computing and communities
+Human information interaction
+Human-Robot Interaction
+Seminars
+Past seminars 2020
+Past seminars 2019
+Past seminars 2016–2018
+Past seminars 2011–2015
+Past seminars 2006–2010
+Past seminars 2004–2005
+Study
+HCI programs for potential students
+HCI subjects
+Masters projects
+Potential PhD students
+Information systems
+Process science and technology
+Business analytics and decision making
+Cybersecurity management
+Digital health
+Innovations in the digital society
+Publications
+Contact us
+Current Students
+Library
+Staff
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

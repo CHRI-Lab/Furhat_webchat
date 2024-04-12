@@ -1,0 +1,815 @@
+URL: https://cis.unimelb.edu.au/research/artificial-intelligence
+
+
+
+
+
+
+
+
+Artificial intelligence: School of Computing and Information Systems, The University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+School of Computing and Information Systems
+
+
+
+Research
+
+
+
+Artificial intelligence
+
+
+
+
+
+
+
+Artificial intelligence
+
+
+
+
+ResearchStaffGraduate Reseachers
+
+
+
+ResearchArtificial intelligence research is a particular strength in the School of Computing and Information Systems. Our researchers address many different approaches to AI, encompassing deep learning, data mining, machine learning, natural language processing, and agent-based systems. Our theories and techniques can be applied to a wide range of practical problems, including cyber-security, health, finance and government.Melbourne is also host to the IBM and ARC Training Centre for Cognitive Computing for Medical Technologies, which is furthering our research and translating into solving critical needs in the domains of medicine and health.Ben RubinsteinGroup leaderKris EhingerGroup leader
+
+
+
+
+Research Themes
+
+
+
+
+
+Artificial Intelligence Assurance Lab
+Our research explores ethical, regulatory and legal issues relating to Artificial Intelligence. We validate AI technologies with respect to quality, safety, privacy, and reliability.
+
+
+
+
+
+
+AI and Autonomy Lab
+Intelligent systems can act (semi-)autonomously, working alongside human experts to analyse and help solve complex challenges. Designing good agents needs to balance the ability of agents to work effectively with other agents and human experts to have the maximum real-world impact.
+
+
+
+
+
+
+Natural Language Processing
+Natural Language Processing (NLP) is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language. We develop algorithms and computational models to analyze and process large volumes of natural language data in order to extract meaning and insights from text, speech, and other forms of human communication.
+
+
+
+
+
+
+Digital Health
+Digital health refers to the use of data and technology, such as mobile apps, wearables, and other digital tools, to improve healthcare delivery, patient outcomes, and overall health and wellness. We work in several areas of digital health and integrate data, analytics, and communication technologies to help healthcare providers and patients manage and prevent diseases, track health metrics, and improve healthcare access and efficiency.
+
+
+
+
+
+
+StaffGiven nameFamily namePositionProfileEmailJamesBaileyProfessorProfilebaileyj@unimelb.edu.auTimBaldwinProfessorProfiletbaldwin@unimelb.edu.auMichelleBlomSenior LecturerProfilemichelle.blom@unimelb.edu.auRenataBorovica-GajicLecturerProfilerenata.borovica@unimelb.edu.auDanielCapurroSenior LecturerProfiledcapurro@unimelb.edu.auBrianChapmanAssociate  ProfessorProfilebrian.chapman@unimelb.edu.auTrevorCohnProfessorProfiletrevor.cohn@unimelb.edu.auMichaelConwaySenior LecturerProfilemike.conway@unimelb.edu.auAndrewCullenResearch Fellow Profileandrew.cullen@unimelb.edu.auSimonD'AlfonsoLecturerProfiledalfonso@unimelb.edu.auTingDangSenior LecturerProfileting.dang@unimelb.edu.auKrisEhingerSenior LecturerProfilekris.ehinger@unimelb.edu.auLeaFrermannLecturerProfilelea.frermann@unimelb.edu.auNicholasGeardAssociate ProfessorProfilenicholas.geard@unimelb.edu.auShanikaKarunasekeraProfessorProfilekarus@unimelb.edu.auMichaelKirley ProfessorProfilemkirley@unimelb.edu.auLarsKulikProfessorProfilelkulik@unimelb.edu.auJey HanLauLecturerProfilejeyhan.lau@unimelb.edu.auChris LeckieProfessorProfilecaleckie@unimelb.edu.auNirLipovetzkySenior LecturerProfilenir.lipovetzky@unimelb.edu.auLingLuoLecturerProfileling.luo@unimelb.edu.auNeil MarchantResearch Fellow Profilenmarchant@unimelb.edu.auJulianMarxLecturerProfilej.marx@unimelb.edu.auSarahMonazam ErfaniArc Decra FellowProfilesarah.erfani@unimelb.edu.auBastianOetomoPostdoctoral Research FellowProfilebastian.oetomo@unimelb.edu.auAdrianPearce ProfessorProfileadrianrp@unimelb.edu.auBatugahage Kushani AnuradhaPereraPostdoctoral Fellow in Social Media AnalyticsProfilekushani.perera@unimelb.edu.auJianzhongQiSenior LecturerProfilejianzhong.qi@unimelb.edu.auSaritaRosenstockLecturerProfilesarita.rosenstock@unimelb.edu.auBenRubinstein ProfessorProfilebenjamin.rubinstein@unimelb.edu.auLongSongResearch FellowProfilelong.song@unimelb.edu.auDouglas
+  EduardoValente PiresAssociate ProfessorProfiledouglas.pires@unimelb.edu.auEkaterinaVylomovaLecturerProfileekaterina.vylomova@unimelb.edu.auJosephWestResearch FellowProfilejoseph.west@unimelb.edu.auCameronZachresonResearch Fellow Profilecameron.zachreson@unimelb.edu.au
+
+
+
+Artificial Intelligence Graduate ResearchersGiven Family nameProfile Thesis TitleDavidAdamsProfileAutomatic Insights: Database management in the era of data deluge
+         Abeer 
+      
+         Alshehri 
+      Profile
+         Explanation of goal recognition systems 
+      
+         Hanan 
+      
+         Alsouly 
+      Profile
+         Dynamic many-objective optimisation using evolutionary algorithms 
+      
+         Sobia 
+      
+         Amjad 
+      ProfileHealth analytics for recognition of medical emergencies in hospital
+         Jiayang 
+      
+         Ao 
+      Profile
+         Explainable computer vision algorithms 
+      
+         Vincent 
+      
+         Barbosa Vaz 
+      Profile
+         Predict+optimise through time 
+      
+         Lyndon 
+      
+         Benke 
+      ProfileDeceptive planning in multiagent environments
+         Uri 
+      
+         Berger 
+      Profile
+         Interactive multimodal language acquisition 
+      
+         Shraey 
+      
+         Bhatia 
+      Profile
+         Text to image synthesis using generative adversarial networksMariaBulychevProfileTBA
+         Daniel 
+      
+         Cabrera Lozoya 
+      Profile
+         Augmenting clinical mental health practice with machine learning models and digital phenotyping insights 
+      ChengyiCaiProfileFoundation-model reuse via model reprogramming
+         Nathaniel 
+      
+         Carpenter 
+      Profile
+         Towards a therapist's AI - Building a real-time support system for clinicians engaging in therapeutic conversations via online chat sessions
+        Wachiraphan
+      
+        Charoenwet
+      ProfilePragmatic use of CodeQL in the context of code reviewMing-BinChenProfileInteractive agents for combating misinformation
+         Sayantan 
+      
+         Dasgupta 
+      ProfileEnergy-Aware Machine LearningDinukade ZoysaProfileDiscovering Insights through Intent Prediction and Guided ExplorationRobenDelos ReyesProfileModelling the impact of pandemics on health care servicesNadeeshan Dananjaya KumaraDissanayake MudiyanselageProfileIntelligent Intersection Management for Improved Traffic SafetySonglinDuProfileCollaborative Human-ML Decision Making for Medical Diagnostics: an ICP-based approach
+         Aparna 
+      
+         Elangovan 
+      ProfileGeneralizability of Pretrained Transformers in Biomedical Relation Extraction
+         Yilin 
+      
+         Geng 
+      ProfileCharacter-centric Story Understanding and GenerationChenhaoGuProfileReconstructing Social Influence Networks and Tracking Opinion Dynamics on Social Media
+         Ali Ugur 
+      
+         Guler 
+      ProfileIntegration of machine learning and constraint  optimisationYiyiGuoProfileTransfer learning driven weather prediction
+         Tom 
+      
+         Harris 
+      Profile
+         Multiscale modelling of infectious disease systems 
+      AfsanehHasanebrahimiProfileRobust Anomaly Detection
+         Haitian 
+      
+         He 
+      Profile
+         Video anomaly detection in crowded scenes at multi-timescale 
+      MitraHeidariProfileModelling and optimization of bioprocess systemsNimeshika UdayanganiHewa DehigahawattageProfileA Pixel-level Unsupervised Approach to Image Anomaly Detection
+         Markus 
+      
+         Hiller 
+      Profile
+         Constraining learning methods through geometry and causal reasoning 
+      
+         Guang 
+      
+         Hu 
+      Profile
+         Explainable agency using epistemic planning 
+      
+         Hanxun 
+      
+         Huang 
+      Profile
+         Robust machine learning 
+      
+         Sukai 
+      
+         Huang 
+      Profile
+         Texted based reinforcement learning agent 
+      
+         Zhuoqun (Calvin) 
+      
+         Huang 
+      Profile
+         Adaptive data analysis for principled data reuse 
+      Dasun OshadaJayasingheProfileReal time digital twins for intelligent transportation systems
+         Fan 
+      
+         Jiang 
+      Profile
+         Retriever-augmented Approaches for Natural Language Processing 
+      
+         Weiwei 
+      
+         Jiang 
+      Profile
+         Developing interactive systems using Near-Infrared Spectroscopy 
+      
+         Anirudh 
+      
+         Joshi 
+      ProfileDetermining argument quality and reasoning proficiency using deep neural networksZaherJoukhadarProfileAutonomous and robust AI in low-resource settingsJemimaKangProfileUsing NLP to determine semantic drift in mental health discourseSaumya  HansanieKarunadhikaProfileDevelopment of a Novel Algorithm for Motif Discovery and Anomaly Detection in Medical Time Series Data from VentilatorsDimuthu LakmalKariyawasan Jalath ThanthrigeProfileA Multi-Modal Approach For Fake News Detection On Social Media
+         Oliver 
+      
+         Kim 
+      Profile
+         Task planning in mobile robots using common sense as a generative model
+         Fajri 
+      
+         Koto 
+      Profile
+         Neural Language Model for Abstractive Text Summarisation 
+      MojganKouhounestaniProfileModification of the temporal data embedded in electronic medical records dataset targeting cancer prediction using machine learning methods
+         Robert 
+      
+         Langtry 
+      Profile
+         Machine learning for automated generation of validated infra-red signature models
+         Thao 
+      
+         Le 
+      Profile
+         Explaining the Confidence in AI-Assisted Decision Making 
+      Thi Xuan MayLeProfileShapelet Transformer for Time Series and Its Applications in Healthcare
+         Chao 
+      
+         Lei 
+      Profile
+         Automated Monitoring of Green Infrastructure in Melbourne 
+      
+         Craig 
+      
+         Lewis 
+      ProfileEntrepreneurial initiatives and team collaboration: Effects of modes of behaviour on start-up team effectiveness and success
+         Haopeng 
+      
+         Li 
+      Profile
+         Multimodal Video Understanding Based on Deep Learning 
+      JinhaoLiProfileDeep hypothesis testing and its applications in rule-based recommendations
+         Miao 
+      
+         Li 
+      Profile
+         Neural Multi-document Modelling and Abstractive Summarization 
+      YuhaoLiProfileRobust and explainable medical data mining and its applicationRanLiangProfileSpatio-temporal Traffic Prediction Using Deep Learning Models
+         Zheng Wei 
+      
+         Lim 
+      Profile
+         Cross-lingual Psycholinguistics with NLP methods 
+      Hong YiLinProfileUsing Neural Machine Translation Approaches to Automate Code Improvements for Code Reviews
+         Shijie 
+      
+         Liu 
+      Profile
+         Enhancing adversarial defence via robust statistics and certified robustness 
+      
+         Yuansan 
+      
+         Liu 
+      Profile
+         Robust AI for guidance of a cochlear implant procedure 
+      XueqiMaProfileAdversarial Learning based on Manifold Learning and Graph-based learningAsoMahmudiProfileDeveloping Advanced Processing Tools for Under-Resourced Languages Focusing on Morphological Features
+         Isura 
+      
+         Manchanayaka 
+      Profile
+         Identifying Coordination and Influential People in Social Media and Their Intentions 
+      
+         Kevin 
+      
+         McDonald 
+      Profile
+         Enhancing reinforcement learning algorithms for team-based systems 
+      
+         Christopher 
+      
+         McMaster 
+      Profile
+         Machine learning models for predicting and mitigating adverse drug reactions 
+      BehzadMoradiProfileEnhanced Bilevel Optimization via Machine Learning
+         Bruna 
+      
+         Moreira da Silva 
+      Profile
+         Deconvoluting epilepsy patient data using machine learning 
+      AbirNaskarProfileIdentifying Adolescent Risk-taking Behaviours from Clinical TextPaulOuProfileData-Driven Methods for Modelling, Optimising and Validating Digital Bioprocess Development
+         Zhihao (Hardy)
+         Pei 
+      Profile
+         Reinforcement Learning for robust decision-making under deep uncertainty 
+      
+         Tien Dung 
+      
+         Pham 
+      Profile
+         A Robust Datamining Approach to Cell Culture Media Optimisation 
+      MarziehParvaneh Akhteh KhanehProfileDesigning online learning environment based on peer feedbackPriyankaPillaiProfileUnderstanding the impact of population heterogeneity on the computational modelling of STIs
+         Yiyuan (Gracie)
+         Pu 
+      Profile
+         Literature-based discovery for Alzheimer's disease 
+      
+         Viktoria 
+      
+         Schram 
+      ProfilePerformance Prediction for Low Resource Scenarios 
+      
+         Rinu Ann 
+      
+         Sebastian 
+      Profile
+         Explainable computer vision to improve human-machine interaction 
+      
+         Prabodi 
+      
+         Senevirathna 
+      Profile
+         Quantifying and mitigating machine-learning induced overdiagnosis in sepsis 
+      
+         Xinling 
+      
+         Shen 
+      Profile
+         Dynamic Indoor Evacuation Planning in an Emergency 
+      
+         Anubhav 
+      
+         Singh 
+      ProfileAI planning in embedded autonomous systemsYigeSongProfileStudent learning profile - The exploration, interpretation and feedback provision on students’ online learning behaviours
+         Steven 
+      
+         Spratley 
+      Profile
+         Abstraction and Generalisation in Vision Systems 
+      
+         Xinyu 
+      
+         Su 
+      Profile
+         Traffic prediction using graph neural networks 
+      FengzeSunProfileEffective and Efficient Algorithms for Region Similarity QueriesSing CheeTanProfileImproving Rapid Response Systems through Predictive Analytics
+         Nefel 
+      
+         Tellioglu 
+      Profile
+         Modeling the evolutionary and epidemiology dynamics of group A streptococcus 
+      
+         Gisela 
+      
+         Vallejo 
+      Profile
+         A Fair Plan Towards Mitigating Bias and Misinformation 
+      SameeraVithanageProfileTowards Understanding User Perceptions of Fake News on Social Media
+         Hung Thinh 
+      
+         Truong 
+      Profile
+         Evidence extraction from the clinical trials literature 
+      
+         Archana 
+      
+         Vadakattu 
+      Profile
+         Dynamic learning in cognitive agent architectures 
+      
+         Takashi 
+      
+         Wada 
+      Profile
+         Multilinguality and acceptability in language 
+      
+         Chen 
+      
+         Wang 
+      Profile
+         Inverse Reinforcement Learning Approach for intent inference in adversarial environments 
+      
+         Chenyang 
+      
+         Wang 
+      Profile
+         Extending matrix profile with soft comparison operators and weighting functions for time series anomaly detection 
+      
+         Dalin 
+      
+         Wang 
+      Profile
+         Image captioning with conditional-GAN 
+      JinxiWangProfileExperimental Design and Performance Optimisation of Monoclonal Antibody Production in Bioreactors under Insufficient Data Based on Machine Learning
+         Jun 
+      
+         Wang 
+      Profile
+         Adversarial machine learning for machine translation 
+      TingxuanWangProfileModelling 3D Shape of Sands from X-ray Computed Tomography ImagesYuxiangWangProfileNeuralDB: Unleashing the Power of Neural Networks in Database Management Systems for Intelligent Data Processing
+         Helani 
+      
+         Wickramaarachchi 
+      Profile
+         An efficient, autonomous reward shaping algorithm with evolutionary game theory: applied to the field of multi-agent systems 
+      
+         Zhuohan 
+      
+         Xie 
+      Profile
+         Hierarchically structured neural narrative generation 
+      
+         Rui 
+      
+         Xing 
+      ProfileTowards Explainable Fact Checking
+         Aotao (John) 
+      
+         Xu 
+      Profile
+         A computational analysis of conceptual combination through time 
+      
+         Diana 
+      
+         Yang 
+      Profile
+         Robust data mining 
+      JieYangProfileSave you from irrational decisions: a responsive agent affected by user emotions
+         Jinrui 
+      
+         Yang 
+      Profile
+         Fairness and Bias in Natural Language Processing 
+      
+         Meng Abigail 
+      
+         Yuan 
+      Profile
+         Modalities and measurement of systems for information discovery 
+      CanaanYungProfileAdversarial attacks on generative AI models
+         Chenyuan 
+      
+         Zhang 
+      Profile
+         Computational cognitive model of plan recognition 
+      JiachengZhangProfileEnhancing trustworthiness and robustness of machine learning models in adversarial environments
+         Ruihan 
+      
+         Zhang 
+      Profile
+         Explainable Machine Learning 
+      
+         Tianyi 
+      
+         Zhang 
+      Profile
+         Digital phenotyping (personal sensing) for mental health and well-beingZhenkaiZhangProfileTo solve the current problems of NeRF and to explore the application of NeRF in robotic vision or automatic driveJohnsonZhouProfileApplied Deep Learning Control for Neurological Disease Models
+         Anqi 
+      
+         Zhu 
+      Profile
+         Action recognition with explanation 
+      
+         Rongxin 
+      
+         Zhu 
+      Profile
+         Automatic summarization for multi-party conversation 
+      
+         Farzaneh 
+      
+         Zirak 
+      Profile
+         Using Eye-Tracking Technology to Improve Visual Data Exploratory Tools Performance
+
+
+
+
+
+Email Contact us
+Faculty of Engineering and Information Technology
+Engineering & IT Students
+Staff only: FEIT Intranet
+
+
+
+
+
+
+
+School of Computing and Information Systems
+About us
+About the School
+Life in Melbourne
+Alumni profiles
+Casual tutor, demonstrator, marker and project team supervisor opportunities
+CSIRAC: Our first computer
+CSIRAC’s vital statistics
+CSIRAC chronology
+CSIRAC design
+How did CSIRAC work?: Storage
+How did CSIRAC work?: Console
+CSIRAC uses
+CSIRAC: Designers
+The music of CSIRAC
+CSIRAC emulator
+Jurij Semkiw
+CSIRAC and computer history links
+The Last of the First, CSIRAC: Australia’s First Computer
+CSIRAC photo gallery
+The history of computing at the University of Melbourne
+History of computing in the department
+Starting the Department of Information Systems
+Early internet
+Memories of the department
+Programming
+Student life in the department
+Women in computing
+CIS Doctoral Colloquium
+2023 CIS Doctoral Colloquium
+Submission Guidelines
+Colloquium Photos
+2022 CIS Doctoral Colloquium
+Submission Guidelines
+Program_open
+Participation and Awards
+Volunteers and Judges
+CISDC 2022 Photos
+2019 CIS Doctoral Colloquium
+2018 CIS Doctoral Colloquium
+2017 CIS Doctoral Colloquium
+2016 CIS Doctoral Colloquium
+2015 CIS Doctoral Colloquium
+2014 CIS Doctoral Colloquium
+2013 CIS Doctoral Colloquium
+Keynote speaker
+Colloquium sponsors
+Committee
+Call for papers
+Application_closed
+Submission_info
+Program_pending
+Program_open
+Alumni
+Registration_pending
+Industry
+Research collaboration
+Cyber attack maps to underpin better strategic responses
+Surgeons gain implant expertise with virtual training
+Informatics analyses value in digital health technologies
+Data contrasting highlights changing use of city
+Online community designed to support mental health for young people
+Satisfaction score to improve quality of internet search results
+Supply chain scheduling keeps automated mining operations on task
+Combined data adds power to decision-making
+New algorithms help interpret vision loss from digital images
+Host a student intern
+Mentor our students
+Student industry projects
+Become a guest speaker
+News
+2022 news and events
+CIS-EEE Seed Funding
+How data can prevent overdiagnosis
+
+CIS - IE 2022 Research Collaboration Seed Funding
+2021 news and events
+2020 news and events
+2019 news and events
+2023 news and events
+CIS-ME 2023 Seed Funding round
+CIS-IE 2023 Seed Funding round
+People
+Research
+Artificial intelligence
+Graduate Reseachers
+Computer science
+Graduate Researchers
+Digital Health
+Research projects
+Seminars
+Schools
+Study with us
+Undergraduate programs
+Graduate coursework programs
+Graduate research programs
+Industry based learning
+Programming proficiency test
+First Year Centre
+About
+Study with CIS
+Undergraduate programs
+Get help
+People
+Become a tutor
+Contact
+Graduate programs
+Graduate coursework programs
+Graduate research programs
+AI and Autonomy Lab
+News
+People
+Publications
+Research
+Mining and optimisation
+Automated planning languages
+Foundations of human-agent collaboration
+People-oriented software engineering
+Explainable artificial intelligence
+Multimodal human-agent collaboration
+Artificial Intelligence Assurance Lab
+About us
+Research
+Publications
+People
+Industry engagement
+Academic Centre of Cyber Security Excellence (ACCSE)
+Human-Computer Interaction
+Facilities
+User Experience Lab
+Interactive Technologies Lab
+Engineering Workshop
+
+Telstra Creator Space
+
+News and Events
+People
+Staff
+Graduate researchers
+Alumni
+Projects
+Adaptive learning technologies
+Ageing and avatars
+AI-enabled assistance for strategic planning in games
+Wearable technology for arm monitoring in health
+Augmented fitness
+Augmented learning environment for physiotherapy education
+Biometric Mirror
+Changing views
+Citizen Heritage
+Cognition-aware systems
+Cognitive interaction
+Completed projects
+Connecting learners for collaboration across diverse communities
+Cross-community information systems
+Crowdsourcing
+Death and the Internet
+Deceptive AI
+Designing for scale
+Designing technologies for indigenous knowledge
+Digital commemoration
+Digital domesticity
+Conceptualising and measuring digital emotion regulation
+Emerging technologies for enrichment in old age
+Encounters
+Ethics and digital games
+Evaluation of natural user interfaces in query auto-completion
+Examining the ‘digital’ in hybrid digital boardgames
+Exploring complex data sets using highly engaging environments
+Exploring natural user interfaces during meal times
+FaceSpace
+Getting well and being present
+Growing old and staying connected
+HandLog: tangible interactions for game input and rehabilitation
+iFISH
+Improving Vitamin D status and related health in young women
+Insertable technology for human interactions
+Interactive displays
+Interactive spaces and media architecture
+Kinecting with orang-utans
+Mediating intimacy
+Mobile fieldwork and learning
+Multimodal human–agent collaboration
+Music streaming and algorithmic recommendation
+Near-infrared spectroscopy
+Onebody
+Orygen Virtual World Project
+Promoting student peer review in Australian tertiary education
+Personal sensing for mental health and wellbeing
+Pholiota Unlocked
+Reading on ubiquitous devices
+Smart Garden Watering
+Smartphones for science
+Social gaming events: Warhammer 40K
+Social networking sites for ambivalent socialisers
+Social play in immersive gaming environments
+Social robots and virtual assistants for older people
+Sociophysical interactions
+Social Orientated Requirements Engineering
+Spectating eSports and Let’s Play
+SpinalLog
+Supporting social interactions for video calls in the home
+Teleconsultation: enhancing interactions between clinicians and patients
+Virtual co-presence
+Virtual Reality and climate change communication
+VR therapy for youth mental health
+Robot Assisted Learning and Rehabilitation
+XR for Human-Robot Interaction
+Social and Domestic Drones 
+Human-Centred Agent Learning
+Child of Now
+ #thismymob
+Publications
+Research
+Smart Spaces
+Ubiquitous computing
+Digital health
+Digital nature
+Novel interactions
+Design for ageing
+Games and play
+Social computing and communities
+Human information interaction
+Human-Robot Interaction
+Seminars
+Past seminars 2020
+Past seminars 2019
+Past seminars 2016–2018
+Past seminars 2011–2015
+Past seminars 2006–2010
+Past seminars 2004–2005
+Study
+HCI programs for potential students
+HCI subjects
+Masters projects
+Potential PhD students
+Information systems
+Process science and technology
+Business analytics and decision making
+Cybersecurity management
+Digital health
+Innovations in the digital society
+Publications
+Contact us
+Current Students
+Library
+Staff
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

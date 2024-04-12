@@ -1,0 +1,732 @@
+URL: https://cis.unimelb.edu.au/hci/seminars/2004-2005
+
+
+
+
+
+
+
+
+Past seminars 2019: Human-Computer Interaction, The University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+School of Computing and Information Systems
+
+
+
+Human-Computer Interaction
+
+
+
+Seminars
+
+
+
+2004–2005
+
+
+
+
+
+
+
+Past seminars 2004–2005
+
+
+
+
+
+ Past seminars 
+
+ 2005 
+ 2004 
+
+
+
+
+
+
+
+
+04 Mar 
+
+
+
+Vicarious Experience in E-commerce
+ Virtual experience and other technology-dependent methods of describing products online are frequently touted as the way of the future in e-commerce. However, despite the hyperbole, these claims have actually not been tested rigorously on systems used by major online retailers. This paper reports the results of an experiment that assesses user perceptions of the informativeness and ultimate usefulness of systems that use personalization and rich media to enhance the online evaluation process. Our results challenge the commonly held view that the "high-tech" approach is, in its own right, beneficial to either the customer or the vendor. Specifically, we find that, at best, these systems can improve awareness of some important product attributes, but with this enhanced awareness comes a reduced awareness of other product characteristics. At worst, these systems actually make the customer less informed and result in highly negative assessments of the retailer. 
+
+ Presenter Stephen Smith
+
+
+
+
+11 Mar 
+
+
+
+Eye Tracking in Usability Evaluations
+What is eye tracking? Why has the technique of applying eye tracking to usability evaluations been classified as simply "promising" over the past 50 years? This presentation will introduce the concept of eye tracking, highlight some of the issues and lessons learnt from using an eye tracking system for a usability evaluation conducted at Sensis and also discuss some interesting findings from journal articles.
+
+ Presenter Glenn Low
+
+
+
+
+18 Mar 
+
+
+
+From product to experience
+This talk will look at experience design - but not from the perspective of how experience design is being applied to user interfaces. It's a discussion about how experience design is being applied to other types of products - washing machines, cars, foods, banks and insurance - and what we in usability, HCI and UI design can learn from that. We're looking outside the field to understand experience design because we think that more progress has been made in understanding and designing for experience by researchers in fields other than our own.
+
+ Presenter Rachel Carey, Peter Thomas
+
+
+
+
+31 Mar 
+
+
+
+Mediating Intimacy: Designing Technologies to Support Strong-Tie Relationships
+Preview of Frank's CHI Presentation. ALL are welcomed.
+
+ Presenter Frank Vetere
+
+
+
+
+08 Apr 
+
+
+
+Report on the visit to Aalborg University and PhD progress
+Report on the visit to Aalborg University and PhD progress 
+
+ Presenter Jeni Paay
+
+
+
+
+15 Apr 
+
+
+
+The Role of Teachers in Child-Centred Design Methodologies: Development of an Effective Method for Partnering Children and their Teachers in the Design of Educational Technology (PhD Progress)
+The emergence of children as users of technology presents us with the challenge of designing to meet their needs in a useful and meaningful way. Traditionally adults have been charged with the design of children's products, under the assumption that children have too many limitations to do it themselves. Involving children brings complexity to the design process; however it can be an enriching experience for designers and children and it could be seen as an important predictor of a products success.
+
+ Presenter Miriam Sofia Pardo Pajaro
+
+
+
+
+22 Apr 
+
+
+
+Just-for-Us: A Context-Aware Mobile Information System Facilitating Sociality
+Mobile computer technologies are increasingly being appropriated and used to facilitate people's social life outside the work domain. Addressing this emerging domain of use, we present the design of a context-aware mobile information system prototype facilitating sociality in public places: Just-for-Us. The design of the prototype system was informed by two empirical studies: an architectural analysis of a recently built public space in Melbourne, Australia and a field study of small groups socialising there. We describe these two studies and illustrate how findings informed our prototype design. Finally, we outline an ongoing field study of the use of the Just-for-Us prototype (submitted to Mobile HCI 2005) 
+
+ Presenter Jesper Kjeldskov
+
+
+
+
+29 Apr 
+
+
+
+Applying key themes from cultural theory for design
+Cultural Theory is relevant beyond theoretical analysis and social commentary and has an imminent applicability not just to comment on, but inform and affect society's relationship with technology. In order to conduct a User Centred Design study of young peoples' use of new digital technologies for the Smart Internet Technology CRC, cultural theory was employed as a design methodology. This approach revealed the complex meanings that were produced when users engaged with technology and provided critical analysis of the UCD process itself. The methodoligical outcome of this application of theory to practice was the instigation of a mutual leveraging that re-contextualises Cultrual Theory in real world practice while lending UCD a deeper intellectual platform for conducting, analysing and translating user studies. 
+
+ Presenter Christine Satchell
+
+
+
+
+06 May 
+
+
+
+Leading Web Usability Evaluations to WAUTER
+The WWW is now ubiquitous, and yet its usability is still of major concern. Usability testing methods are able to identify flaws prior to the launch of a site. However, their application typically involves direct observation, requiring availability of participants and evaluators in a synchronised manner. This, in turn, implies tight schedules with little leeway for flexibility. In this paper, we propose WAUTER (Web Automatic Usability Testing EnviRonment), a suite of open source tools to assist in web usability evaluation, capturing and comparing intended vs. actual use of a web site. WAUTER harnesses web user visits to do so and is also intended to support remote evaluation. 
+
+ Presenter Sandrine Balbo and Steve Goschnick
+
+
+
+
+13 May 
+
+
+
+Communication Issues within Web Team
+Web development is increasing important for a growing number of companies to their business. The central problem with Web development is the lack of clear standards or methods for creating web sites. Web development teams are multi disciplined, therefore communication within teams and with clients may be difficult. Little is known about the specific ways in which communication influences the performance of the web team. This project investigates communication experiences related to poor development outcomes by analyzing interview data from 16 cases.
+
+ Presenter Jos Lim
+
+
+
+CardSword
+CardSword is intended to streamline the process of conducting a CardSorting. To accomplish that, CardSword offers functionality to help with every step of a CardSorting.
+
+ Presenter Björn Dieter Busch-Geertsema
+
+
+
+
+20 May 
+
+
+
+Designing for Experience: A Wicked Problem
+In recent years, the HCI community have enthusiastically embraced the call to 'design for experience'. However, before we can approach the design for experience, a lot of ground clearing is necessary. Conceptually, experience is rich and complex. Further to that, experience is 'owned' by a diverse range of disciplines from design, film, performing arts and visual arts to the cognitive sciences, social sciences, philosophy, cultural and literary theory and even neurology and evolutionary sciences. From the work that has already been done, some are questioning as to whether we can even design or script experience, or that we should instead be contented to scaffold and facilitate experiences or even to keep from hindering it. In this talk, I hope to bring together a perspective on what we know and understand about experience, a discussion about the challenges of designing for experience (in particular for interactive technology) and why designing for experience is such a 'wicked problem'. I will also attempt to highlight the gaps I see for the opportunities (and challenges) ahead.
+
+ Presenter Tuck Leong
+
+
+
+
+27 May 
+
+
+
+Panel: How I Learned to Stop Worrying and Love to Publish
+Get first hand tips and experiences of how to publish research papers in HCI conferences and journals.
+
+ Presenter Steve Howardo, Frank Vetere, Connor Graham, Jesper Kjeldskov, Sofia Pardo
+
+
+
+
+09 Jun 
+
+
+
+Cityscapes: Social Poetics/Public Textualities (Work in progress)
+Discussion of interactive web-based piece containing palettes with visual (textual) and aural (phonetic) elements of the city area, which enable the users to re-discover the cityscapes by creating sound and visual compositions, (in this case Melbourne with its intersign and intertextual multicultural systems), and to bring these experiences real time back to the city through an urban screen. This interface also contains a database of the research process: photographs, videos documentation, webpages of collaborators etc. 
+
+ Presenter Dr Maria Mencia
+
+
+
+
+24 Jun 
+
+
+
+CASE: A Framework for Evaluating Learner-Computer Interaction in Computer-Assisted Language Learning
+Socio-cultural theories of language learning examine the impact of social interaction within cultural environments upon cognitive development and learner performance. Such theories emphasise the emergence of learner strategies and subsequent proficiency through involvement in continuously unravelling situated activities. However, this view is rarely expressed within {Computer-Assisted} Language Learning where practitioners often fail to consider implications of system design. This is in part due to the lack of a holistic and integrative framework for capturing, modelling and evaluating cognitive and social requirements of learner-computer interaction. In response, we propose the CASE (Cognition, Activity, Social Organisation and Environment) framework, and explore its application to a historical study on Computer-Assisted Language Learning software development. In sum, we argue that the CASE approach will greatly assist Computer-Assisted Language Learning initiatives in quality-driven system design. 
+
+ Presenter Rod Farmer
+
+
+
+
+
+
+
+
+
+30 Jul 
+
+
+
+Supporting Work Activities in Healthcare by Mobile Electronic Patient Records
+Supporting work activities in healthcare is highly complex and challenging. This presentation outlines the findings from a usability study of a commercial PC based electronic patient record (EPR) system at a large Danish hospital and presents our experiences with the design of a mobile counterpart. First, a number of challenges in relation to the use of traditional desktop-based EPR systems in healthcare were identified. Secondly, a mobile context-aware prototype was designed and implemented, which automatically keeps track of contextual factors such as the physical location of patients and staff, upcoming appointments etc. The usability of the mobile EPR prototype was evaluated in a laboratory as well as in relation to carrying out real work activities at the hospital. Our results indicate that mobile EPR systems can support work activities in health-care, but that interaction design of such systems must be carefully thought out and evaluated. Specifically, our findings challenge the view of context-awareness being a universally useful paradigm for mobile HCI. 
+
+ Presenter Jesper Kjeldskov
+
+
+
+
+06 Aug 
+
+
+
+Report on visit to Lancaster University
+This presentation will describe a visit to Lancaster University's Computing Department. Specifically, this presentation will describe PhD work conducted in conjunction with Keith Cheverst and Mark Rouncefield examining the possible additional role of technology in a residential health care setting for ex-psychiatric patients. The presentation will describe how a framework drawn from CSCW is used to analyse health care workers' practice and to understand the potential role of technology in the setting.
+
+ Presenter Connor Graham
+
+
+
+
+13 Aug 
+
+
+
+Towards 100 actions for the 100 languages of Children
+The use of Naturalistic Enquiry and Participatory Design to enable an investigation into children's learning using tangible media and digital technologies.
+
+ Presenter Frank Feltham (RMIT)
+
+
+
+
+20 Aug 
+
+
+
+How to Handle Childrens Wants in a Development Process
+The talk will be about how to handle childrens wants in a development process. This by examining how to involve them in requirement specification and evaluation activities. 
+ We investigated the problem through the development of a painting program. The children were involved in a preanalysis through observations of them painting and constructive interactions with existing painting software. This lead to several concepts and one of these formed the core of the design for the program. The program was realized through two releases using the development method Extreme Programming. Every release was evaluated by the children through constructive interactions. 
+ We concluded that it was possible to involve the children in the requirements specification by using the preanalysis to develop concepts and construct user stories. The children were also involved in the evaluation of the program through constructive interactions which each release. 
+ Throughout we have been forced to interpret the childrens' statements and actions. Thus there is no guarantee that the program really reflects the childrens' wants, despite the seemingly appropriate methods. 
+
+ Presenter Kasper Garnæs, Olga Gruenberger
+
+
+
+
+27 Aug 
+
+
+
+Towards more usable Enterprise Content Management System
+The explosion of digital content has driven the emergence of Content Management System (CMS). Started as Document or Web Site Management Applications, the system has grown into a complex system with many ambitious goals in several dimensions: to manage various types of content, to serve a large number of core and extended functionalities, and to cater a wide range context of use. The increase in complexity gives rise to steep interaction design challenges.
+ Initial research results from the first 5 months of PhD will be presented. It includes motivation, challenges, opportunity and pain of PhD experience. 
+
+ Presenter Ivo Widjaja
+
+
+
+
+03 Sep 
+
+
+
+Reflections on a (nearly complete) PhD
+This presentation will reflect on the twists and turns of a PhD studying flow and interactivity in online learning. The nature of the experiments will be briefly described, as well as some outcomes and conclusions. Some thoughts about the process and problems encountered will be discussed.
+
+ Presenter Jon Pearce
+
+
+
+
+10 Sep 
+
+
+
+Application of Grounded Theory to Pattern Mining
+This research proposes application of grounded theory to pattern mining. The presented approach aims at inducing expert development knowledge and its subsequent packaging into domain-specific pattern languages, which could subsequently be used by both experienced and novice developers in the field. The method is being evaluated empirically in the domain of multimedia design.
+
+ Presenter Tanya Linden
+
+
+
+
+17 Sep 
+
+
+
+The Involvement of Children in the Design of Technology
+The emergence of children as users of technology presents us with the challenge of designing to meet their needs in a useful and meaningful way. Traditionally adults have been charged with the design of children's products, under the assumption that children have too many limitations to do it themselves. Involving children brings complexity to the design process; however it can be an enriching experience for designers and children and it could be seen as an important predictor of a products success.
+
+ Presenter Miriam Sofia Pardo Pajaro
+
+
+
+
+08 Oct 
+
+
+
+Managing Fragmented Work
+Our daily working lives are made up of various concurrent and overlapping tasks. Several studies have been conducted to understand the process of task switching, the use of artifacts as reminders, the implications of interruptions on tasks, and the way that people maintain context in fragmented work. The results of these studies have produced design recommendations for possible virtual and physical artifacts for reminding, switching, and resumption of pending/suspended tasks. However, the majority of research has only concentrated on observing the surface behaviour of task management in various work contexts. My planned research attempts to look deeper into the problem by examining how people internally represent and structure their tasks in regards to task planning, control, and execution. The presentation will provide an overview of the first 6 months of my PhD research. 
+
+ Presenter Aaron Mullane
+
+
+
+
+15 Oct 
+
+
+
+The translation of information between Human-Computer Interaction specialist and Software Engineering specialists in model-driven development
+The aim of this project is to gather data about the collaboration between Human-Computer Interaction (HCI) specialist and Software Engineering (SE) specialists through their shared boundary objects. Results will be knowledge to better understand the translation and sharing of information in software development. The first experiment will simulate a standard model-driven development process. 15 students with knowledge in HCI and 15 students with knowledge in SE will participate and collaborate in pairs. They will produce a set of UML models and a paper-prototype. These results will be analysed to detect changes and translations in interface design and in UML models. 
+
+ Presenter Jan Skjetne
+
+
+
+
+22 Oct 
+
+
+
+Greenfield User interfaces for Navigating Hierarchical Information (Honours Presentation)
+Throughout the years there have been many new interfaces developed to present information in different ways. The FUN interface is one of these interfaces. Two important features of the FUN interface were seen to be its speed as well as its ability to help users in prompted recall of the structure. These features are assessed and compared with Windows Explorer.
+
+ Presenter Sally Lane
+
+
+
+Picture Scenarios: An Extended Scenario-based Method for Mobile Appliance Design (OZCHI 2004)
+This paper presents an extended scenario-based design method for the design of mobile appliances. This method builds on the results of two studies with designers in industry. Central to the method is the representation of dynamic use context, a core characteristic of mobile appliance use, with the use of picture scenarios. The initial use of this method in three design workshops is reported here, along with the feedback of the participants.
+
+ Presenter Sonja Pedell
+
+
+
+
+29 Oct 
+
+
+
+Designing with people who have a cognitive disability (Honours Presentation)
+A case can be made for the direct involvement of people with a cognitive disorder, such as autism or Asperger's syndrome in the development of technologies to support them. There is doubt, however, that some of the very traits that these technologies are designed to support may also impact the effectiveness of appropriateness of available participatory design techniques. I will report on my experiences conducting a Delphi study that explored the problems associated with engaging this group directly in the design process.
+
+ Presenter Peter Francis
+
+
+
+Trust in mobile guide design: exploiting interaction paradigms (OZCHI 2004)
+Trust is an important issue in the design of context-aware mobile guides. Here we draw on the field evaluations of two different mobile guides to explore trust related incidents. Important factors in trust relationships are user expectations and managing the user's sense of vulnerability. However, uncertainty is currently unavoidable with mobile guide systems. Consequently, given the user's expectations, evidence of the system providing incorrect information (e.g. caused by uncertainty in location due to limited network coverage) is likely to adversely affect the user's trust in the system. We argue here that the interaction paradigm supported by the system can play a crucial role in managing the user's trust. Furthermore, we argue that personified interaction paradigms (Local, Guide, Chaperone, Buddy, Captain) can act as a useful tool for designers developing mobile guides. (Paper by Connor Graham, Keith Cheverst, Steve Howard, Jesper Kjeldskov, Frank Vetere) 
+
+ Presenter Connor Graham
+
+
+
+
+05 Nov 
+
+
+
+Special Presentation: Visit to SINTEF and NordiCHI
+Frank's Report from SINTEF and NordiCHI.
+
+ Presenter Frank Vetere
+
+
+
+
+
+
+
+
+Past seminars2020 | 2019 | 2016–2018 | 2011–2015 | 2006–2010 | 2004–2005
+
+
+
+
+Email Contact us
+Faculty of Engineering and Information Technology
+Engineering & IT Students
+Staff only: FEIT Intranet
+
+
+
+
+
+
+
+School of Computing and Information Systems
+About us
+About the School
+Life in Melbourne
+Alumni profiles
+Casual tutor, demonstrator, marker and project team supervisor opportunities
+CSIRAC: Our first computer
+CSIRAC’s vital statistics
+CSIRAC chronology
+CSIRAC design
+How did CSIRAC work?: Storage
+How did CSIRAC work?: Console
+CSIRAC uses
+CSIRAC: Designers
+The music of CSIRAC
+CSIRAC emulator
+Jurij Semkiw
+CSIRAC and computer history links
+The Last of the First, CSIRAC: Australia’s First Computer
+CSIRAC photo gallery
+The history of computing at the University of Melbourne
+History of computing in the department
+Starting the Department of Information Systems
+Early internet
+Memories of the department
+Programming
+Student life in the department
+Women in computing
+CIS Doctoral Colloquium
+2023 CIS Doctoral Colloquium
+Submission Guidelines
+Colloquium Photos
+2022 CIS Doctoral Colloquium
+Submission Guidelines
+Program_open
+Participation and Awards
+Volunteers and Judges
+CISDC 2022 Photos
+2019 CIS Doctoral Colloquium
+2018 CIS Doctoral Colloquium
+2017 CIS Doctoral Colloquium
+2016 CIS Doctoral Colloquium
+2015 CIS Doctoral Colloquium
+2014 CIS Doctoral Colloquium
+2013 CIS Doctoral Colloquium
+Keynote speaker
+Colloquium sponsors
+Committee
+Call for papers
+Application_closed
+Submission_info
+Program_pending
+Program_open
+Alumni
+Registration_pending
+Industry
+Research collaboration
+Cyber attack maps to underpin better strategic responses
+Surgeons gain implant expertise with virtual training
+Informatics analyses value in digital health technologies
+Data contrasting highlights changing use of city
+Online community designed to support mental health for young people
+Satisfaction score to improve quality of internet search results
+Supply chain scheduling keeps automated mining operations on task
+Combined data adds power to decision-making
+New algorithms help interpret vision loss from digital images
+Host a student intern
+Mentor our students
+Student industry projects
+Become a guest speaker
+News
+2022 news and events
+CIS-EEE Seed Funding
+How data can prevent overdiagnosis
+
+CIS - IE 2022 Research Collaboration Seed Funding
+2021 news and events
+2020 news and events
+2019 news and events
+2023 news and events
+CIS-ME 2023 Seed Funding round
+CIS-IE 2023 Seed Funding round
+People
+Research
+Artificial intelligence
+Graduate Reseachers
+Computer science
+Graduate Researchers
+Digital Health
+Research projects
+Seminars
+Schools
+Study with us
+Undergraduate programs
+Graduate coursework programs
+Graduate research programs
+Industry based learning
+Programming proficiency test
+First Year Centre
+About
+Study with CIS
+Undergraduate programs
+Get help
+People
+Become a tutor
+Contact
+Graduate programs
+Graduate coursework programs
+Graduate research programs
+AI and Autonomy Lab
+News
+People
+Publications
+Research
+Mining and optimisation
+Automated planning languages
+Foundations of human-agent collaboration
+People-oriented software engineering
+Explainable artificial intelligence
+Multimodal human-agent collaboration
+Artificial Intelligence Assurance Lab
+About us
+Research
+Publications
+People
+Industry engagement
+Academic Centre of Cyber Security Excellence (ACCSE)
+Human-Computer Interaction
+Facilities
+User Experience Lab
+Interactive Technologies Lab
+Engineering Workshop
+
+Telstra Creator Space
+
+News and Events
+People
+Staff
+Graduate researchers
+Alumni
+Projects
+Adaptive learning technologies
+Ageing and avatars
+AI-enabled assistance for strategic planning in games
+Wearable technology for arm monitoring in health
+Augmented fitness
+Augmented learning environment for physiotherapy education
+Biometric Mirror
+Changing views
+Citizen Heritage
+Cognition-aware systems
+Cognitive interaction
+Completed projects
+Connecting learners for collaboration across diverse communities
+Cross-community information systems
+Crowdsourcing
+Death and the Internet
+Deceptive AI
+Designing for scale
+Designing technologies for indigenous knowledge
+Digital commemoration
+Digital domesticity
+Conceptualising and measuring digital emotion regulation
+Emerging technologies for enrichment in old age
+Encounters
+Ethics and digital games
+Evaluation of natural user interfaces in query auto-completion
+Examining the ‘digital’ in hybrid digital boardgames
+Exploring complex data sets using highly engaging environments
+Exploring natural user interfaces during meal times
+FaceSpace
+Getting well and being present
+Growing old and staying connected
+HandLog: tangible interactions for game input and rehabilitation
+iFISH
+Improving Vitamin D status and related health in young women
+Insertable technology for human interactions
+Interactive displays
+Interactive spaces and media architecture
+Kinecting with orang-utans
+Mediating intimacy
+Mobile fieldwork and learning
+Multimodal human–agent collaboration
+Music streaming and algorithmic recommendation
+Near-infrared spectroscopy
+Onebody
+Orygen Virtual World Project
+Promoting student peer review in Australian tertiary education
+Personal sensing for mental health and wellbeing
+Pholiota Unlocked
+Reading on ubiquitous devices
+Smart Garden Watering
+Smartphones for science
+Social gaming events: Warhammer 40K
+Social networking sites for ambivalent socialisers
+Social play in immersive gaming environments
+Social robots and virtual assistants for older people
+Sociophysical interactions
+Social Orientated Requirements Engineering
+Spectating eSports and Let’s Play
+SpinalLog
+Supporting social interactions for video calls in the home
+Teleconsultation: enhancing interactions between clinicians and patients
+Virtual co-presence
+Virtual Reality and climate change communication
+VR therapy for youth mental health
+Robot Assisted Learning and Rehabilitation
+XR for Human-Robot Interaction
+Social and Domestic Drones 
+Human-Centred Agent Learning
+Child of Now
+ #thismymob
+Publications
+Research
+Smart Spaces
+Ubiquitous computing
+Digital health
+Digital nature
+Novel interactions
+Design for ageing
+Games and play
+Social computing and communities
+Human information interaction
+Human-Robot Interaction
+Seminars
+Past seminars 2020
+Past seminars 2019
+Past seminars 2016–2018
+Past seminars 2011–2015
+Past seminars 2006–2010
+Past seminars 2004–2005
+Study
+HCI programs for potential students
+HCI subjects
+Masters projects
+Potential PhD students
+Information systems
+Process science and technology
+Business analytics and decision making
+Cybersecurity management
+Digital health
+Innovations in the digital society
+Publications
+Contact us
+Current Students
+Library
+Staff
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+

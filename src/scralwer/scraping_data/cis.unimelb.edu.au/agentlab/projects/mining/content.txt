@@ -1,0 +1,368 @@
+URL: https://cis.unimelb.edu.au/agentlab/projects/mining
+
+
+
+
+
+
+
+
+Mining and optimisation: agile mine scheduling through contingent planning, A.I. and Autonomy Lab, The University of Melbourne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to main content
+      
+
+
+
+
+
+School of Computing and Information Systems
+
+
+
+AI and Autonomy Lab
+
+
+
+Research
+
+
+
+Mining and optimisation
+
+
+
+
+
+
+
+Mining and optimisation
+AI and Autonomy Lab project
+
+
+
+
+
+
+Project descriptionMine planning is complex with short, medium and long-term objectives that are often competing rather than complementary. Increasing capability in data collection and management, moreover, is enabling faster and more frequent updating of orebody models. Fast, and predominantly automated, scheduling tools can take advantage of these frequent model updates by developing new, or adjusting existing plans, as required. This contrasts with current practice in which the time consuming nature of planning prevents this kind of agility.The Mining & Optimisation team within the AI & Autonomy Group has the capabilities to tackle these complex optimisation problems, with expertise in mathematical programming, discrete optimisation, classical planning, and stochastic optimisation. We have a track record of developing novel algorithms, and applying decomposition, aggregation and disaggregation, to complex scheduling problems.In a prior collaboration with Rio Tinto Iron Ore (RTIO), we have developed efficient algorithms for generating multiple realistic short-term production plans for open-pit iron ore mines, optimised with respect to a series of prioritisable objectives. A large number of distinct plans can be generated in minutes, each satisfying all relevant constraints on equipment and plant utilisation, and KPIs on production. Our collaboration with RTIO has additionally resulted in algorithms for short-term scheduling across a network of mines, each contributing to a set of blended products, and hybrid optimisation methods for planning at daily and weekly timescales. We have experience in the mathematical modelling of key planning problems across all horizons, from short- to long-term.Our researchers have collaborated with the Hunter Valley Coal Chain to develop an optimization-based logistics planning system integrating train scheduling, stockpile management, and vessel scheduling. This system-wide, coordinated approach deviates from earlier efforts that have focused on individual components of such supply chains, and integrates constraint programming, mixed integer programming, and local search methods.Our research agenda and interests include:Multi-horizon planningLinking real-time control and data collection with planning toolsModelling and reasoning with uncertainty.Multi-horizon planningCurrent practice, and software tools, do not provide adequate support to mine planners for analysing the impact of decisions at one planning horizon on others. A new generation of planning technology is required to realise effective multi-horizon planning.Real-time control, data collection, and planningFast and automated scheduling tools provide a means of adapting plans in response to new data as it arrives. This leads to interesting research questions, however, such as when and how to adapt plans in response to variation in predictions and their uncertainty.Modelling and reasoning with uncertaintyWe are interested in developing algorithms that are able to find a series of robust plans within reasonable time frames – drawing upon the fields of robust optimisation, simulation optimisation, and contingency analysis.Researchers in the Mining & Optimisation team within the AI & Autonomy Group form part of a larger group of academics across the Faculty of Engineering and Information Technology working on mining-related problems. The Faculty of Engineering and Information Technology’s Sustainable Resources platform works with explorers, miners, and mining equipment, technology and service providers to tackle the sectors most challenging problems.ResearchersProf Adrian PearceProf Peter StuckeyDr Michelle BlomDr Nir LipovetzkyDr Miguel RamirezPublicationsBlom, M.; Pearce, AR.; Stuckey, PJ. (2018) “Multi-objective short-term production scheduling for open-pit mines: a hierarchical decomposition-based algorithm” Engineering Optimization pp: 1-18. DOI:10.1080/0305215X.2018.1429601Blom, M.; Pearce, AR.; Stuckey, PJ. (2018) “Short-term planning for open pit mines: a review”International Journal of Mining, Reclamation and Environment pp: 1-22. DOI:10.1080/17480930.2018.1448248Blom, M.; Pearce, AR.; Stuckey, PJ. (2017) “Short-term scheduling of an open-pit mine with multiple objectives” Engineering Optimization TAYLOR & FRANCIS LTD. pp: 777-795. DOI:10.1080/0305215X.2016.1218002Blom, ML.; Pearce, AR.; Stuckey, PJ. (2016) “A Decomposition-Based Algorithm for the Scheduling of Open-Pit Networks Over Multiple Time Periods” Management Science INFORMS. pp: 3059-3084. DOI:10.1287/mnsc.2015.2284Harabor, D.; Stuckey, PJ. (2016) “Rail Capacity Modelling with Constraint Programming” Quimper, CG. (Ed.) 13th International Conference on Integration of Artificial Intelligence and Operations Research Techniques in Constraint Programming (CPAIOR) Switzerland. SPRINGER INT PUBLISHING AG. pp: 170-186. DOI:10.1007/978-3-319-33954-2_13Burt, CN.; Lipovetzky, N.; Pearce, AR.; Stuckey, PJ. (2015) “Scheduling with Fixed Maintenance, Shared Resources and Nonlinear Feedrate Constraints: A Mine Planning Case Study” Michel, L. (Ed.) 12th International Conference on Integration of Artificial Intelligence (AI) and Operations Research (OR) Techniques in Constraint Programming (CPAIOR) SPRINGER-VERLAG BERLIN. pp: 91-107. DOI:10.1007/978-3-319-18008-3_7Blom, ML.; Burt, CN.; Pearce, A.; Stuckey, PJ. (2014) “A Decomposition-Based Heuristic for Collaborative Scheduling in a Network of Open-Pit Mines” INFORMS Journal on ComputingINFORMS. pp: 658-689. DOI:10.1287/ijoc.2013.0590Belov, G.; Boland, N.; Savelsbergh, MWP.; Stuckey, PJ. (2014) “Local search for a cargo assembly planning problem” 11th International Conference on the Integration of Artificial Intelligence and Operations Research Techniques in Constraint Programming (CPAIOR) CH. Springer International Publishing. pp: 159-175. DOI:10.1007/978-3-319-07046-9_12Lipovetzky, N.; Burt, CN.; Pearce, A.; Stuckey, PJ. (2014) “Planning for Mining Operations with Time and Resource Constraints” Steve Chien, Minh Do, Alan Fern, And Wheeler Ruml, . (Ed.) International Conference on Automated Planning and Scheduling (ICAPS) US. AAAI Press. pp: 404-412.ContactAdrian PearceEmail: adrianrp@unimelb.edu.au
+
+
+
+
+Email Contact us
+Faculty of Engineering and Information Technology
+Engineering & IT Students
+Staff only: FEIT Intranet
+
+
+
+
+
+
+
+School of Computing and Information Systems
+About us
+About the School
+Life in Melbourne
+Alumni profiles
+Casual tutor, demonstrator, marker and project team supervisor opportunities
+CSIRAC: Our first computer
+CSIRAC’s vital statistics
+CSIRAC chronology
+CSIRAC design
+How did CSIRAC work?: Storage
+How did CSIRAC work?: Console
+CSIRAC uses
+CSIRAC: Designers
+The music of CSIRAC
+CSIRAC emulator
+Jurij Semkiw
+CSIRAC and computer history links
+The Last of the First, CSIRAC: Australia’s First Computer
+CSIRAC photo gallery
+The history of computing at the University of Melbourne
+History of computing in the department
+Starting the Department of Information Systems
+Early internet
+Memories of the department
+Programming
+Student life in the department
+Women in computing
+CIS Doctoral Colloquium
+2023 CIS Doctoral Colloquium
+Submission Guidelines
+Colloquium Photos
+2022 CIS Doctoral Colloquium
+Submission Guidelines
+Program_open
+Participation and Awards
+Volunteers and Judges
+CISDC 2022 Photos
+2019 CIS Doctoral Colloquium
+2018 CIS Doctoral Colloquium
+2017 CIS Doctoral Colloquium
+2016 CIS Doctoral Colloquium
+2015 CIS Doctoral Colloquium
+2014 CIS Doctoral Colloquium
+2013 CIS Doctoral Colloquium
+Keynote speaker
+Colloquium sponsors
+Committee
+Call for papers
+Application_closed
+Submission_info
+Program_pending
+Program_open
+Alumni
+Registration_pending
+Industry
+Research collaboration
+Cyber attack maps to underpin better strategic responses
+Surgeons gain implant expertise with virtual training
+Informatics analyses value in digital health technologies
+Data contrasting highlights changing use of city
+Online community designed to support mental health for young people
+Satisfaction score to improve quality of internet search results
+Supply chain scheduling keeps automated mining operations on task
+Combined data adds power to decision-making
+New algorithms help interpret vision loss from digital images
+Host a student intern
+Mentor our students
+Student industry projects
+Become a guest speaker
+News
+2022 news and events
+CIS-EEE Seed Funding
+How data can prevent overdiagnosis
+
+CIS - IE 2022 Research Collaboration Seed Funding
+2021 news and events
+2020 news and events
+2019 news and events
+2023 news and events
+CIS-ME 2023 Seed Funding round
+CIS-IE 2023 Seed Funding round
+People
+Research
+Artificial intelligence
+Graduate Reseachers
+Computer science
+Graduate Researchers
+Digital Health
+Research projects
+Seminars
+Schools
+Study with us
+Undergraduate programs
+Graduate coursework programs
+Graduate research programs
+Industry based learning
+Programming proficiency test
+First Year Centre
+About
+Study with CIS
+Undergraduate programs
+Get help
+People
+Become a tutor
+Contact
+Graduate programs
+Graduate coursework programs
+Graduate research programs
+AI and Autonomy Lab
+News
+People
+Publications
+Research
+Mining and optimisation
+Automated planning languages
+Foundations of human-agent collaboration
+People-oriented software engineering
+Explainable artificial intelligence
+Multimodal human-agent collaboration
+Artificial Intelligence Assurance Lab
+About us
+Research
+Publications
+People
+Industry engagement
+Academic Centre of Cyber Security Excellence (ACCSE)
+Human-Computer Interaction
+Facilities
+User Experience Lab
+Interactive Technologies Lab
+Engineering Workshop
+
+Telstra Creator Space
+
+News and Events
+People
+Staff
+Graduate researchers
+Alumni
+Projects
+Adaptive learning technologies
+Ageing and avatars
+AI-enabled assistance for strategic planning in games
+Wearable technology for arm monitoring in health
+Augmented fitness
+Augmented learning environment for physiotherapy education
+Biometric Mirror
+Changing views
+Citizen Heritage
+Cognition-aware systems
+Cognitive interaction
+Completed projects
+Connecting learners for collaboration across diverse communities
+Cross-community information systems
+Crowdsourcing
+Death and the Internet
+Deceptive AI
+Designing for scale
+Designing technologies for indigenous knowledge
+Digital commemoration
+Digital domesticity
+Conceptualising and measuring digital emotion regulation
+Emerging technologies for enrichment in old age
+Encounters
+Ethics and digital games
+Evaluation of natural user interfaces in query auto-completion
+Examining the ‘digital’ in hybrid digital boardgames
+Exploring complex data sets using highly engaging environments
+Exploring natural user interfaces during meal times
+FaceSpace
+Getting well and being present
+Growing old and staying connected
+HandLog: tangible interactions for game input and rehabilitation
+iFISH
+Improving Vitamin D status and related health in young women
+Insertable technology for human interactions
+Interactive displays
+Interactive spaces and media architecture
+Kinecting with orang-utans
+Mediating intimacy
+Mobile fieldwork and learning
+Multimodal human–agent collaboration
+Music streaming and algorithmic recommendation
+Near-infrared spectroscopy
+Onebody
+Orygen Virtual World Project
+Promoting student peer review in Australian tertiary education
+Personal sensing for mental health and wellbeing
+Pholiota Unlocked
+Reading on ubiquitous devices
+Smart Garden Watering
+Smartphones for science
+Social gaming events: Warhammer 40K
+Social networking sites for ambivalent socialisers
+Social play in immersive gaming environments
+Social robots and virtual assistants for older people
+Sociophysical interactions
+Social Orientated Requirements Engineering
+Spectating eSports and Let’s Play
+SpinalLog
+Supporting social interactions for video calls in the home
+Teleconsultation: enhancing interactions between clinicians and patients
+Virtual co-presence
+Virtual Reality and climate change communication
+VR therapy for youth mental health
+Robot Assisted Learning and Rehabilitation
+XR for Human-Robot Interaction
+Social and Domestic Drones 
+Human-Centred Agent Learning
+Child of Now
+ #thismymob
+Publications
+Research
+Smart Spaces
+Ubiquitous computing
+Digital health
+Digital nature
+Novel interactions
+Design for ageing
+Games and play
+Social computing and communities
+Human information interaction
+Human-Robot Interaction
+Seminars
+Past seminars 2020
+Past seminars 2019
+Past seminars 2016–2018
+Past seminars 2011–2015
+Past seminars 2006–2010
+Past seminars 2004–2005
+Study
+HCI programs for potential students
+HCI subjects
+Masters projects
+Potential PhD students
+Information systems
+Process science and technology
+Business analytics and decision making
+Cybersecurity management
+Digital health
+Innovations in the digital society
+Publications
+Contact us
+Current Students
+Library
+Staff
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================================================
+
