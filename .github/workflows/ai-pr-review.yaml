@@ -14,7 +14,7 @@ jobs:
     name: ChatGPT Code Review
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: agogear/chatgpt-pr-review@0.0.11
         with:
           openai_api_key: ${{ secrets.OPENAI_API_KEY }}
