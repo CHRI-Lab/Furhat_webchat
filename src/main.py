@@ -1,2 +1,3 @@
 # To be developed
-print("This is a small change for QA-Koala project")
+print("Welcome to Koala")
+print("What would you like to do?")
