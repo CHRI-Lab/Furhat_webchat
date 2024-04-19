@@ -1,0 +1,11 @@
+qa_example_generator: use LLM to generate a couple of question-answer pairs as ground truth examples to test the performance of different RAG.
+
+dataloader: load the web data by given URL, only load all links in that URL, only load html text data
+
+different RAGs: vectorstore_retriever, multiquery, context_compression, parent_document
+
+environment: contains URL and key
+
+answer_generator: 1. get the final answer from LLM 2. convert the query to support conversation
+
+evaluator: different metrics provided by ragas to evaluta the performance
