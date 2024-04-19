@@ -1,22 +1,14 @@
-name: Comprehensive Code Review
+name: pr-review
 on:
   pull_request:
-    types: [opened, synchronize, reopened]
-  push:
-    branches:
-      - 'develop'
-      - 'features/**'
-  pull_request_review_comment:
-    types: [created, edited, deleted]
-
+    types: [opened, synchronize]
 jobs:
   review:
-    name: ChatGPT Code Review
+    name: ChatGPT code review
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
       - uses: agogear/chatgpt-pr-review@0.0.11
         with:
           openai_api_key: ${{ secrets.OPENAI_API_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_pr_id: ${{ github.event.pull_request.number }}
+          github_pr_id: ${{ github.event.number }}
