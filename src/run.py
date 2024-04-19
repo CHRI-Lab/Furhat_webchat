@@ -60,4 +60,3 @@ furhat.attend(location="0.0,0.2,1.0")
 
 # Set the LED lights
 furhat.set_led(red=200, green=50, blue=50)
-print("testing for gpt code review")
