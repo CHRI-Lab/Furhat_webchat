@@ -1,4 +1,3 @@
-#---Please ignore this, we will figure it out later---#
 
 from furhat_remote_api import FurhatRemoteAPI
 

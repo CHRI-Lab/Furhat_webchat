@@ -27,7 +27,7 @@ def get_parent_retriever(docs, parent_document_size, child_document_size):
     )
 
     retriever.add_documents(docs)
-    return vectorstore
+    return retriever
 
 def get_context(retriever, question):
     docs = retriever.get_relevant_documents(question)
