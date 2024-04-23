@@ -4,7 +4,7 @@ import gradio as gr
 from src.chatbot import WebChatbot
 
 
-def slow_echo(message, history):
+def slow_echo(message):
     answer = chatbot.invoke(question=message)
     for i in range(len(answer)):
         time.sleep(0.01)

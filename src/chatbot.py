@@ -1,5 +1,4 @@
 import os
-
 from langchain.retrievers import MultiQueryRetriever
 from langchain_openai import ChatOpenAI
 from langchain_community.document_loaders import WebBaseLoader
@@ -9,8 +8,6 @@ from langchain_openai import OpenAIEmbeddings
 import openai
 from langchain_core.messages import HumanMessage
 from langchain.docstore.document import Document
-
-
 from src.rag_methods.multiquery import get_multiquery_retriever
 from src.rag_methods.parent_document import get_parent_retriever
 from src.url_to_text import url_to_text

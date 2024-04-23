@@ -16,7 +16,7 @@ import src.prompt.prompt_config as prompt_config
 
 class RAG_chain:
     def __init__(self):
-        load_dotenv(find_dotenv())  # Load the local .env file. This is where the openai-API key is stored.
+        load_dotenv(find_dotenv())  # Will load the local .env file. This is where the openai-API key is stored. 
         self.llm = ChatOpenAI(model="gpt-3.5-turbo-0125")
         self.retriever=None
         self.chat_history = []
