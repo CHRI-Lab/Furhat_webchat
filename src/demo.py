@@ -15,3 +15,4 @@ demo = gr.ChatInterface(slow_echo).queue()
 if __name__ == "__main__":
     chatbot = WebChatbot(url='https://melbconnect.com.au/')
     demo.launch()
+

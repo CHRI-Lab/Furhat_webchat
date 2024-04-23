@@ -10,10 +10,11 @@ import openai
 from langchain_core.messages import HumanMessage
 from langchain.docstore.document import Document
 
-from src.prompt.prompt_config import SYSTEM_TEMPLATE
+
 from src.rag_methods.multiquery import get_multiquery_retriever
 from src.rag_methods.parent_document import get_parent_retriever
 from src.url_to_text import url_to_text
+from src.RagFramework import RAG_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from typing import Dict
@@ -21,11 +22,8 @@ from langchain_core.runnables import RunnablePassthrough
 
 key = os.getenv('OPENAI_API_KEY')
 openai.api_key = key
-os.environ["OPENAI_API_KEY"] = openai.api_key
-# Before we get key from client, we could use our own key and use 3.5 for testing.
-chat = ChatOpenAI(model="gpt-3.5-turbo-1106", temperature=0.1)
-url = 'https://melbconnect.com.au/'
-question = "Tell me about the latest news"
+os.environ["OPENAI_API_KEY"] = key
+
 # Loader
 # loader = WebBaseLoader("https://melbconnect.com.au/about")
 # data = loader.load()
@@ -58,116 +56,46 @@ def multi_query_search(data):
     unique_docs = multi_query_retriever.get_relevant_documents(query=question)
     return unique_docs, multi_query_retriever
 
-def parse_retriever_input(params: Dict):
-    return params["messages"][-1].content
+# def parse_retriever_input(params: Dict):
+#     return params["messages"][-1].content
 
-def format_docs(docs):
-    res = "\n\n".join(doc.page_content for doc in docs)
-    return res
+# def format_docs(docs):
+#     res = "\n\n".join(doc.page_content for doc in docs)
+#     return res
 
-def get_chatbot_answer(question):
-    # MAIN API FUNCTION for front end or chatbot
-    text = url_to_text(url=url)
-    data = [Document(page_content=text)]
-    # Can change different rag method.
-    docs, retriever = parent_splitter_search(data, question=question)
-
-    question_answering_prompt = ChatPromptTemplate.from_messages(
-        [
-            (
-                "system",
-                SYSTEM_TEMPLATE,
-            ),
-            MessagesPlaceholder(variable_name="messages"),
-        ]
-    )
-
-    document_chain = create_stuff_documents_chain(chat, question_answering_prompt)
-
-    retrieval_chain = RunnablePassthrough.assign(
-        context=parse_retriever_input | retriever,
-    ).assign(
-        answer=document_chain,
-    )
-
-    ans = retrieval_chain.invoke(
-        {
-            "messages": [
-                HumanMessage(content=question)
-            ],
-        }
-    )
-    return ans['answer']
 
 class WebChatbot():
-    def __init__(self, url, rag_method=None):
-        self.url = url
-        self.rag_method = rag_method
+    def __init__(self, url, rag_model=RAG_chain()):
+        self.rag_model = rag_model
+        # Before we get key from client, we could use our own key and use 3.5 for testing.
+        self.rag_model.llm=ChatOpenAI(model="gpt-3.5-turbo-1106", temperature=0.1)
 
-        # Initialize web_info base vector store.
+        # get the text from the url
         text = url_to_text(url=url)
-        data = [Document(page_content=text)]
-        docs, retriever = parent_splitter_search(data, question=question)
-
-        question_answering_prompt = ChatPromptTemplate.from_messages(
-            [
-                (
-                    "system",
-                    SYSTEM_TEMPLATE,
-                ),
-                MessagesPlaceholder(variable_name="messages"),
-            ]
-        )
-
-        document_chain = create_stuff_documents_chain(chat, question_answering_prompt)
-
-        self.retrieval_chain = RunnablePassthrough.assign(
-            context=parse_retriever_input | retriever,
-        ).assign(
-            answer=document_chain,
-        )
+        self.data = [Document(page_content=text)]
+        
 
     def invoke(self, question):
-        ans = self.retrieval_chain.invoke(
-            {
-                "messages": [
-                    HumanMessage(content=question)
-                ],
-            }
-        )
-        return ans['answer']
-
+        docs, retriever = parent_splitter_search(self.data, question=question)
+        # print(docs)
+        self.rag_model.retriever=retriever
+        result= self.rag_model.get_answer(question)
+        return result
 
 
 
 if __name__ == '__main__':
+    chat = ChatOpenAI(model="gpt-3.5-turbo-1106", temperature=0.1)
+    url = 'https://melbconnect.com.au/'
+    question = "Tell me about the latest news"
     text = url_to_text(url=url)
     data = [Document(page_content=text)]
     docs, retriever = parent_splitter_search()
+    rag_model = RAG_chain()
+    rag_model.retriever=retriever
+    result= rag_model.get_answer(question)
+    # print(result)
 
-    question_answering_prompt = ChatPromptTemplate.from_messages(
-        [
-            (
-                "system",
-                SYSTEM_TEMPLATE,
-            ),
-            MessagesPlaceholder(variable_name="messages"),
-        ]
-    )
 
-    document_chain = create_stuff_documents_chain(chat, question_answering_prompt)
 
-    retrieval_chain = RunnablePassthrough.assign(
-        context=parse_retriever_input | retriever,
-    ).assign(
-        answer=document_chain,
-    )
-
-    ans = retrieval_chain.invoke(
-        {
-            "messages": [
-                HumanMessage(content=question)
-            ],
-        }
-    )
-    print(ans["answer"])
+    

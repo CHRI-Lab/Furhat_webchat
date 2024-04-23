@@ -12,10 +12,11 @@ from langchain.chains import create_history_aware_retriever
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain import hub
 import requests
+import src.prompt.prompt_config as prompt_config
 
 class RAG_chain:
     def __init__(self):
-        load_dotenv(find_dotenv())  # Load the .env file. This is where the openai-API key is stored.
+        load_dotenv(find_dotenv())  # Load the local .env file. This is where the openai-API key is stored.
         self.llm = ChatOpenAI(model="gpt-3.5-turbo-0125")
         self.retriever=None
         self.chat_history = []
@@ -30,13 +31,9 @@ class RAG_chain:
         self.retriever = vectorstore.as_retriever()
     
     def historical_messages_chain(self):
-        contextualize_q_system_prompt = """Given a chat history and the latest user question \
-        which might reference context in the chat history, formulate a standalone question \
-        which can be understood without the chat history. Do NOT answer the question, \
-        just reformulate it if needed and otherwise return it as is."""
         contextualize_q_prompt = ChatPromptTemplate.from_messages(
             [
-                ("system", contextualize_q_system_prompt),
+                ("system", prompt_config.contextualize_q_system_prompt),
                 MessagesPlaceholder("chat_history"),
                 ("human", "{input}"),
             ]
@@ -46,16 +43,12 @@ class RAG_chain:
         ) 
 
     def full_qa_chain(self):
-        qa_system_prompt = """You are an assistant for question-answering tasks. \
-        Use the following pieces of retrieved context to answer the question. \
-        If you don't know the answer, just say that you don't know. \
-        Use three sentences maximum and keep the answer concise.\
-        {context}"""
+
 
         # prompt = hub.pull("rlm/rag-prompt")
         qa_prompt = ChatPromptTemplate.from_messages(
             [
-                ("system", qa_system_prompt),
+                ("system", prompt_config.qa_system_prompt),
                 MessagesPlaceholder("chat_history"),
                 ("human", "{input}"),
             ]
