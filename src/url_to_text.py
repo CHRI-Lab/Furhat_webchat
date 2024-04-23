@@ -35,10 +35,14 @@ def url_to_text(url):
 
     driver.quit()
     return format_text(text_content)
+
+
 def format_text(text):
-    # 使用正则表达式找到所有连续超过两个的换行符，并替换为两个换行符
+    # Replace all occurrences of two or more consecutive tab characters with a single tab
     text = re.sub(r'\t{2,}', '\t', text)
+    # Replace all occurrences of three or more consecutive newline characters with exactly two newlines
     text = re.sub(r'\n{3,}', '\n\n', text)
+    # Return the formatted text
     return text
 
 if __name__ == '__main__':

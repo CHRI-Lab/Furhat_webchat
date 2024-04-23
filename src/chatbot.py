@@ -33,7 +33,7 @@ question = "Tell me about the latest news"
 # TODO: Choose the best split method and the best chunk_size
 
 # 1.Basic Spliter
-def basic_spliter_search():
+def basic_spliter_search(data, question):
     # Split the text into chunks
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=300)
     all_splits = text_splitter.split_documents(data)
@@ -44,13 +44,13 @@ def basic_spliter_search():
     docs = retriever.invoke(question)
     return docs, retriever
 #2.Parent Spliter
-def parent_splitter_search():
+def parent_splitter_search(data, question):
     parent_retriever = get_parent_retriever(docs=data, parent_document_size=2000, child_document_size=300)
     #retriever = parent_retriever.as_retriever(k=3)
     docs = parent_retriever.invoke(question)
     return docs, parent_retriever
 #3.Multi_query_search
-def multi_query_search():
+def multi_query_search(data):
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=300)
     all_splits = text_splitter.split_documents(data)
     vector_store = Chroma.from_documents(documents=all_splits, embedding=OpenAIEmbeddings())
@@ -65,10 +65,12 @@ def format_docs(docs):
     res = "\n\n".join(doc.page_content for doc in docs)
     return res
 
-def get_answer(question):
+def get_chatbot_answer(question):
+    # MAIN API FUNCTION for front end or chatbot
     text = url_to_text(url=url)
     data = [Document(page_content=text)]
-    docs, retriever = parent_splitter_search()
+    # Can change different rag method.
+    docs, retriever = parent_splitter_search(data, question=question)
 
     question_answering_prompt = ChatPromptTemplate.from_messages(
         [
@@ -96,6 +98,47 @@ def get_answer(question):
         }
     )
     return ans['answer']
+
+class WebChatbot():
+    def __init__(self, url, rag_method=None):
+        self.url = url
+        self.rag_method = rag_method
+
+        # Initialize web_info base vector store.
+        text = url_to_text(url=url)
+        data = [Document(page_content=text)]
+        docs, retriever = parent_splitter_search(data, question=question)
+
+        question_answering_prompt = ChatPromptTemplate.from_messages(
+            [
+                (
+                    "system",
+                    SYSTEM_TEMPLATE,
+                ),
+                MessagesPlaceholder(variable_name="messages"),
+            ]
+        )
+
+        document_chain = create_stuff_documents_chain(chat, question_answering_prompt)
+
+        self.retrieval_chain = RunnablePassthrough.assign(
+            context=parse_retriever_input | retriever,
+        ).assign(
+            answer=document_chain,
+        )
+
+    def invoke(self, question):
+        ans = self.retrieval_chain.invoke(
+            {
+                "messages": [
+                    HumanMessage(content=question)
+                ],
+            }
+        )
+        return ans['answer']
+
+
+
 
 if __name__ == '__main__':
     text = url_to_text(url=url)
