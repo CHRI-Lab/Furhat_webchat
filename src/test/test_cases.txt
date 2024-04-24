@@ -27,4 +27,3 @@ Answer: 'Kath Dolan writes regularly for design media including Green magazine a
 
 10. Question: 'What is the focus of Melbourne Climate Futures?'
 Answer: 'Melbourne Climate Futures focuses on connecting and amplifying the depth and breadth of The University of Melbourne research, creating a portal to share ideas and collaborate on real action, and empowering the next generation of climate activists.'
-
