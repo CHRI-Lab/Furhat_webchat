@@ -100,9 +100,11 @@ def get_chatbot_answer(question):
     return ans['answer']
 
 class WebChatbot():
-    def __init__(self, url, rag_method=None):
+    # Init the chatbot with a url-base vector store. This could make the qa more efficient.
+    def __init__(self, url, model_name='gpt-4-turbo',rag_method=None):
         self.url = url
         self.rag_method = rag_method
+        self.chatbot = ChatOpenAI(model=model_name, temperature=0.1)
 
         # Initialize web_info base vector store.
         text = url_to_text(url=url)
@@ -119,7 +121,7 @@ class WebChatbot():
             ]
         )
 
-        document_chain = create_stuff_documents_chain(chat, question_answering_prompt)
+        document_chain = create_stuff_documents_chain(self.chatbot, question_answering_prompt)
 
         self.retrieval_chain = RunnablePassthrough.assign(
             context=parse_retriever_input | retriever,
@@ -136,9 +138,6 @@ class WebChatbot():
             }
         )
         return ans['answer']
-
-
-
 
 if __name__ == '__main__':
     text = url_to_text(url=url)

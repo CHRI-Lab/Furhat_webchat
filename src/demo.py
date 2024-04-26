@@ -1,6 +1,5 @@
 import time
 import gradio as gr
-
 from src.chatbot import WebChatbot
 
 
