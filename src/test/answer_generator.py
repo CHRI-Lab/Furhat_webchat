@@ -7,7 +7,7 @@ from langchain_core.messages import AIMessage, HumanMessage
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnableBranch
 
-# no conversation support
+# get answer from LLM, no conversation support
 def get_answer(chat, question, context):
 
 
@@ -46,6 +46,8 @@ def get_answer(chat, question, context):
 
     return results
 
+
+# convert the query for the retriever, which means adding previous conversation contents
 def get_converted_question(chat, previous_conversations, question):
 
     messages = []
@@ -75,7 +77,7 @@ def get_converted_question(chat, previous_conversations, question):
 
     return converted_question.content
 
-
+# get answer from LLM based on previous conversation contents
 def get_answer_for_conversation(chat, retriever, previous_conversations, question):
 
     query_transform_prompt = ChatPromptTemplate.from_messages(
@@ -139,15 +141,3 @@ def get_answer_for_conversation(chat, retriever, previous_conversations, questio
     )
 
     return results['answer']
-
-    # conversational_retrieval_chain.invoke(
-    #     {
-    #         "messages": [
-    #             HumanMessage(content="Can LangSmith help test my LLM applications?"),
-    #             AIMessage(
-    #                 content="Yes, LangSmith can help test and evaluate your LLM applications. It allows you to quickly edit examples and add them to datasets to expand the surface area of your evaluation sets or to fine-tune a model for improved quality or reduced costs. Additionally, LangSmith can be used to monitor your application, log all traces, visualize latency and token usage statistics, and troubleshoot specific issues as they arise."
-    #             ),
-    #             HumanMessage(content="Tell me more!"),
-    #         ],
-    #     }
-    # )

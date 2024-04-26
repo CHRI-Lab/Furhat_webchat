@@ -1,6 +1,7 @@
 import re
 
 from bs4 import BeautifulSoup
+from langchain_core.documents import Document
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
@@ -34,7 +35,8 @@ def url_to_text(url):
             text_content += dynamic_divs[i].text
 
     driver.quit()
-    return format_text(text_content)
+    data = [Document(page_content=format_text(text_content))]
+    return data
 
 
 def format_text(text):

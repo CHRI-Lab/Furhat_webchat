@@ -10,6 +10,7 @@ from langchain_community.document_transformers import EmbeddingsRedundantFilter
 from langchain_text_splitters import CharacterTextSplitter
 from langchain.retrievers.document_compressors import EmbeddingsFilter
 
+# different compression methods can be used
 
 def get_retriever(vectorstore):
 

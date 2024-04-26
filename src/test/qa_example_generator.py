@@ -73,4 +73,82 @@ def get_examples(all_splits, n):
 
     return questions, answers
 
-# get_examples(url)
+
+from langchain.output_parsers.openai_functions import JsonKeyOutputFunctionsParser
+
+# known problems: key errors cause by llm not returning data according to the given format
+# randomly choosing splits may not be good to generate a reasonable question since the real qeustion may need splits which are semantically connected
+def generate_examples(all_splits, n):
+
+    functions = [
+        {
+            "name": "hypothetical_questions",
+            "description": "Generate hypothetical questions and answers",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "questions": {
+                        "type": "array",
+                        "items": {"type": "string"},
+                    },
+                    "answers": {
+                        "type": "array",
+                        "items": {"type": "string"},
+                    },
+                },
+                "required": ["questions", "answers"],
+            },
+        }
+    ]
+
+    chain = (
+        {"doc": lambda x: " ".join([doc.page_content for doc in x])}
+        # Only asking for 3 hypothetical questions, but this could be adjusted
+        | ChatPromptTemplate.from_template(
+            f"Generate a list of exactly {n} hypothetical questions that the below document could be used to answer" + " and answer them:\n\n{doc}" +
+            """
+            Make sure each question is relevant to the answer of the previous question.
+            You could follow the following example:
+            ### Example
+            1. Question: Hi, I would like to know how many libraries does the university have?
+            Answer: There are total 13 libraries in the university.
+            2. Question: Ok, then which of them is the closet one to me?
+            Answer: It depends on your current location, if you are in Carlton, it will be Brownless Biomedical Library.
+            3. Question: Thanks, so about Brownless Biomedical Library, what is opening hours of it?
+            Answer: It's 9am-8pm on work day.
+            """
+            
+        )
+        | chat.bind(
+            functions=functions, function_call={"name": "hypothetical_questions"}
+        )
+    )
+# f"Generate a conversation content which has exactly {n} hypothetical questions and answers" + " based on the below document:\n\n{doc}"
+
+    question_parser = JsonKeyOutputFunctionsParser(key_name="questions")
+    answer_parser = JsonKeyOutputFunctionsParser(key_name="answers")
+
+    chosen_splits = list(range(len(all_splits)))
+    np.random.shuffle(chosen_splits)
+    chosen_splits = chosen_splits[:np.random.randint(6, 10)]
+
+    # results = chain.batch([all_splits[i] for i in chosen_splits], {"max_concurrency": 5})
+    results = chain.invoke([all_splits[i] for i in chosen_splits])
+    hypothetical_questions = question_parser.invoke(results)
+    hypothetical_answers = answer_parser.invoke(results)
+
+    return hypothetical_questions, hypothetical_answers
+
+
+import dataloader
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from src.url_to_text import url_to_text
+from langchain.docstore.document import Document
+data = [Document(page_content=url_to_text(url))]
+
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=0)
+all_splits = text_splitter.split_documents(data)
+
+hypothetical_questions, hypothetical_answers = generate_examples(all_splits, 4)
+print(hypothetical_questions)
+print(hypothetical_answers)

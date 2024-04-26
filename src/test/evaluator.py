@@ -32,17 +32,20 @@ def evaluate_retriever(questions, ground_truth, retriever, get_context, conversa
     data = {"question":questions, "contexts": contexts, "answer": answers, "ground_truth": ground_truth}
     dataset = Dataset.from_dict(data)
     results = evaluate(dataset, metrics=[answer_relevancy, answer_correctness, context_precision, context_recall, answer_similarity])
-    print(results)
+    # print(results)
+
+
 
 import qa_example_generator
 import dataloader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAIEmbeddings
-import vectorstore_retriever
-import multiquery
-import context_compression
-import parent_document
+import vectorstore_retriever as vr
+import multiquery as mq
+import context_compression as ct
+import parent_document as pd
+import multivector as mv
 
 
 data = dataloader.get_data(url)
@@ -58,8 +61,17 @@ vectorstore = Chroma.from_documents(documents=all_splits, embedding=OpenAIEmbedd
 #     question, answer = qa_example_generator.get_examples(all_splits, 5)
 #     questions += question
 #     ground_truth += answer
-questions, ground_truth = qa_example_generator.get_examples(all_splits, 4)
-evaluate_retriever(questions, ground_truth, vectorstore_retriever.get_retriever(vectorstore),  vectorstore_retriever.get_context, True)
-evaluate_retriever(questions, ground_truth, multiquery.get_retriever(vectorstore), multiquery.get_context, True)
-evaluate_retriever(questions, ground_truth, context_compression.get_retriever(vectorstore), context_compression.get_context, True)
-evaluate_retriever(questions, ground_truth, parent_document.get_retriever(data, 500, 300), parent_document.get_context, True)
+questions, ground_truth = qa_example_generator.generate_examples(all_splits, 4)
+retrievers = [vr.get_retriever(vectorstore), mq.get_retriever(vectorstore), ct.get_retriever(vectorstore), pd.get_retriever(data, 500, 300), mv.get_summary_retriever(all_splits), mv.get_hypothetical_retriever(all_splits)]
+get_contexts = [vr.get_context, mq.get_context, ct.get_context, pd.get_context, mv.get_context, mv.get_context]
+results = []
+for i in range(6):
+    results.append(evaluate_retriever(questions, ground_truth, retrievers[i],  get_contexts[i], True))
+print(results)
+
+# evaluate_retriever(questions, ground_truth, vectorstore_retriever.get_retriever(vectorstore),  vectorstore_retriever.get_context, True)
+# evaluate_retriever(questions, ground_truth, multiquery.get_retriever(vectorstore), multiquery.get_context, True)
+# evaluate_retriever(questions, ground_truth, context_compression.get_retriever(vectorstore), context_compression.get_context, True)
+# evaluate_retriever(questions, ground_truth, parent_document.get_retriever(data, 500, 300), parent_document.get_context, True)
+# evaluate_retriever(questions, ground_truth, multivector.get_summary_retriever(all_splits), multivector.get_context, True)
+# evaluate_retriever(questions, ground_truth, multivector.get_hypothetical_retriever(all_splits), multivector.get_context, True)

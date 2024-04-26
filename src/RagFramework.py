@@ -12,10 +12,13 @@ from langchain.chains import create_history_aware_retriever
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain import hub
 import requests
+import src.prompt.prompt_config as prompt_config
+from src.url_to_text import url_to_text
+
 
 class RAG_chain:
     def __init__(self):
-        load_dotenv(find_dotenv())  # Load the .env file. This is where the openai-API key is stored.
+        load_dotenv(find_dotenv())  # Will load the local .env file. This is where the openai-API key is stored. 
         self.llm = ChatOpenAI(model="gpt-3.5-turbo-0125")
         self.retriever=None
         self.chat_history = []
@@ -30,13 +33,9 @@ class RAG_chain:
         self.retriever = vectorstore.as_retriever()
     
     def historical_messages_chain(self):
-        contextualize_q_system_prompt = """Given a chat history and the latest user question \
-        which might reference context in the chat history, formulate a standalone question \
-        which can be understood without the chat history. Do NOT answer the question, \
-        just reformulate it if needed and otherwise return it as is."""
         contextualize_q_prompt = ChatPromptTemplate.from_messages(
             [
-                ("system", contextualize_q_system_prompt),
+                ("system", prompt_config.contextualize_q_system_prompt),
                 MessagesPlaceholder("chat_history"),
                 ("human", "{input}"),
             ]
@@ -46,16 +45,10 @@ class RAG_chain:
         ) 
 
     def full_qa_chain(self):
-        qa_system_prompt = """You are an assistant for question-answering tasks. \
-        Use the following pieces of retrieved context to answer the question. \
-        If you don't know the answer, just say that you don't know. \
-        Use three sentences maximum and keep the answer concise.\
-        {context}"""
-
         # prompt = hub.pull("rlm/rag-prompt")
         qa_prompt = ChatPromptTemplate.from_messages(
             [
-                ("system", qa_system_prompt),
+                ("system", prompt_config.qa_system_prompt),
                 MessagesPlaceholder("chat_history"),
                 ("human", "{input}"),
             ]
@@ -64,19 +57,13 @@ class RAG_chain:
         self.rag_chain = create_retrieval_chain(self.history_aware_retriever, question_answer_chain) # Combine the two chains
 
     
-    def get_answer(self,question):
+    def get_answer(self, question):
         self.historical_messages_chain() # Create the chain for historical messages
         self.full_qa_chain()  # Create the chain for full question and answer
-        result=self.rag_chain.invoke({"input": question, "chat_history": self.chat_history})
+        result = self.rag_chain.invoke({"input": question, "chat_history": self.chat_history})
         self.chat_history.extend([HumanMessage(content=question), result["answer"]])
         return result["answer"]
         
-
-def parse_data(url):
-    loader = WebBaseLoader(url)
-    docs = loader.load()
-    return docs
-
 def request_website(url):
     try:
         response = requests.get(url)
@@ -84,6 +71,11 @@ def request_website(url):
         return response.text
     except requests.RequestException as e:
         return None
+
+def parse_data(url):
+    loader = WebBaseLoader(url)
+    docs = loader.load()
+    return docs
 
 # The WebBaseLoader() only accepts the URL that starts with http
 def validate_url(url):
@@ -99,10 +91,11 @@ def main():
         url=input('Input the URL you want to search:')
         if validate_url(url):
             url_response=request_website(url)
+            print('Valid URL found')
         else:
             print('URL should start with http or https')
     else:
-        docs=parse_data(url)
+        docs = url_to_text(url)
         rag_model=RAG_chain()
         rag_model.retrieve_data(docs)
         while True:
