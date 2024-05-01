@@ -12,6 +12,8 @@
   * [Goals](#goals)
   * [Scope](#scope)
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=TUybeMc36Tc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Project Overview
 
 This project aims to create an innovative Q&A platform using a Furhat robot, driven by the need for a specialized and interactive information resource. The platform leverages web scraping and advanced language processing to build a robot that acts as a dynamic and intelligent receptionist.
