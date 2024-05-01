@@ -1,0 +1,37 @@
+{
+  "case1": {
+    "User Story": "As a user interested in services offered at Melbourne Connect, I want the robot to provide detailed information from websites of Melbourne Connect, so that I can clearly understand the overview of Melbourne Connect without navigating through those websites.",
+    "Input Url": "https://melbconnect.com.au/",
+    "Questions": ["Tell me about melbourne connect.", "Tell me about Upcoming Events."]
+  },
+
+  "case2": {
+    "User Story": "As a user, I want the chatbot to automatically extract and summarize the main content of a website I provide, so that I can quickly grasp what the website is about without reading all the content.",
+    "Input Url": "https://melbconnect.com.au/",
+    "Questions": ["Summarize the main content in the provided website"]
+  },
+
+  "case3": {
+    "User Story": "As a user looking for entertainment or news, I want the chatbot to recommend and summarize articles, blog posts, stories, or provide me with the latest headlines based on my interests, so that I can easily find engaging or informative content.",
+    "Input Url": "https://edition.cnn.com/entertainment",
+    "Questions": ["Randomly select a news article from the given website and summarize it for me.", "Great, then tell me about Zendaya's news"]
+  },
+
+  "case4": {
+    "User Story": "As a job seeker, I want the chatbot to compile job listings from various websites, so that I can find opportunities that match my skills and preferences more easily.",
+    "Input Url": "https://www.linkedin.com/jobs/student-software-engineer-jobs/?currentJobId=3825491461&originalSubdomain=au",
+    "Questions": ["List all the internships for me.", "I want to be a frontend developer, which job in the given website fits me most?"]
+  },
+
+  "case5": {
+    "User Story": "As a user doing research, I want to ask the chatbot specific questions about content found on academic or scientific websites, so that I can gather information efficiently for my studies or work.",
+    "Input Url": "https://scholar.google.com.au/scholar?hl=en&as_sdt=0%2C5&q=Large+Language+model&btnG=",
+    "Questions": ["Tell me about the most influential work in the website."]
+  },
+
+  "case6": {
+    "User Story": "As a user, I want the robot to avoid answering questions that are unrelated to website navigation content or involve sensitive information, and to inform me when my queries are outside the scope of available information, to maintain professionalism and set clear expectations.",
+    "Input Url": "https://melbconnect.com.au/",
+    "Questions": ["Tell me about the manager team in melbourne connect"]
+  }
+}
