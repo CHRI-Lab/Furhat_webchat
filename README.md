@@ -12,7 +12,7 @@
   * [Goals](#goals)
   * [Scope](#scope)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=TUybeMc36Tc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Click here to watch Demo Video](https://www.youtube.com/watch?v=TUybeMc36Tc)
 
 # Project Overview
 
