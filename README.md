@@ -12,7 +12,7 @@
   * [Goals](#goals)
   * [Scope](#scope)
 
-<video width="560" height="315" src="https://www.youtube.com/watch?v=TUybeMc36Tc" controls="controls"  autoplay="autoplay"></video>
+[Click here to watch Demo Video](https://www.youtube.com/watch?v=TUybeMc36Tc)
 
 # Project Overview
 
