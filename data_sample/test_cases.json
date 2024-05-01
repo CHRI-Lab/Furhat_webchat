@@ -1,0 +1,52 @@
+{
+    "case1": {
+        "Input Url":"https://melbconnect.com.au/",
+        "Question": "What is the purpose of Melbourne Connect?",
+        "Answer": "Melbourne Connect serves as a purpose-built innovation precinct located at the heart of the Melbourne Biomedical precinct."
+    },
+    "case2": {
+        "Input Url":"https://melbconnect.com.au/",
+        "Question": "What type of events can be hosted at Melbourne Connect?",
+        "Answer": "Events such as meetings, conferences, receptions, workshops, seminars, and exhibitions can be hosted at Melbourne Connect."
+    },
+    "case3": {
+        "Input Url":"https://melbconnect.com.au/",
+        "Question": "What is the date and time of the Spotlight 2024 event?",
+        "Answer": "The Spotlight 2024 event is on 9 May 2024 from 5:30PM to 8:00PM."
+    },
+    "case4": {
+        "Input Url":"https://melbconnect.com.au/",
+        "Question": "How many events are there in the Wattle Fellowship Spotlight 2024?",
+        "Answer": "There are three events in the Wattle Fellowship Spotlight 2024."
+    },
+    "case5": {
+        "Input Url":"https://melbconnect.com.au/",
+        "Question": "What kind of products does ATOMOS design?",
+        "Answer": "ATOMOS designs pioneering products for digital film and video content creation, including hardware devices, software tools, and intelligent cloud services."
+    },
+    "case6": {
+        "Input Url":"https://melbconnect.com.au/",
+        "Question": "What are the accomplishments of Atomos World View in the stratospheric ballooning industry?",
+        "Answer": "Atomos World View has a demonstrated record of accomplishments in the stratospheric ballooning industry with more than 120 completed stratospheric flight operations, including flights with 4,700kg and 10,000kg payloads. World View is a vetted and trusted stratospheric operator."
+    },
+    "case7": {
+        "Input Url":"https://melbconnect.com.au/",
+        "Question": "What is the purpose of the Wattle Fellowship's Spotlight 2024 event?",
+        "Answer": "Spotlight 2024 is the last of three events that showcase the learnings, development, and impact of students involved in the Wattle Fellowship program."
+    },
+    "case8": {
+        "Input Url":"https://melbconnect.com.au/",
+        "Question": "What is the role of Kath Dolan at ClarkeHopkinsClarke Architects?",
+        "Answer": "Kath Dolan is the Head of Publicity, Events and Partnerships at ClarkeHopkinsClarke Architects, Melbourne Connect’s anchor tenant."
+    },
+    "case9": {
+        "Input Url":"https://melbconnect.com.au/",
+        "Question": "What kind of media does Kath Dolan write for?",
+        "Answer": "Kath Dolan writes regularly for design media including Green magazine and Houses."
+    },
+    "case10": {
+        "Input Url":"https://melbconnect.com.au/",
+        "Question": "What is the focus of Melbourne Climate Futures?",
+        "Answer": "Melbourne Climate Futures focuses on connecting and amplifying the depth and breadth of The University of Melbourne research, creating a portal to share ideas and collaborate on real action, and empowering the next generation of climate activists."
+    }
+}
