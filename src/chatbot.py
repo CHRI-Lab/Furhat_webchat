@@ -25,8 +25,6 @@ os.environ["OPENAI_API_KEY"] = key
 # loader = WebBaseLoader("https://melbconnect.com.au/about")
 # data = loader.load()
 
-# TODO: Choose the best split method and the best chunk_size
-
 # 1.Basic Spliter
 def basic_spliter_search(data, question):
     # Split the text into chunks

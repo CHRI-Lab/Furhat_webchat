@@ -19,7 +19,7 @@ from src.url_to_text import url_to_text
 class RAG_chain:
     def __init__(self):
         load_dotenv(find_dotenv())  # Will load the local .env file. This is where the openai-API key is stored. 
-        self.llm = ChatOpenAI(model="gpt-3.5-turbo-0125")
+        self.llm = ChatOpenAI(model="gpt-4-turbo", verbose=True)
         self.retriever=None
         self.chat_history = []
         self.history_aware_retriever=None
@@ -88,10 +88,11 @@ def validate_url(url):
 def main():
     url_response=None
     while not url_response:
-        url=input('Input the URL you want to search:')
+        url = input('Input the URL you want to search:')
         if validate_url(url):
             url_response=request_website(url)
             print('Valid URL found')
+            print('\nReading the website...')
         else:
             print('URL should start with http or https')
     else:
@@ -99,9 +100,12 @@ def main():
         rag_model=RAG_chain()
         rag_model.retrieve_data(docs)
         while True:
-            question=input('Input the question:')
+            question = input('Input the question:')
             result=rag_model.get_answer(question)
-            print('Answer:',result)
+            sentences = result.split('. ')
+            print('Answer:')
+            for sentence in sentences:
+                print(f"{sentence}\n")
             # if input a new url:
             #     rag_model.chat_history.clear()
             #     # cleanup
