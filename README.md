@@ -1,6 +1,10 @@
 # QA-Furhat
-# Docs
- [Project Overview](Documents/Project%20Overview.pdf) | [Product Requirements](Documents/Product%20requirements.pdf) | [Technical Details](Documents/Technical%20Details.pdf) | [Plan](Documents/Plan%20for%20Sprint%202%20&%203.pdf) 
+## Docs
+ [Project Overview](Documents/Project%20Overview.pdf) | [Product Requirements](Documents/Product%20requirements.pdf) | [Technical Details](Documents/Technical%20Details.pdf) | [Plan](Documents/Sprint%203%20Plan%20Document.pdf) 
+
+## File Guide
+[src](src/README.md) | [tests](tests/README.md) | [data_sample](data_sample/project_test_case.json)
+
 # Table of Contents
 
 - [Project Overview](#project-overview)
@@ -37,6 +41,10 @@ The initiative is driven by the need for a specialized and interactive informati
 - Quality Assurance Lead: Chengjia Zhou
 - Development Environment Lead: Jiyuan Chen
 - Deployment Lead: Peng Tang
+
+## Task Tracking
+
+To enhance the readability and convenience of task tracking, we use Trello for task assignment and synchronize its content with Jira to improve the readability of sprint reviews. You can find our Jira issues through the Confluence document. You can access our [Trello Board](https://trello.com/b/nKf5DVec/furhat-project) through the following link.
 
 ## Client Goals
 

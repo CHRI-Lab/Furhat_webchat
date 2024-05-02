@@ -12,6 +12,6 @@ def slow_echo(message,history):
 demo = gr.ChatInterface(slow_echo).queue()
 
 if __name__ == "__main__":
-    chatbot = WebChatbot(url='https://www.news.com.au/entertainment')
+    chatbot = WebChatbot(url='https://melbconnect.com.au/')
     demo.launch()
 
