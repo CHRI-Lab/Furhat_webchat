@@ -51,7 +51,7 @@ def get_image_urls(url):
 
     driver.quit()
     return image_urls
-
-# Call the function and print the results
-image_urls = get_image_urls('https://cis.unimelb.edu.au/')
-print(image_urls)
+if __name__ == '__main__':
+    # Call the function and print the results
+    image_urls = get_image_urls('https://cis.unimelb.edu.au/')
+    print(image_urls)
