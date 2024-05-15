@@ -60,6 +60,10 @@ Usage:
 python furhat_image_chat_without_voice_input.py --openai_api_key [API KEY] --image_info_path [INFO PATH]
 ```
 
+```bash
+python furhat_image_chat_voice_input.py --openai_api_key [API KEY] --image_info_path [INFO PATH]
+```
+
 ## Usage
 
 Each script is designed to be run independently, provided the necessary parameters are supplied. Ensure the output from one script is correctly utilized as input for subsequent scripts, especially in a deployment environment.
