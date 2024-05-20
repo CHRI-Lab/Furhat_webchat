@@ -2,7 +2,7 @@ from environment import chat, url
 
 from datasets import Dataset
 from ragas import evaluate
-from ragas.metrics import answer_relevancy, answer_correctness, context_precision, context_recall, answer_similarity
+from ragas.metrics import answer_relevancy, faithfulness, context_precision, context_recall
 
 import answer_generator
 
@@ -31,8 +31,8 @@ def evaluate_retriever(questions, ground_truth, retriever, get_context, conversa
 
     data = {"question":questions, "contexts": contexts, "answer": answers, "ground_truth": ground_truth}
     dataset = Dataset.from_dict(data)
-    results = evaluate(dataset, metrics=[answer_relevancy, answer_correctness, context_precision, context_recall, answer_similarity])
-    # print(results)
+    results = evaluate(dataset, metrics=[answer_relevancy, faithfulness, context_precision, context_recall])
+    return results
 
 
 
@@ -48,7 +48,11 @@ import parent_document as pd
 import multivector as mv
 
 
-data = dataloader.get_data(url)
+# data = dataloader.get_data(url)
+
+from src.url_to_text import url_to_text
+data = url_to_text(url)
+print(len(data), len(data[0].page_content))
 
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=0)
 all_splits = text_splitter.split_documents(data)
@@ -61,11 +65,28 @@ vectorstore = Chroma.from_documents(documents=all_splits, embedding=OpenAIEmbedd
 #     question, answer = qa_example_generator.get_examples(all_splits, 5)
 #     questions += question
 #     ground_truth += answer
-questions, ground_truth = qa_example_generator.generate_examples(all_splits, 4)
-retrievers = [vr.get_retriever(vectorstore), mq.get_retriever(vectorstore), ct.get_retriever(vectorstore), pd.get_retriever(data, 500, 300), mv.get_summary_retriever(all_splits), mv.get_hypothetical_retriever(all_splits)]
+
+questions = []
+ground_truth = []
+test_length = 20
+
+while len(questions) < test_length:
+    question = []
+    answer = []
+    try:
+        question, answer = qa_example_generator.generate_examples(all_splits, 4)
+    except:
+        continue
+    if len(question) != len(answer):
+        continue
+    questions += question
+    ground_truth += answer
+
+# questions, ground_truth = qa_example_generator.generate_examples(all_splits, 4)
+retrievers = [vr.get_retriever(vectorstore), mq.get_retriever(vectorstore), ct.get_retriever(vectorstore), pd.get_parent_retriever(data, 500, 300), mv.get_summary_retriever(all_splits), mv.get_hypothetical_retriever(all_splits)]
 get_contexts = [vr.get_context, mq.get_context, ct.get_context, pd.get_context, mv.get_context, mv.get_context]
 results = []
-for i in range(6):
+for i in range(len(retrievers)):
     results.append(evaluate_retriever(questions, ground_truth, retrievers[i],  get_contexts[i], True))
 print(results)
 
