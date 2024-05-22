@@ -8,10 +8,10 @@ from langchain_openai import OpenAIEmbeddings
 import openai
 from langchain_core.messages import HumanMessage
 from langchain.docstore.document import Document
-from src.rag_methods.multiquery import get_multiquery_retriever
-from src.rag_methods.parent_document import get_parent_retriever
-from src.url_to_text import url_to_text
-from src.RagFramework import RAG_chain
+from test.rag_methods.multiquery import get_multiquery_retriever
+from test.rag_methods.parent_document import get_parent_retriever
+from test.url_to_text import url_to_text
+from test.RagFramework import RAG_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from typing import Dict

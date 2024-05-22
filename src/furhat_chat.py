@@ -192,8 +192,8 @@ if __name__ == '__main__':
     load_dotenv(find_dotenv())
     llm = ChatOpenAI(model="gpt-4o",temperature=0)
 
-    url = 'https://melbconnect.com.au/'
-    image_path='src/images'
+    url = 'https://melbconnect.com.au' # website url
+    image_path = 'test/images' #path to save the image extracted, it will automatically created if not exist.
 
     # '''get text from url'''
     text_document = url_to_text(url)
@@ -209,14 +209,19 @@ if __name__ == '__main__':
     # '''load from db'''
     # vectorstore_text = Chroma(collection_name='vectorstore_text',persist_directory="./chroma_db_text", embedding_function=OpenAIEmbeddings())
     # vectorstore_image = Chroma(collection_name='vectorstore_image',persist_directory="./chroma_db_image", embedding_function=OpenCLIPEmbeddings())
-
+    print("Chat started")
     '''chat'''
     chat_history=[]
     while True:
+        user_input = input("Press the space bar to start a conversation (or type 'exit' to quit): ")
+        if user_input.lower() == 'exit':
+            print("Exit chat.")
+            break
+        print("Furhat is listening")
         question = listen_to_user()
         judge_type_result=judge_type(question)
         query=generate_based_history_query(question,chat_history,llm)
-        if judge_type_result=='text chat':
+        if 'text chat'in judge_type_result:
             retriever_text=vectorstore_text.max_marginal_relevance_search(query,k=6)
             result=qa_retrieval(llm,question,retriever_text,chat_history)
             chat_history.extend([HumanMessage(content=question), result])

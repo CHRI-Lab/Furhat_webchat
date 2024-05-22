@@ -176,7 +176,7 @@ if __name__ == '__main__':
     llm = ChatOpenAI(model="gpt-4o",temperature=0)
 
     url = 'https://melbconnect.com.au/'
-    image_path='src/images'
+    image_path= 'test/images'
 
     # '''get text from url'''
     text_document = url_to_text(url)

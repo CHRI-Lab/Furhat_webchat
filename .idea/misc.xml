@@ -3,7 +3,6 @@
   <component name="Black">
     <option name="executionMode" value="BINARY" />
     <option name="pathToExecutable" value="E:\Anaconda\Scripts\black.exe" />
-    <option name="sdkUUID" value="e83d8cc7-56c6-4d17-b1fc-44303b576472" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (Koala)" project-jdk-type="Python SDK" />
 </project>

@@ -12,8 +12,8 @@ from langchain.chains import create_history_aware_retriever
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain import hub
 import requests
-import src.prompt.prompt_config as prompt_config
-from src.url_to_text import url_to_text
+import test.prompt.prompt_config as prompt_config
+from test.url_to_text import url_to_text
 
 
 class RAG_chain:
