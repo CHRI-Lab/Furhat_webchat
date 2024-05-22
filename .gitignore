@@ -1,1 +1,3 @@
 src/.env
+src/chroma_db_image
+src/chroma_db_text

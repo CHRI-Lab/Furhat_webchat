@@ -9,3 +9,5 @@ environment: contains URL and key
 answer_generator: 1. get the final answer from LLM 2. convert the query to support conversation
 
 evaluator: different metrics provided by ragas to evaluta the performance
+
+multi_modal_rag: Generate multimodal images and text

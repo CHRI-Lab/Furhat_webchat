@@ -140,15 +140,15 @@ def generate_examples(all_splits, n):
     return hypothetical_questions, hypothetical_answers
 
 
-import dataloader
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-from src.url_to_text import url_to_text
-from langchain.docstore.document import Document
-data = [Document(page_content=url_to_text(url))]
+# import dataloader
+# from langchain_text_splitters import RecursiveCharacterTextSplitter
+# from src.url_to_text import url_to_text
+# from langchain.docstore.document import Document
+# data = url_to_text(url)
 
-text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=0)
-all_splits = text_splitter.split_documents(data)
+# text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=0)
+# all_splits = text_splitter.split_documents(data)
 
-hypothetical_questions, hypothetical_answers = generate_examples(all_splits, 4)
-print(hypothetical_questions)
-print(hypothetical_answers)
+# hypothetical_questions, hypothetical_answers = generate_examples(all_splits, 4)
+# print(hypothetical_questions)
+# print(hypothetical_answers)

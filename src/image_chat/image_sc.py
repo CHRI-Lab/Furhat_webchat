@@ -1,7 +1,8 @@
 import os
+import shutil
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+from urllib.parse import urlparse, urljoin
 import re
 import argparse
 
@@ -16,9 +17,9 @@ def delete_unwanted_files(directory, valid_extensions=('.jpg', '.jpeg', '.png'))
 
 def setup_arg_parser():
     parser = argparse.ArgumentParser(description="Web scraper for images and text")
-    parser.add_argument("--url", type=str, default="https://melbconnect.com.au/about", help="URL of the website to scrape")
-    parser.add_argument("--text_dir", type=str, default="sc_text", help="Directory to save text")
-    parser.add_argument("--image_dir", type=str, default="sc_images", help="Directory to save images")
+    parser.add_argument("--url", type=str, default="https://melbconnect.com.au/", help="URL of the website to scrape")
+    parser.add_argument("--text_dir", type=str, default="scraped_text", help="Directory to save text")
+    parser.add_argument("--image_dir", type=str, default="scraped_images", help="Directory to save images")
     return parser
 
 if __name__ == "__main__":
@@ -29,10 +30,15 @@ if __name__ == "__main__":
     web_content = response.text
     soup = BeautifulSoup(web_content, 'html.parser')
 
-    os.makedirs(args.text_dir, exist_ok=True)
-    os.makedirs(args.image_dir, exist_ok=True)
+    parsed_url = urlparse(args.url)
+    sanitized_filename = sanitize_filename(parsed_url.netloc + parsed_url.path)  # use url as folder name
+    image_folder_path = os.path.join(args.image_dir, sanitized_filename)
+    os.makedirs(image_folder_path, exist_ok=True)
 
-    with open(os.path.join(args.text_dir, 'saved_text.txt'), 'w', encoding='utf-8') as file:
+    text_folder_path = os.path.join(args.text_dir, sanitized_filename)
+    os.makedirs(text_folder_path, exist_ok=True)
+
+    with open(os.path.join(text_folder_path, 'saved_text.txt'), 'w', encoding='utf-8') as file:
         paragraphs = soup.find_all('p')
         for paragraph in paragraphs:
             file.write(paragraph.text + '\n')
@@ -47,9 +53,9 @@ if __name__ == "__main__":
             response = requests.get(image_url)
             if response.status_code == 200:
                 image_name = sanitize_filename(image_url.split('/')[-1])
-                with open(os.path.join(args.image_dir, image_name), 'wb') as file:
+                with open(os.path.join(image_folder_path, image_name), 'wb') as file:
                     file.write(response.content)
         except Exception as e:
             print(f"Failed to process {image_url}: {str(e)}")
 
-    delete_unwanted_files(args.image_dir)
+    delete_unwanted_files(image_folder_path)

@@ -7,9 +7,9 @@ jobs:
     name: ChatGPT code review
     runs-on: ubuntu-latest
     steps:
-      - uses: agogear/chatgpt-pr-review@0.0.2
+      - uses: agogear/chatgpt-pr-review@0.0.13
         with:
           openai_api_key: ${{ secrets.OPENAI_API_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_pr_id: ${{ github.event.number }}
-          files: 'src/test/*'
+          files: 'src/chat_with_images.py'
