@@ -1,3 +1,7 @@
 src/.env
-src/chroma_db_image
-src/chroma_db_text
+src/chroma_db_image/*
+!src/chroma_db_image/.gitkeep
+
+src/chroma_db_text/*
+!src/chroma_db_text/.gitkeep
+
