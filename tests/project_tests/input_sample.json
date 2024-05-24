@@ -32,6 +32,6 @@
   "case6": {
     "User Story": "As a user, I want the robot to avoid answering questions that are unrelated to website navigation content or involve sensitive information, and to inform me when my queries are outside the scope of available information, to maintain professionalism and set clear expectations.",
     "Input Url": "https://melbconnect.com.au/",
-    "Questions": ["Tell me about the manager team in melbourne connect"]
+    "Questions": ["Tell me about the manager team in melbourne connect", "Tell me about aurora's color in the image of the website"]
   }
 }

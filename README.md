@@ -1,6 +1,6 @@
 # QA-Furhat
 ## Docs
- [Project Overview](Documents/Project%20Overview.pdf) | [Product Requirements](Documents/Product%20requirements.pdf) | [Technical Details](Documents/Technical%20Details.pdf) | [Plan](Documents/Sprint%203%20Plan%20Document.pdf) 
+ [Project Overview](Documents/Project%20Overview.pdf) | [Product Requirements](Documents/Product%20requirements.pdf) | [Technical Details](Documents/Technical%20Details.pdf) | [Plan](Documents/Sprint Planning/Sprint 4 Plan Document.pdf) 
 
 ## File Guide
 [src](src/README.md) | [tests](tests/README.md) | [data_sample](data_sample/project_test_case.json)
@@ -16,7 +16,9 @@
   * [Goals](#goals)
   * [Scope](#scope)
 
-[Click here to watch Demo Video](https://www.youtube.com/watch?v=TUybeMc36Tc)
+[Click here to watch Demo Video of Sprint 2](https://www.youtube.com/watch?v=TUybeMc36Tc)
+
+[Click here to watch newest Demo Video of Sprint 3](https://www.youtube.com/watch?v=3pd7kKd3OR4)
 
 # Project Overview
 
