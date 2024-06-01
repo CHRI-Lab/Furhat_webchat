@@ -21,6 +21,28 @@ from langchain_core.prompts import PromptTemplate
 from furhat_remote_api import FurhatRemoteAPI
 import time
 
+import re
+import requests
+
+def is_valid_url(url):
+    # Regular expression to check URL format
+    regex = re.compile(
+        r'^(?:http|ftp)s?://' # http:// or https://
+        r'(?:(?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+(?:[A-Z]{2,6}\.?|[A-Z0-9-]{2,}\.?)|' # Domain
+        r'localhost|' # localhost
+        r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}|' # IPv4 Address
+        r'\[?[A-F0-9]*:[A-F0-9:]+\]?)' # IPv6 Address
+        r'(?::\d+)?' # Port number
+        r'(?:/?|[/?]\S+)$', re.IGNORECASE)
+    return re.match(regex, url) is not None
+
+def check_url(url):
+    try:
+        response = requests.head(url, allow_redirects=True, timeout=5)
+        return response.status_code == 200
+    except requests.RequestException:
+        return False
+
 def judge_type(question):
     judge_type_prompt="""
                     You need to determine the type of question based on the user question. 
@@ -184,6 +206,22 @@ def listen_to_user():
 
     return result.message
 
+def url_input():
+    while True:
+        url = input("Please enter a URL (or type 'exit' to quit): ")
+        if url.lower() == 'exit':
+            print("Program exited")
+            break
+        if is_valid_url(url):
+            if check_url(url):
+                print(f"URL is valid: {url}")
+                break
+            else:
+                print("URL is not accessible, please try again")
+        else:
+            print("Invalid URL format, please try again")
+    return url
+
 if __name__ == '__main__':
     '''furhat remote api'''
     furhat = FurhatRemoteAPI("localhost")
@@ -192,7 +230,8 @@ if __name__ == '__main__':
     load_dotenv(find_dotenv())
     llm = ChatOpenAI(model="gpt-4o",temperature=0)
 
-    url = 'https://melbconnect.com.au' # website url
+    url = url_input() # website url
+    print("Reading information from website...")
     image_path = 'test/images' #path to save the image extracted, it will automatically created if not exist.
 
     # '''get text from url'''
