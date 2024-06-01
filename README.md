@@ -23,6 +23,8 @@
 # Project Overview
 
 This project aims to create an innovative Q&A platform using a Furhat robot, driven by the need for a specialized and interactive information resource. The platform leverages web scraping and advanced language processing to build a robot that acts as a dynamic and intelligent receptionist.
+### Deployment Issue
+This is a project creating skills for furhat robot sdk, so we cannot deploy it on url. As client required, we will post all our code on CHRI-Lab github.
 
 ## Background
 
