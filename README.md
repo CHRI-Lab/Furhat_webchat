@@ -16,6 +16,8 @@
   * [Goals](#goals)
   * [Scope](#scope)
 
+[Click here to watch Project Video](https://youtu.be/93wi30PJB9A)
+
 [Click here to watch Demo Video of Sprint 2](https://www.youtube.com/watch?v=TUybeMc36Tc)
 
 [Click here to watch newest Demo Video of Sprint 3](https://www.youtube.com/watch?v=3pd7kKd3OR4)
