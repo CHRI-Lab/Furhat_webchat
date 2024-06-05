@@ -32,6 +32,12 @@ This is a project creating skills for furhat robot sdk, so we cannot deploy it o
 
 The initiative is driven by the need for a specialized and interactive information resource that leverages vast data from websites like Melbourne Connect or CIS. The core idea is to harness web scraping and advanced language processing to create a robot that serves as both an information source and a dynamic receptionist.
 
+## Project Structure
+- QA-Koala/
+  - data_sample/ -- test data
+  - Documents/ -- All the documents include handover page for development.
+  - src/ -- Source Code, follow the instruction in [README.md](src/README.md) in src.
+  - tests/ -- RAG reliable test
 ## Phases
 
 - **Data Collection and Preparation:** Web scraping to build a knowledge foundation.
@@ -60,11 +66,13 @@ Develop a domain-specific Q&A system integrating advanced language models with r
 
 To advance AI and robotics integration, creating a seamless and natural human-robot interaction system.
 
-## Goals
+## Functionality
+![Alt text](./src/images/Structure%20of%20proj.png)
 
-- Successfully scrape and utilize website data.
-- Develop a domain-specific LLM.
-- Integrate the LLM with the Furhat robot, creating a sophisticated Q&A and receptionist platform.
+- Scrape and utilize website data include text and image.
+- Retrieve question-related text and image.
+- Answer the question based on the retrieved context and image.
+- Our code are integrated with furhat robot, you could access its functionality through furhat SDK.
 
 ## Scope
 
