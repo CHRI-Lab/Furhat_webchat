@@ -9,11 +9,13 @@
 
 - [Project Overview](#project-overview)
   * [Background](#background)
+  * [Project Structure](#project-structure)
   * [Phases](#phases)
   * [Team Roles](#team-roles)
+  * [Task Tracking](#task-tracking)
   * [Client Goals](#client-goals)
   * [Motivation](#motivation)
-  * [Goals](#goals)
+  * [Functionality](#functionality)
   * [Scope](#scope)
 
 [Click here to watch Project Video](https://youtu.be/93wi30PJB9A)
