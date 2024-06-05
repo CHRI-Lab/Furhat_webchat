@@ -17,9 +17,9 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from typing import Dict
 from langchain_core.runnables import RunnablePassthrough
 
-key = os.getenv('OPENAI_API_KEY')
-openai.api_key = key
-os.environ["OPENAI_API_KEY"] = key
+# key = os.getenv('OPENAI_API_KEY')
+# openai.api_key = key
+# os.environ["OPENAI_API_KEY"] = key
 
 # Loader
 # loader = WebBaseLoader("https://melbconnect.com.au/about")
