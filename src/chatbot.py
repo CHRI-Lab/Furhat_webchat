@@ -21,6 +21,7 @@ from langchain_core.runnables import RunnablePassthrough
 openai.api_key = "EMPTY"
 os.environ["OPENAI_API_KEY"] = openai.api_key
 
+
 # Loader
 # loader = WebBaseLoader("https://melbconnect.com.au/about")
 # data = loader.load()

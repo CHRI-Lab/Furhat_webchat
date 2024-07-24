@@ -75,7 +75,7 @@ def save_images(image_urls, path):
                 f.write(response.content)
             image_ls.append(filepath)
         else:
-            print(f"Cannot download the {filename}.")
+            print("Cannot download the ", filename)
     return image_ls
 
 def load_images(path):
@@ -206,6 +206,25 @@ def listen_to_user():
 
     return result.message
 
+def subject_input(root_path):
+    while True:
+        sub = input("Please enter a Subject (or type 'exit' to quit): ")
+        url = root_path+'/'+sub
+        if url.lower() == 'exit':
+            print("Program exited")
+            break
+        if is_valid_url(url):
+            if check_url(url):
+                print(f"URL is valid: {url}")
+                break
+            else:
+                print("URL is not accessible, please try again")
+        else:
+            print("Invalid URL format, please try again")
+    return url
+    return url
+
+
 def url_input():
     while True:
         url = input("Please enter a URL (or type 'exit' to quit): ")
@@ -226,16 +245,33 @@ if __name__ == '__main__':
     '''furhat remote api'''
     furhat = FurhatRemoteAPI("localhost")
 
+
+
+    url_handbook_base = "https://handbook.unimelb.edu.au/2024/subjects"
+    suffixes = ["eligibility-and-requirements","assessment","dates-times","further-information"]
+
     '''init'''
     load_dotenv(find_dotenv())
     llm = ChatOpenAI(model="gpt-4o",temperature=0)
-
-    url = url_input() # website url
+    print("did read url")
+    #url = url_input() # website url
+    url = subject_input(url_handbook_base)
     print("Reading information from website...")
     image_path = 'test/images' #path to save the image extracted, it will automatically created if not exist.
 
     # '''get text from url'''
+    ######TODO make handbook specific and be able to ask a subject and sparse info
+    
+    
+
+    
     text_document = url_to_text(url)
+    for s in suffixes:
+        path = url+"/"+s
+        print(path)
+        td = url_to_text(path)
+        text_document[0].page_content += td[0].page_content
+    #print(text_document)
     # '''get image from url'''
     image_urls = get_image_urls(url)
     image_ls = save_images(image_urls,image_path)
